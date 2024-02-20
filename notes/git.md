@@ -4,7 +4,8 @@ description: "A popular distributed version control system"
 ---
 
 [Git](https://git-scm.com/) is a version control system.
-It is used for the [digital garden](digital-garden) to keep track of changes and preserve history.
+It is used for the [digital garden](digital-garden)
+to keep track of changes and preserve history.
 It also allows for accessible collaboration.
 Install Git by executing the following command:
 
