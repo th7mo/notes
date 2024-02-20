@@ -12,8 +12,6 @@ A submodule directory is like any other repository.
 This means that all files of the submodule directory
 exist on a file-system and are managed by Git. 
 
-test
-
 Create a submodule with the `git submodule` command:
 
 ```sh
@@ -25,3 +23,32 @@ the root directory of the project.
 This file lists all the submodules in the current project.
 The command also creates a path in the `.git/{path_name}` directory.
 As last this command clones the dependency repository at `{path-name}`.
+
+If a change is made in the submodule repository,
+the dependent repository can include that change by rebasing
+the new [commit](commit) in the local instance of the submodule and making
+a new commit afterward.
+
+First navigate to the submodule and check if new changes are made:
+
+```sh
+cd {path-of-submodule}
+git fetch
+```
+
+Then [rebase](rebase) the changes on top of the local [branch](branch):
+
+```sh
+git rebase origin/main
+```
+
+After rebasing make a commit in the dependent repository[^1]:
+
+```sh
+cd ..
+cd $(git root)
+git commit -m "{commit-message}"
+git push origin main
+```
+
+[^1]: See the [git root](git-root) command for how to quickly navigate to the root of the current repository. 
