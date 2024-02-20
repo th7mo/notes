@@ -12,6 +12,8 @@ A submodule directory is like any other repository.
 This means that all files of the submodule directory
 exist on a file-system and are managed by Git. 
 
+test
+
 Create a submodule with the `git submodule` command:
 
 ```sh
