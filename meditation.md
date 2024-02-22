@@ -21,5 +21,6 @@ our bodies to be more concentrated on other senses.
 Some people meditate for multiple hours a day,
 but I experience that 10 minutes a day can
 make a huge impact on mental clarity.
+It also improves my memory significantly.
 
 [^1]: Explained by Rick Rubin on [YouTube](https://www.youtube.com/watch?v=lHUQKzIqpr8).
