@@ -37,26 +37,27 @@ These ingredients are sufficient for 4 portions:
 ## Protein shake (chocolate)
 These ingredients are sufficient for 1 portion:
 
-* 150ml vla
+* 100ml vla
 * 150ml yoghurt
-* 150ml milk
+* 200ml milk
 * 2 scoops chocolate protein powder (Weight Gainer)
+* 1 scoop vanilla protein powder (regular)
 
-1. Put the milk in the blender.
-2. Add 2 scoops of protein powder.
-3. Add the vla.
-4. Add 4 scoops of protein powder
-5. Add the yoghurt.
-6. Blend for around 60 seconds.
-7. Stir with a spoon and blend again for around 60 seconds.
+## Protein shake vanilla weight gainer
+These ingredients are sufficient for 1 portion:
+
+* 100ml vla
+* 150ml yoghurt
+* 200ml milk
+* 1 scoop vanilla protein powder (Weight Gainer)
+* 1.5 scoop vanilla protein powder (regular)
 
 ## Thai wok with rice
-These ingredients are sufficient for 2 portions:
-* 500g/600g chicken
-* 400g Thai wok-vegetables 
-* 250g brown rice
+These ingredients are sufficient for 1 portions:
+* 300g chicken
+* 200g Thai wok-vegetables 
+* 125g brown rice
 * 30g/50g Cashew nuts
-* 10g fried onions
 * sweet sour wok sauce
 
 1. Put the chicken with wok oil into a wok pan.
