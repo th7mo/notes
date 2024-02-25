@@ -43,7 +43,7 @@ These ingredients are sufficient for 1 portion:
 * 2 scoops chocolate protein powder (Weight Gainer)
 * 1 scoop vanilla protein powder (regular)
 
-## Protein shake vanilla weight gainer
+## Protein shake (vanilla)
 These ingredients are sufficient for 1 portion:
 
 * 100ml vla
