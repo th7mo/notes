@@ -53,3 +53,6 @@ Otherwise, when running Xorg as a desktop environment, make sure to install `xcl
 ```sh
 sudo apt install xclip
 ```
+
+## Commands
+* Helix can sort the current selection by running `:pipe sort` (see [this helix issue](https://github.com/helix-editor/helix/issues/2865))
