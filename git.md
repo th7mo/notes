@@ -28,6 +28,13 @@ Do not [squash](squash) commits or merge a pull request using the squash strateg
 unless the commit messages are not providing any useful information.
 It is always better to leave as much history as possible for later debugging of code.
 
+## Other commands
+Remove all references to remote branches that do not exist on the remote anymore:
+
+```sh
+git remote prune origin
+```
+
 ## See also
 * A [Reddit thread](https://www.reddit.com/r/git/comments/wwapum/comment/ilkdpzv/) about worktrees.
 * A [Medium article](https://medium.com/ngconf/git-worktrees-in-use-f4e516512feb) about worktrees.
