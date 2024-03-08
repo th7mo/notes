@@ -35,6 +35,14 @@ Remove all references to remote branches that do not exist on the remote anymore
 git remote prune origin
 ```
 
+Switch to the previously checked-out branch:
+
+```sh
+git switch -
+```
+
+This works the same as `cd -`, but for Git branches.
+
 ## See also
 * A [Reddit thread](https://www.reddit.com/r/git/comments/wwapum/comment/ilkdpzv/) about worktrees.
 * A [Medium article](https://medium.com/ngconf/git-worktrees-in-use-f4e516512feb) about worktrees.
