@@ -17,21 +17,22 @@
 
 ## To-do
 ### Year 2
-* 3 IPRWC (programmeren in een webcontext)
-* 3 ILG1 (Logica)
-* 30 IWLST (Stage)
+* 3EC IPRWC (programmeren in een webcontext)
+* 3EC ILG1 (Logica)
 
 ### Year 3
-* 9 IPSENH (hoofdfase)
-* 3 ICPT (concepten in programmeertalen)
-* 3 ITSTEN (testen van software)
-* 3 ISECU (IT Security)
-* 3 ISPV (Studieloopbaan hoofdfase)
-* 3 ITORGA (Inleiding organisatiekunde)
+* 30EC IWLST (Stage)
+* 9EC IPSENH (hoofdfase)
+* 3EC ICPT (concepten in programmeertalen)
+* 3EC ITSTEN (testen van software)
+* 3EC ISECU (IT Security)
+* 3EC ISPV (Studieloopbaan hoofdfase)
+* 3EC ITORGA (Inleiding organisatiekunde)
 
 ### Year 4
-* 30 Minor
-* 30 Afstudeerstage
+* 30EC Minor
+* 30EC Afstudeerstage
 
-### 4x Keuzevakken
-* 12 IK()
+### 2x Keuzevakken
+* 5EC Keuzevak 1
+* 5EC Keuzevak 2
