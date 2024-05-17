@@ -24,7 +24,9 @@ Automatic
 MSCHAPv2
 
 **Username**:
-full email address (example: s123456789@student.hsleiden.nl)
+full email address
+
+(example: s123456789@student.hsleiden.nl)
 
 **Password**:
 regular password
