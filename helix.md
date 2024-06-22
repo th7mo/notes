@@ -1,6 +1,7 @@
 ---
 title: "Helix"
 description: "A post-modern modal text editor"
+isPublic: true
 ---
 
 Helix is a text editor run in the terminal.

@@ -1,6 +1,7 @@
 ---
 title: "Markdown"
 description: "The human-friendly markup language"
+isPublic: true
 ---
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language

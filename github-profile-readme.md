@@ -1,6 +1,7 @@
 ---
 title: "GitHub profile README"
 description: "The GitHub profile README repository"
+isPublic: true
 ---
 
 [GitHub](https://github.com) allows for a special repository.

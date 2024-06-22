@@ -1,6 +1,7 @@
 ---
 title: "Zsh"
 description: "An extended Bourne shell with many improvements"
+isPublic: true
 ---
 
 The Z shell, also known as Zsh,

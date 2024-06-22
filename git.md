@@ -1,6 +1,7 @@
 ---
 title: "Git"
 description: "A popular distributed version control system"
+isPublic: true
 ---
 
 [Git](https://git-scm.com/) is a version control system.

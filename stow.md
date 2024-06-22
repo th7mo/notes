@@ -1,6 +1,7 @@
 ---
 title: "Stow"
 description: "A symlink farm manager for managing dotfiles"
+isPublic: true
 ---
 
 [GNU Stow](https://www.gnu.org/software/stow/) is a utility that simplifies

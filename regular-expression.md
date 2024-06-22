@@ -1,6 +1,7 @@
 ---
 title: "Regular expression"
 description: "Searching text with match patterns"
+isPublic: true
 ---
 
 A regular expression (or regex) is a match pattern. They allow

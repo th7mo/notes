@@ -1,6 +1,7 @@
 ---
 title: "Submodule"
 description: "Git repostitories as a dependency"
+isPublic: true
 ---
 
 A [Git](git) submodule is a repository inside another repository.

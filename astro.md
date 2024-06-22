@@ -1,6 +1,7 @@
 ---
 title: "Astro"
 description: "The web framework for content-driven websites"
+isPublic: true
 ---
 
 [Astro](https://astro.build/) is a frontend framework for content-first websites.

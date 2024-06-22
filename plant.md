@@ -1,6 +1,7 @@
 ---
 title: "Plant"
 description: "The most atomic building block of a digital garden"
+isPublic: true
 ---
 
 The [digital garden](digital-garden) is composed of plants. A plant

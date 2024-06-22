@@ -1,6 +1,7 @@
 ---
 title: "Footnote"
 description: "How to create footnotes in HTML"
+isPublic: true
 ---
 
 Footnote references are links in superscript.

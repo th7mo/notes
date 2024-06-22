@@ -1,6 +1,7 @@
 ---
 title: "tmux"
 description: "An open source terminal multiplexer"
+isPublic: true
 ---
 
 [Tmux](https://github.com/tmux/tmux) is a terminal multiplexer. It is

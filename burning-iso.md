@@ -1,6 +1,7 @@
 ---
 title: "Burning ISO"
 description: "Burning an ISO image to a USB device"
+isPublic: true
 ---
 
 The `dd` command can be used to burn an ISO image to a USB device:

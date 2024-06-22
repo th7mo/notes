@@ -1,16 +1,17 @@
 ---
 title: "Wikilink"
 description: "A bidirectional link between two resources"
+isPublic: true
 ---
 
 A wikilink is a [bidirectional link](https://maggieappleton.com/bidirectionals)
-from one article to another article.
-[Obsidian](obsidian) and [Wikipedia](https://www.wikipedia.org/)
-use wikilinks to link their resources to each other.
+from one article to another article. [Obsidian](obsidian) and [Wikipedia]
+(https://www.wikipedia.org/) use wikilinks to link their resources to each
+other.
 
 ## Link to an article
-A wikilink is created by enclosing the name of an article by double
-square brackets:
+A wikilink is created by enclosing the name of an article by double square
+brackets:
 
 ```md
 [[{name-of-article}]]

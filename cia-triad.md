@@ -1,8 +1,10 @@
 ---
 title: "CIA triad"
 description: "A security model design to protect information"
+isPublic: true
 ---
 
+The CIA triad is a security model designed to protect (digital) information.
 CIA stands for:
 
 * Confidentiality

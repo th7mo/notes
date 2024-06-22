@@ -1,6 +1,7 @@
 ---
 title: "Git identities"
 description: "Managing multiple Git identities"
+isPublic: true
 ---
 
 When having a personal and a work identity for [Git](git) there is

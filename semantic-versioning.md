@@ -1,6 +1,7 @@
 ---
 title: "Semantic versioning"
 description: "How to version API's and public software"
+isPublic: true
 ---
 
 Version software when publishing changes.

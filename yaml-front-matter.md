@@ -1,6 +1,7 @@
 ---
 title: "YAML front matter"
 description: "Metadata about Markdown files"
+isPublic: true
 ---
 
 A [Markdown](markdown) file can have YAML front matter. YAML front

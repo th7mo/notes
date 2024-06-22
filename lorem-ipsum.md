@@ -1,6 +1,7 @@
 ---
 title: "Lorem ipsum"
 description: "The sandbox page for th7mo.com"
+isPublic: true
 ---
 
 It is used for the [digital garden](digital-garden) to stress-test

@@ -1,6 +1,7 @@
 ---
 title: "Vercel"
 description: "Build, scale, and secure a faster, personalized web."
+isPublic: true
 ---
 
 [Vercel](https://vercel.com/) is a platform for deploying frontend applications.

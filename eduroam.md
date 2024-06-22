@@ -1,6 +1,7 @@
 ---
 title: "Eduroam"
 description: "How to connect to eduroam inside Hogeschool Leiden"
+isPublic: true
 ---
 
 ## Linux

@@ -1,6 +1,7 @@
 ---
 title: "TTY"
 description: "The default Linux terminal"
+isPublic: true
 ---
 
 When a Linux desktop environment does not work, Linux falls back to the

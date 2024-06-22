@@ -1,6 +1,7 @@
 ---
 title: "Rebase"
 description: "A linear strategy to merge Git branches"
+isPublic: true
 ---
 
 A [Git](git) rebase adds one or multiple [commits](commit)

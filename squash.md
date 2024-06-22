@@ -1,6 +1,7 @@
 ---
 title: "Squash"
 description: "Merging multiple commits"
+isPublic: true
 ---
 
 Squashing [commits](commit) is a technique used in [Git](git)

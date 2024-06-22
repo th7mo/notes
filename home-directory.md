@@ -1,6 +1,7 @@
 ---
 title: "Home directory"
 description: "A special directory on a file-system"
+isPublic: true
 ---
 
 The home directory of a regular user is found at `/home/{username}/`,

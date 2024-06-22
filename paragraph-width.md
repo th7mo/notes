@@ -1,6 +1,7 @@
 ---
 title: "Paragraph width"
 description: "How long text paragraphs should be"
+isPublic: true
 ---
 
 Paragraphs should be in between 50 and 70 characters of

@@ -1,6 +1,7 @@
 ---
 title: "Recipe book"
 description: "A collection of all my recipes"
+isPublic: false
 ---
 
 This is my recipe book. The recipes are in alphabetical order for easy

@@ -1,6 +1,7 @@
 ---
 title: "Worktree"
 description: "A Git feature for checking out branches without stashing or popping changes"
+isPublic: true
 ---
 
 [Git](git) worktrees make [branches](branch) directories at the root of the repository.

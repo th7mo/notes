@@ -1,6 +1,7 @@
 ---
 title: "Oh My Zsh"
 description: "A framework for managing Zsh configuration"
+isPublic: true
 ---
 
 A popular framework for managing [Zsh](zsh) configuration is

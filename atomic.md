@@ -1,6 +1,7 @@
 ---
 title: "Atomic"
 description: "The smallest basic block of matter"
+isPublic: true
 ---
 
 When something is atomic, it cannot be broken into smaller pieces.
