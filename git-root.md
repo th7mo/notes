@@ -1,6 +1,6 @@
 ---
 title: "Git Root"
-description: "alias for Git root path"
+description: "Alias for Git root path"
 isPublic: true
 ---
 
