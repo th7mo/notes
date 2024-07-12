@@ -1,6 +1,7 @@
 ---
 title: "Encryption"
 description: "Encoding information to prevent unauthorized access"
+isPublic: true
 ---
 
 Amount of keys:
