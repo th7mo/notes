@@ -7,9 +7,9 @@ isPublic: true
 [Obsidian](https://obsidian.md/) is a note-taking program. Notes created in
 Obsidian use the [Markdown](markdown) format. The Obsidian way of note-taking
 stimulates to link notes together and keep notes [atomic](atomic); a single
-topic/concept per note. The default way to link notes is using [wikilinks]
-(wikilink). It is also possible to configure Obsidian to use regular Markdown
-links.
+topic/concept per note. The default way to link notes is using
+[wikilinks](wikilink). It is also possible to configure Obsidian to use regular
+Markdown links.
 
 A project inside Obsidian is called a vault. A vault is just a directory inside
 a file system. Obsidian stores all its data in the hidden `.obsidian/` directory
