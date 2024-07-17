@@ -9,72 +9,72 @@ Pioneer DJ hardware.
 
 ## Personal preferences
 ### View > Display Type
-* **Coloring of played tracks**
+* **Coloring of played tracks**:
   `[YES]` Reset color when exiting rekordbox
 
-* **Key display format**
+* **Key display format**:
   Alphanumeric
 
-* **Waveform Drawing Rate**
+* **Waveform Drawing Rate**:
   High Speed
 
-* **Full/Preview Waveform**
+* **Full/Preview Waveform**:
   Half Waveform
 
-* **Beat Count Display**
+* **Beat Count Display**:
   Current Position (Bars)
 
 ### View > Layout
-**Effect Panel**
-BEAT FX + SOUND COLOR FX
+* **Effect Panel**:
+  BEAT FX + SOUND COLOR FX
 
-**Enlarged Waveform**
-Auto
+* **Enlarged Waveform**:
+  Auto
 
 ### View > Color
-**Waveform color**
-3Band
+* **Waveform color**:
+  3Band
 
 ### Audio
-**Audio**
-(DDJ-400)
+* **Audio**:
+  (DDJ-400)
 
-**Sample Rate**
-44100Hz
+* **Sample Rate**:
+  44100Hz
 
-**Buffer size**
-256 samples (5.8ms)
+* **Buffer size**:
+  256 samples (5.8ms)
 
-**Volume**
-Middle
+* **Volume**:
+  Middle
 
 ### Controller > Deck
-**Eject/Load Lock**
-Lock
+* **Eject/Load Lock**:
+  Lock
 
-**Needle Lock**
-Lock
+* **Needle Lock**:
+  Lock
 
-**Memory Cue Call Lock**
-Lock
+* **Memory Cue Call Lock**:
+  Lock
 
-**Load**
-* `[YES]` Playback starts at Memory/Hot Cue nearest to the beginning of the track
-* `[YES]` Instant Doubles
+* **Load**:
+  * `[YES]` Playback starts at Memory/Hot Cue nearest to the beginning of the track
+  * `[YES]` Instant Doubles
 
 **JOG Rotation Speed**
 33rpm
 
 ### Controller > Mixer
-**Auto Gain**
-* `[YES]` Enable
+* **Auto Gain**:
+  * `[YES]` Enable
 
-**EQ/ISOLATOR**
-ISOLATOR
+* **EQ/ISOLATOR**:
+  ISOLATOR
 
-**EQ Type**
-DJM-900NXS2
+* **EQ Type**:
+  DJM-900NXS2
 
 <!-- I might want to experience with this setting a bit more -->
-**Channel Fader Curve**
-Linear Curve
+* **Channel Fader Curve**:
+  Linear Curve
