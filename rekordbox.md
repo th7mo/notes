@@ -1,11 +1,11 @@
 ---
 title: "Rekordbox"
-description: "DJ Software"
+description: "DJ Software for Pioneer DJ"
 isPublic: true
 ---
 
-[Rekordbox](https://rekordbox.com) is popular DJ software used by almost all
-Pioneer DJ hardware.
+[Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ
+hardware.
 
 ## Personal preferences
 ### View > Display Type
