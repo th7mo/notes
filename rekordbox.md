@@ -9,20 +9,20 @@ Pioneer DJ hardware.
 
 ## Personal preferences
 ### View > Display Type
-**Coloring of played tracks**
-Reset color when exiting rekordbox: Yes
+* **Coloring of played tracks**
+  `[YES]` Reset color when exiting rekordbox
 
-**Key display format**
-Alphanumeric
+* **Key display format**
+  Alphanumeric
 
-**Waveform Drawing Rate**
-High Speed
+* **Waveform Drawing Rate**
+  High Speed
 
-**Full/Preview Waveform**
-Half Waveform
+* **Full/Preview Waveform**
+  Half Waveform
 
-**Beat Count Display**
-Current Position (Bars)
+* **Beat Count Display**
+  Current Position (Bars)
 
 ### View > Layout
 **Effect Panel**
