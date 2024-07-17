@@ -10,7 +10,7 @@ Pioneer DJ hardware.
 ## Personal preferences
 ### View > Display Type
 * **Coloring of played tracks**:
-  `[YES]` Reset color when exiting rekordbox
+  * `[YES]` Reset color when exiting rekordbox
 * **Key display format**:
   Alphanumeric
 * **Waveform Drawing Rate**:
@@ -19,6 +19,8 @@ Pioneer DJ hardware.
   Half Waveform
 * **Beat Count Display**:
   Current Position (Bars)
+* **Switch JOG Display**:
+  Current CUE/SLIP
 
 ### View > Layout
 * **Effect Panel**:
@@ -30,7 +32,7 @@ Pioneer DJ hardware.
 * **Waveform color**:
   3Band
 
-### Audio
+### Audio > Configuration
 * **Audio**:
   (DDJ-400)
 * **Sample Rate**:
@@ -60,6 +62,5 @@ Pioneer DJ hardware.
   ISOLATOR
 * **EQ Type**:
   DJM-900NXS2
-<!-- I might want to experience with this setting a bit more -->
 * **Channel Fader Curve**:
   Linear Curve
