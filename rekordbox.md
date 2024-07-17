@@ -7,6 +7,10 @@ isPublic: true
 [Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ
 hardware.
 
+## Mixing in key
+[WIP: Explain how to set alphanumeric keys in rekordbox]
+[WIP: Explain how alphanumeric keys work in different note]
+
 ## Personal preferences
 ### View > Display Type
 * **Coloring of played tracks**:
