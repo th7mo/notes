@@ -54,15 +54,16 @@ These ingredients are sufficient for 1 portion:
 * 1.5 scoop vanilla protein powder (regular)
 
 ## Thai wok with rice
-These ingredients are sufficient for 1 portions:
+These ingredients are sufficient for 1 portion:
 * 300g chicken
-* 200g Thai wok-vegetables 
-* 125g brown rice
+* 200g Thai wok-vegetables
+* 125g White or brown rice
 * 30g/50g Cashew nuts
-* sweet sour wok sauce
+* Sweet sour wok sauce
 
 1. Put the chicken with wok oil into a wok pan.
 2. Cook the rice in another pan for 8 minutes.
 3. Cook the chicken 4 minutes.
-4. Add the wok-vegetables in the wok pan with chicken.
+4. Add the wok-vegetables in the wok pan with chicken and optionally add some
+   salt.
 5. Cook the chicken with vegetables and sweet sour sauce for another 4 minutes.
