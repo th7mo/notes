@@ -1,9 +1,13 @@
-# The perfect way to manage music libraries
+---
+title: "Music tagging"
+description: "The perfect way to manage music libraries"
+isPublic: false
+---
 
-*Compose* playlists from tags.
-Tags are requirements for a song to be listed.
-If no tags are specified all songs in the library will match because there are no requirements.
-If you want to make every song require to be tagged as `#house` listed:
+*Compose* playlists from tags. Tags are requirements for a song to be listed.
+If no tags are specified all songs in the library will match because there are
+no requirements. If you want to make every song require to be tagged as `#house`
+listed:
 
 ```
 #house
@@ -28,6 +32,5 @@ If you want all underground hip hop except slow underground hip hop, and dark ho
 ```
 
 ## Tags
-
 Emotion: `#dark` `#`
-Genre:   `#trance` `#house` `#underground` `#conscious`
+Genre: `#trance` `#house` `#underground` `#conscious`

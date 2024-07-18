@@ -1,3 +1,9 @@
+---
+title: "School subjects"
+description: "How I want to finish my school :)"
+isPublic: false
+---
+
 ## Planning
 ### 2023-2024
 * P1: Stage
