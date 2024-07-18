@@ -53,7 +53,7 @@ Without the `listen` for **both IP protocols** certbot **can not** generate SSL 
 ### Redirecting subdomains
 One of the most common use cases for redirecting subdomains is the `www` subdomain. Firstly make sure proper DNS configuration is set up for the subdomain. The `if` statement is used to check and to redirect subdomains:
 
-```
+```ini
 server {
     server_name th7mo.com www.th7mo.com ;
     if ($host = www.th7mo.com) {
@@ -81,7 +81,7 @@ Only when a symbolic link is present in the `sites-enabled/` directory NGINX act
 ## Load changes
 Every time the configuration for NGINX changes, NGINX needs to be restarted for changes to take effect. Run `nginx -t` to verify if the configuration file is correct according to NGINX. If the configuration is correct, execute the following command to restart NGINX:
 
-```
+```sh
 sudo systemctl restart nginx
 ```
 
