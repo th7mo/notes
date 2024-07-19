@@ -35,10 +35,10 @@ a [href^="#footnote-"]::after {
 Below the main content the footnotes can be listed in an ordered list:
 
 ```html
-    <!-- main content -->
-    <hr>
-    <ol>
-        <li id="footnote-1">A footnote explanation.</li>
-        <li id="footnote-2">Another footnote explanation.</li>
-    </ol>
+<!-- main content -->
+<hr>
+<ol>
+    <li id="footnote-1">A footnote explanation.</li>
+    <li id="footnote-2">Another footnote explanation.</li>
+</ol>
 ```
