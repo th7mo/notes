@@ -4,9 +4,9 @@ description: "How to create footnotes in HTML"
 isPublic: true
 ---
 
-Footnote references are links in superscript.
-Footnotes references can be created in HTML with the `<a>` tag wrapped
-inside the `<sup>` tag to make the footnote float at the top of the line:
+Footnote references are links in superscript. Footnotes references can be
+created in HTML with the `<a>` tag wrapped inside the `<sup>` tag to make the
+footnote float at the top of the line:
 
 ```html
 <p>
@@ -14,9 +14,9 @@ inside the `<sup>` tag to make the footnote float at the top of the line:
 </p>
 ```
 
-In this example the footnote with id `footnote-1` is linked.
-It is recommended to enforce a standard prefix for footnotes
-to distinct footnotes from regular links in [CSS](css):
+In this example the footnote with id `footnote-1` is linked. It is recommended
+to enforce a standard prefix for footnotes to distinct footnotes from regular
+links in [CSS](css):
 
 ```css
 a[href^="#footnote-"] {
