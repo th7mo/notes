@@ -1,5 +1,5 @@
 ---
-title: "Sync submodule"
+title: "Syncing submodule"
 description: "Using GitHub Actions to automatically sync submodule commits"
 isPublic: true
 ---
@@ -44,6 +44,6 @@ jobs:
 Before this works a few things are required:
 
 * Replace `<user-name>` and `<repo-name>` with the correct values.
-* Create a Personal Access Token with write rights to the parent repository.
-* Create a repository secret with the name `PRIVATE_TOKEN_GITHUB` with the
-  Personal Access Token as its value.
+* Create a Personal Access Token with write rights to the *parent* repository.
+* Create a repository secret for the *submodule* repository with the name
+  `PRIVATE_TOKEN_GITHUB` with the Personal Access Token as its value.

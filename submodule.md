@@ -42,6 +42,9 @@ git rebase origin/main
 
 After rebasing make a commit in the dependent repository[^1]:
 
+[^1]: See the [git root](git-root) command for how to quickly navigate to the
+root of the current repository.
+
 ```sh
 cd ..
 cd $(git root)
@@ -55,5 +58,6 @@ reference to a new hash. The `package.json` configuration can be used to create
 a new custom `script` like `npm run update`. With this strategy it should never
 be needed to modify any code in the submodule.
 
-[^1]: See the [git root](git-root) command for how to quickly navigate to the
-root of the current repository.
+## Syncing submodules
+See [syncing submodule](syncing-submodule) for how to automatically sync
+submodule commits to the parent repository.
