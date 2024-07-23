@@ -24,8 +24,9 @@ format /FS:FAT32 {disk-label}
 
 * `{disk-label}` is the letter and `:` of the disk (example: `D:`)
 
-Alternatively `Guiformat` can be used to format disks larger than 32 GB to
-FAT32.
+Alternatively [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) can be
+used to format disks larger than 32 GB to FAT32. I've had more success with this
+tool than with the PowerShell workaround.
 
 ## Personal preferences
 ### View > Display Type
