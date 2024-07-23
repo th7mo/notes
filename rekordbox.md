@@ -11,6 +11,22 @@ hardware.
 [WIP: Explain how to set alphanumeric keys in rekordbox]
 [WIP: Explain how alphanumeric keys work in different note]
 
+## USB drive format
+It is recommended to format USB drives to FAT32. This format is preferred
+because the most DJ equipment is compatible with FAT32. The Disk Management
+inside Windows can't format disks larger than 32 GB to FAT32. To work around
+this open PowerShell with administrator access and execute the following
+command:
+
+```ps
+format /FS:FAT32 {disk-label}
+```
+
+* `{disk-label}` is the letter and `:` of the disk (example: `D:`)
+
+Alternatively `Guiformat` can be used to format disks larger than 32 GB to
+FAT32.
+
 ## Personal preferences
 ### View > Display Type
 * **Coloring of played tracks**:
