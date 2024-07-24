@@ -15,18 +15,19 @@ hardware.
 It is recommended to format USB drives to FAT32. This format is preferred
 because the most DJ equipment is compatible with FAT32. The Disk Management
 inside Windows can't format disks larger than 32 GB to FAT32. To work around
-this open PowerShell with administrator access and execute the following
-command:
+this [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) can be used to
+format disks larger than 32 GB to FAT32.
+
+Alternatively open PowerShell with administrator access and execute the
+following command[^1]:
+
+[^1]: I've had more success with this tool than with the PowerShell workaround.
 
 ```ps
 format /FS:FAT32 {disk-label}
 ```
 
 * `{disk-label}` is the letter and `:` of the disk (example: `D:`)
-
-Alternatively [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) can be
-used to format disks larger than 32 GB to FAT32. I've had more success with this
-tool than with the PowerShell workaround.
 
 ## Personal preferences
 ### View > Display Type
