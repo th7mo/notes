@@ -5,7 +5,8 @@ isPublic: true
 ---
 
 [Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ
-hardware. This note is written for rekordbox version number `7.0.z`.
+hardware. This note is written for rekordbox
+[version number](semantic-versioning) `7.0.z`.
 
 ## Mixing in key
 * [WIP: Explain how to set alphanumeric keys in rekordbox]
