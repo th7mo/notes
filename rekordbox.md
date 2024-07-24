@@ -5,11 +5,32 @@ isPublic: true
 ---
 
 [Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ
-hardware.
+hardware. This note is written for rekordbox version number `7.0.z`.
 
 ## Mixing in key
-[WIP: Explain how to set alphanumeric keys in rekordbox]
-[WIP: Explain how alphanumeric keys work in different note]
+* [WIP: Explain how to set alphanumeric keys in rekordbox]
+* [WIP: Explain how alphanumeric keys work in different note]
+
+## Export mode
+Rekordbox has performance mode and export mode. Performance mode is for live
+mixing and export mode is for preparing tracks, playlists and sets. Put tracks
+in a playlist and click the sync button in the left bottom of the screen. If it
+is the first time using export mode, check the checkbox 'Synchronize Playlists
+With a Device' in the right top of the screen.
+
+To sync changes made with the DJ equipment (like new hot ques) click the 'Cue
+Grid Info' arrow pointing towards the 'Rekordbox' lane.
+
+Always properly eject the USB drive when finished with exporting to the USB
+drive because the data in the drive might corrupt if abruptly detached. To eject
+the USB drive go to 'Devices' in the file overview on the left bottom and click
+the 'Eject' icon.
+
+### Device Library (Plus)
+Rekordbox introduced Device Library Plus in version `6.8.1`. Pioneer DJ will use
+the new Device Library Plus format for new devices. It is possible to export
+to both Device Library and Device Library Plus format so the USB drive is
+compatible with all rekordbox powered devices/equipment.
 
 ## USB drive format
 It is recommended to format USB drives to FAT32. This format is preferred
@@ -21,7 +42,7 @@ format disks larger than 32 GB to FAT32.
 Alternatively open PowerShell with administrator access and execute the
 following command[^1]:
 
-[^1]: I've had more success with this tool than with the PowerShell workaround.
+[^1]: I've had more success with guiformat than with the PowerShell workaround.
 
 ```ps
 format /FS:FAT32 {disk-label}
