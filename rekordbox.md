@@ -14,12 +14,13 @@ hardware. This note is written for rekordbox version number `7.0.z`.
 ## Export mode
 Rekordbox has performance mode and export mode. Performance mode is for live
 mixing and export mode is for preparing tracks, playlists and sets. Put tracks
-in a playlist and click the sync button in the left bottom of the screen. If it
-is the first time using export mode, check the checkbox 'Synchronize Playlists
-With a Device' in the right top of the screen.
+in a playlist and click the sync manager button in the left bottom of the
+screen. In the new popup dialog playlists can be selected and exported to the
+desired USB drive. If it is the first time export mode is being used, check the
+checkbox 'Synchronize Playlists With a Device' in the right top of the dialog.
 
 To sync changes made with the DJ equipment (like new hot ques) click the 'Cue
-Grid Info' arrow pointing towards the 'Rekordbox' lane.
+Grid Info' arrow pointing towards the 'Rekordbox' column.
 
 Always properly eject the USB drive when finished with exporting to the USB
 drive because the data in the drive might corrupt if abruptly detached. To eject
