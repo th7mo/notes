@@ -4,9 +4,9 @@ description: "A practical manager for ssh-agent"
 isPublic: true
 ---
 
-[Keychain](https://www.funtoo.org/Funtoo:Keychain) can be used to add [SSH
-keys](ssh-key) to the ssh-agent. Keychain does not come pre-installed on most
-systems, so first install Keychain:
+[Keychain](https://www.funtoo.org/Funtoo:Keychain) can be used to add
+[SSH keys](ssh-key) to the ssh-agent. Keychain does not come pre-installed on
+most systems, so first install Keychain:
 
 ```sh
 sudo apt install keychain

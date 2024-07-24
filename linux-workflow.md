@@ -39,8 +39,8 @@ instances.
 
 ## Applications
 Prefer applications available in the Debian repository over anything else.
-When the Debian repository does not provide a specific application, a [Flatpak]
-(flatpak) packaged application is a good alternative.
+When the Debian repository does not provide a specific application, a
+[Flatpak](flatpak) packaged application is a good alternative.
 
 ## Shell
 I use [Zsh](zsh) as my shell. It makes it easier than [Bash](bash) to add custom

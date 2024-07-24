@@ -4,14 +4,14 @@ description: "The sandbox page for th7mo.com"
 isPublic: true
 ---
 
-It is used for the [digital garden](digital-garden) to stress-test
-its features in a sandbox environment. Lorem Ipsum is placeholder text
-for previewing layouts.
+It is used for this website to stress-test its features in a sandbox
+environment. Lorem Ipsum is placeholder text for previewing layouts.
 
 ## Inline formatting
-This is text that has *text with italics* and it has **text that is
-strong** and ***italic and strong*** and ***~~italic, strong and strikethrough~~***
-and `inline code` and ~~strikethrough~~ text and some<sup>sup</sup> text and some<sub>sub</sub> text.
+This is text that has *text with italics* and it has **text that is strong**
+and ***italic and strong*** and ***~~italic, strong and strikethrough~~***
+and `inline code` and ~~strikethrough~~ text and some<sup>sup</sup> text and
+some<sub>sub</sub> text.
 
 #### Links
 [External Link](https://google.com) and [internal link](plant) and

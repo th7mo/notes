@@ -22,9 +22,9 @@ Refer to the [Flatpak website](https://flatpak.org/) for how to install
 applications using Flatpak.
 
 ## Make application launchers find Flatpak applications
-When the Flatpak applications are installed, most application launchers are
-not able to find them. This is because the Flatpak applications are not in
-a directory listed in the [`$PATH` variable](path-variable). To make those
+When the Flatpak applications are installed, most application launchers are not
+able to find them. This is because the Flatpak applications are not in a
+directory listed in the [`$PATH` variable](path-variable). To make those
 application launchers find the Flatpak applications, it is possible to create
 a [symbolic link](symbolic-link) to the `/usr/bin/` directory (or any other
 directory included in the `$PATH` variable)[^1].

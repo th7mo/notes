@@ -21,8 +21,8 @@ specified at the [Generate a new SSH key](#generate-a-new-ssh-key) section):
 * `~/.ssh/id_ed25519` (private key)
 * `~/.ssh/id_ed25519.pub` (public key)
 
-Copy entire contents of the `~/.ssh/id_ed25519.pub` file.
-The following command demonstrates how to copy a file to the clipboard:
+Copy entire contents of the `~/.ssh/id_ed25519.pub` file. The following command
+demonstrates how to copy a file to the clipboard:
 
 ```sh
 cat ~/.ssh/id_ed25519.pub | wl-copy
@@ -37,13 +37,15 @@ GitLab} account.
 Choose one of the following options to add an SSH key to the ssh-agent.
 
 ### Option 1: use ssh-add manually
-Add the private SSH key previously generated to the ssh-agent by executing the following command:
+Add the private SSH key previously generated to the ssh-agent by executing the
+following command:
 
 ```sh
 ssh-add ~/.ssh/id_ed25519
 ```
 
-This process can be automated by having this command in the [Bash](bash) or [Zsh](zsh) configuration file.
+This process can be automated by having this command in the [Bash](bash) or
+[Zsh](zsh) configuration file.
 
 ### Option 2 (preferred): use Keychain
 The [Keychain](keychain) tool has better tooling for adding SSH keys. Refer to
@@ -101,7 +103,8 @@ host, the `Host` name specified in the `~/.ssh/config` file must be used.
 git remote set-url {remote_name} git@{Host}:{workspace}/{repository}.git
 ```
 
-Example for this repository when `Host` is named `github` instead of `github.com`:
+Example for this repository when `Host` is named `github` instead of
+`github.com`:
 
 ```sh
 git remote set-url origin git@github:th7mo/second-brain.git

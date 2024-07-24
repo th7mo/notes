@@ -5,8 +5,8 @@ isPublic: true
 ---
 
 A popular framework for managing [Zsh](zsh) configuration is
-[Oh My Zsh](https://ohmyz.sh/).
-Install Oh My Zsh by executing the following command:
+[Oh My Zsh](https://ohmyz.sh/). Install Oh My Zsh by executing the following
+command:
 
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
