@@ -91,6 +91,20 @@ public foo() {
 ```
 ~~~
 
+### Footnotes
+Footnote references can be made with the following syntax:
+
+```md
+A normal sentence[^1].
+```
+
+The footnote itself has the same syntax as its reference but has a colon `:`
+symbol with a trailing explanation:
+
+```md
+[^1]: Except for the trailing footnote.
+```
+
 ## YAML front matter
 A lot of tools depend on [YAML front matter](yaml-front-matter) for metadata
 about the Markdown file
