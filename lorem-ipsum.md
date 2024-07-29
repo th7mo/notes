@@ -14,7 +14,7 @@ and `inline code` and ~~strikethrough~~ text and some<sup>sup</sup> text and
 some<sub>sub</sub> text.
 
 #### Links
-[External Link](https://google.com) and [internal link](plant) and
+[External Link](https://google.com) and [internal link](git) and
 [section link](#lists) and footnote[^1] [^2].
 
 [^1]: This is an example footnote.
