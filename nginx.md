@@ -45,8 +45,7 @@ server {
   (when navigating to the address specified in `server_name`)
 * `location /` is a block that specifies NGINX how to look up files.
    The line below specifies to look in the `root` directory and throw a
-   [404 Not Found](404-not-found) error if failing to find the default file
-   specified at `index`.
+   404 Not Found error if failing to find the default file specified at `index`.
 * `listen 80 ;` specifies NGINX to listen for connections at port 80 for IPv4.
 * `listen [::]:80 ;` specifies the same but for IPv6.
 
