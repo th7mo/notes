@@ -1,12 +1,13 @@
 ---
 title: "Rekordbox"
-description: "DJ Software for Pioneer DJ"
+description: "Professional DJ Software for Pioneer DJ equipment"
 isPublic: true
 ---
 
 [Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ
-hardware. This note is written for rekordbox
-[version number](semantic-versioning) `7.0.z`.
+hardware[^1].
+
+[^1]: This note is written for rekordbox [version number](semantic-versioning) `7.0.z`.
 
 ## Mixing in key
 * [WIP: Explain how to set alphanumeric keys in rekordbox]
@@ -42,9 +43,9 @@ this [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm) can be used to
 format disks larger than 32 GB to FAT32.
 
 Alternatively open PowerShell with administrator access and execute the
-following command[^1]:
+following command[^2]:
 
-[^1]: I've had more success with guiformat than with the PowerShell workaround.
+[^2]: I've had more success with guiformat than with the PowerShell workaround.
 
 ```ps
 format /FS:FAT32 {disk-label}
