@@ -39,9 +39,9 @@ nmcli device wifi connect {SSID} password {password}
 * `{password}` is the password of the Wi-Fi network.
 
 ## Eduroam
-It is not possible to connect to the eduroam network using NetworkManager
-without custom configuration. For more information reference about how to the
-following:
+It is not possible to connect to the [eduroam](eduroam) network using
+NetworkManager without custom configuration. For more information reference
+about how to the following:
 
 * The Arch Wiki section about
   [network configuration with eduroam](https://wiki.archlinux.org/title/Network_configuration/Wireless#eduroam).
