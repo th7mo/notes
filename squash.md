@@ -6,8 +6,8 @@ isPublic: true
 
 Squashing [commits](commit) is a technique used in [Git](git) to merge multiple
 commits into a single commit. This is helpful in keeping a clean Git history.
-Services like [GitHub](https://github.com/) can squash pull request, which
-combines all the commits from that pull request into a single commit. To squash
+Services like [GitHub](https://github.com/) can squash pull requests, which
+combines all the commits from a pull request into a single commit. To squash
 commits, the [rebase](rebase) command is used with the `-i` flag followed by the
 number of commits to be squashed:
 
