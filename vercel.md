@@ -1,6 +1,6 @@
 ---
 title: "Vercel"
-description: "Build, scale, and secure a faster, personalized web."
+description: "Build, scale, and secure a faster, personalized web"
 isPublic: true
 ---
 

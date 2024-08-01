@@ -1,6 +1,6 @@
 ---
 title: "Flatpak"
-description: "A utility for software deployment and package management for Linux."
+description: "A utility for software deployment and package management for Linux"
 isPublic: true
 ---
 
