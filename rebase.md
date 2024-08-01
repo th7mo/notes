@@ -4,8 +4,8 @@ description: "A linear strategy to merge Git branches"
 isPublic: true
 ---
 
-A [Git](git) rebase adds one or multiple [commits](commit) from a [branch]
-(branch) on top of another branch.
+A [Git](git) rebase adds one or multiple [commits](commit) from a
+[branch](branch) on top of another branch.
 
 The most simple use case for a rebase is when a [remote](remote) branch somebody
 is also locally working on has new changes. First, fetch the remote to download

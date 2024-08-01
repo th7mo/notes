@@ -31,4 +31,4 @@ source-file ~/.tmux.conf
 
 ## Name capitalization
 The tmux developers chose to not capitalize the 't' of tmux, so tmux should be
-written all lowercase.
+written in all lowercase.
