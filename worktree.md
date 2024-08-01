@@ -67,9 +67,10 @@ git worktree add -b {new-branch-name} ../{worktree-name}
 git worktree add {worktree-name} {remote-branch-name}
 ```
 
-When the worktree commit log does not line up with the remote commit log for
-that specific branch, it is probably because `{remote-branch-name}` was not the
-correct remote branch name when executing the `git worktree add` command.
+When the worktree [commit](commit) log does not line up with the
+[remote](remote) commit log for that specific branch, it is probably because
+`{remote-branch-name}` was not the correct remote branch name when executing the
+`git worktree add` command.
 
 ## Remove a worktree
 Remove worktrees from the bare repository:
