@@ -70,7 +70,7 @@ isPublic: true
 * **Forearms**:
 
 ## 22 aug, 2024 - Rest
-* A well deserved break :)*
+*A well deserved break :)*
 
 [^1]: Alternating between partial and full reps.
 [^2]: Short period of rest.
