@@ -12,6 +12,6 @@ isPublic: true
 * **Flys**[^1]: 10x45kg, 10x40kg
 * **Preacher Curl Machine**: 12x35kg, 8x40kg, 10x35kg, 10x35kg
 * **Face Away Curls**: *Skipped*
-* **Hammer Curls (Cable)**: 10x15kg
+* **Hammer Curls (Cable)**: 10x15kg, 11x15kg
 
 [^1]: Alternating between partial and full reps
