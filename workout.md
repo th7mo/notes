@@ -7,7 +7,7 @@ isPublic: true
 ## 1. Chest & Biceps
 * **Bench Press**:
   8x55kg, 8x57.5kg,6x60kg, 6x55kg
-* **Incline Barbell Press**:
+* **Incline Barbell Press**: 11x20kg
 * **Flys**:
 * **Preacher Curl Machine**: 
 * **Face Away Curls**:
