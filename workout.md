@@ -4,7 +4,7 @@ description: "Tracking some of my progress"
 isPublic: true
 ---
 
-## 15 aug, 2024. Chest & Biceps
+## 15 aug, 2024 | Chest & Biceps
 * **Bench Press**:
   8x55kg, 8x57.5kg,6x60kg, 6x55kg
 * **Incline Barbell Press**:
