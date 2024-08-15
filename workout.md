@@ -10,7 +10,7 @@ isPublic: true
 * **Incline Barbell Press**:
   11x20kg, 8x22kg, 9x20kg
 * **Flys**[^1]: 10x45kg, 10x40kg
-* **Preacher Curl Machine**: 
+* **Preacher Curl Machine**: 12x35kg, 8x40kg, 10x35kg, 10x35kg
 * **Face Away Curls**:
 * **Hammer Curls (Cable)**:
 
