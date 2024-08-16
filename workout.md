@@ -21,8 +21,8 @@ isPublic: true
 ## 16 aug, 2024 - Back & Triceps
 * **Lat Pulldown**: 14x50kg, 8x60kg, 9x60kg, 8x60kg
 * **Single Arm Lat Pulldown**: 10x23.5kg, 10x23.5kg, 9x23.5kg
-* **Plate Loaded Machine Row**:
 * **Lat Pullover**:
+* **Plate Loaded Machine Row**:
 * **Tricep Rope Cable Pushdown**:
 * **Overhead Tricep**:
 * **Single Arm Tricep Extension**:
