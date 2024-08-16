@@ -19,7 +19,7 @@ isPublic: true
     10x15kg, 11x15kg
 
 ## 16 aug, 2024 - Back & Triceps
-* **Lat Pulldown**:
+* **Lat Pulldown**: 14x50kg, 8x60kg, 9x60kg, 8x60kg
 * **Single Arm Lat Pulldown**:
 * **Plate Loaded Machine Row**:
 * **Lat Pullover**:
