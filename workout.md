@@ -22,7 +22,7 @@ isPublic: true
 * **Lat Pulldown**: 14x50kg, 8x60kg, 9x60kg, 8x60kg
 * **Single Arm Lat Pulldown**: 10x23.5kg, 10x23.5kg, 9x23.5kg
 * **Lat Pullover**: 13x15kg, 10x15kg
-* **Plate Loaded Machine Row**:
+* **Plate Loaded Machine Row**: 9x40kg
 * **Tricep Rope Cable Pushdown**:
 * **Overhead Tricep**:
 * **Single Arm Tricep Extension**:
