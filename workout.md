@@ -19,13 +19,20 @@ isPublic: true
     10x15kg, 11x15kg
 
 ## 16 aug, 2024 - Back & Triceps
-* **Lat Pulldown**: 14x50kg, 8x60kg, 9x60kg, 8x60kg
-* **Single Arm Lat Pulldown**: 10x23.5kg, 10x23.5kg, 9x23.5kg
-* **Lat Pullover**: 13x15kg, 10x15kg
-* **Plate Loaded Machine Row**: 9x40kg, 9x35kg
-* **Tricep Rope Cable Pushdown**:
+* **Lat Pulldown**:
+    14x50kg, 8x60kg, 9x60kg, 8x60kg
+* **Single Arm Lat Pulldown**:
+    10x23.5kg, 10x23.5kg, 9x23.5kg
+* **Lat Pullover**:
+    13x15kg, 10x15kg
+* **Plate Loaded Machine Row**:
+    9x40kg, 9x35kg, 9x35kg
+* **Tricep Rope Cable Pushdown**: 
+    *skipped*
 * **Overhead Tricep**:
+    *skipped*
 * **Single Arm Tricep Extension**:
+    *skipped*
 
 ## 17 aug, 2024 - Shoulders & Abs
 * **Smith Machine Shoulder Press**:
