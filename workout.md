@@ -44,7 +44,7 @@ isPublic: true
 * **Shrugs**:
     *skipped*
 * **Crunch Machine**:
-    15x60kg, 10x65kg
+    15x60kg, 10x65kg, 10x62.5kg
 * **Decline Situps**:
 * **Twister**:
 
