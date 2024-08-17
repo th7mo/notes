@@ -42,7 +42,9 @@ isPublic: true
 * **Rear Delts**:
     12x32.5kg, 11x32.5kg, 11x32.5kg
 * **Shrugs**:
+    *skipped*
 * **Crunch Machine**:
+    15x60kg
 * **Decline Situps**:
 * **Twister**:
 
