@@ -36,7 +36,9 @@ isPublic: true
 
 ## 17 aug, 2024 - Shoulders & Abs
 * **Smith Machine Shoulder Press**:
+    8x12.5kg, 7x12.5kg, 7x12.5kg, 7x12kg
 * **Lateral Raise Machine**[^2]:
+    
 * **Rear Delts**:
 * **Shrugs**:
 * **Crunch Machine**:
