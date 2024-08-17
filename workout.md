@@ -48,6 +48,7 @@ isPublic: true
 * **Decline Situps**:
     7x8kg, 8x8kg
 * **Twister**:
+    14x72.5
 
 ## 18 aug, 2024 - Legs & Forearms
 * **Calf Raise Machine**:
