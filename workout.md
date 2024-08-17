@@ -38,7 +38,7 @@ isPublic: true
 * **Smith Machine Shoulder Press**:
     8x12.5kg, 7x12.5kg, 7x12.5kg, 7x12kg
 * **Lateral Raise Machine**[^2]:
-    
+    14x22.5kg, 12x22.5kg, 11x20kg, 8x20kg, 7x17.5kg
 * **Rear Delts**:
 * **Shrugs**:
 * **Crunch Machine**:
