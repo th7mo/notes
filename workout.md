@@ -46,6 +46,7 @@ isPublic: true
 * **Crunch Machine**:
     15x60kg, 10x65kg, 10x62.5kg
 * **Decline Situps**:
+    7x8kg, 8x8kg
 * **Twister**:
 
 ## 18 aug, 2024 - Legs & Forearms
