@@ -40,7 +40,7 @@ isPublic: true
 * **Lateral Raise Machine**[^2]:
     14x22.5kg, 12x22.5kg, 11x20kg, 8x20kg, 7x17.5kg
 * **Rear Delts**:
-    12x32.5kg
+    12x32.5kg, 11x32.5kg
 * **Shrugs**:
 * **Crunch Machine**:
 * **Decline Situps**:
