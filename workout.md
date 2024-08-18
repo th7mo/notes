@@ -54,10 +54,14 @@ isPublic: true
 * **Calf Raise Machine**:
     13x50kg, 13x50kg, 13x50kg, 15x40kg
 * **Smith Machine Squats**:
+    *skipped*
 * **RDL**:
+    *14x40kg, 12x45kg, 12x45kg
 * **Leg Extension**:
+    12x92.5kg, 
 * **Seated Hamstring Curl**:
 * **Forearms**:
+    *skipped*
 
 ## 19 aug, 2024 - Chest & Back
 * **Bench Press**:
