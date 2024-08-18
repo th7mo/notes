@@ -52,7 +52,7 @@ isPublic: true
 
 ## 18 aug, 2024 - Legs & Forearms
 * **Calf Raise Machine**:
-    13x50kg, 13x50kg, 13x50kg
+    13x50kg, 13x50kg, 13x50kg, 15x40kg
 * **Smith Machine Squats**:
 * **RDL**:
 * **Leg Extension**:
