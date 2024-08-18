@@ -60,7 +60,7 @@ isPublic: true
 * **Leg Extension**:
     12x92.5kg, 12x92.5kg, 11x92.5kg
 * **Seated Hamstring Curl**:
-    12x57.5kg
+    12x57.5kg, 14x57.5kg+partial, 
 * **Forearms**:
     *skipped*
 
