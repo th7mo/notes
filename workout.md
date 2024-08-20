@@ -76,7 +76,7 @@ isPublic: true
 * **Smith Machine Shoulder Press**: 
     8x12.5, 8x12.5, 10x10kg
 * **Lateral Raise Machine**:
-    15x22.5kg
+    15x22.5kg, 12x25kg, 12x25kg
 * **Rear Delts**:
 * **Tricep Rope Cable Pushdown**:
 * **Overhead Tricep**:
