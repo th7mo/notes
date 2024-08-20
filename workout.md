@@ -78,7 +78,9 @@ isPublic: true
 * **Lateral Raise Machine**:
     15x22.5kg, 12x25kg, 12x25kg
 * **Rear Delts**:
+    (12x55kg, 12x55kg), (20x8kg, 12x10kg)
 * **Tricep Rope Cable Pushdown**:
+    14x18.75kg, 
 * **Overhead Tricep**:
 * **Preacher Curl Machine**:
 * **Face Away Curl**:
