@@ -84,7 +84,7 @@ isPublic: true
 * **Overhead Tricep**:
     10x40kg
 * **Preacher Curl Machine**:
-    12x40kg
+    12x40kg, 9x40kg
 * **Face Away Curl**:
 
 ## 21 aug, 2024 - Legs & Forearms
