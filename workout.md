@@ -80,7 +80,7 @@ isPublic: true
 * **Rear Delts**:
     (12x55kg, 12x55kg), (20x8kg, 12x10kg)
 * **Tricep Rope Cable Pushdown**:
-    14x18.75kg, 
+    14x18.75kg, 11x20kg, 9x20kg
 * **Overhead Tricep**:
 * **Preacher Curl Machine**:
 * **Face Away Curl**:
