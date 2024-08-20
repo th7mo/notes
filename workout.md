@@ -73,8 +73,10 @@ isPublic: true
 * **Lat Pullover**:
 
 ## 20 aug, 2024 - Shoulders, Triceps & Biceps
-* **Smith Machine Shoulder Press**:
+* **Smith Machine Shoulder Press**: 
+    8x12.5, 8x12.5, 10x10kg
 * **Lateral Raise Machine**:
+    15x22.5kg
 * **Rear Delts**:
 * **Tricep Rope Cable Pushdown**:
 * **Overhead Tricep**:
