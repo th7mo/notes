@@ -82,6 +82,7 @@ isPublic: true
 * **Tricep Rope Cable Pushdown**:
     14x18.75kg, 11x20kg, 9x20kg
 * **Overhead Tricep**:
+    10x40kg
 * **Preacher Curl Machine**:
 * **Face Away Curl**:
 
