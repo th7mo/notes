@@ -101,7 +101,7 @@ isPublic: true
 * **Leg Extension**:
     13x95kg, 12x97.5kg, 12x100kg>>6x72.kg>>3x57.5kg
 * **Seated Hamstring Curl**:
-    14x60kg+partials, 10x62.5kg+partials, 
+    14x60kg+partials, 10x62.5kg+partials, 8x62.5kg+partials 
 * **Forearms**:
 
 [^1]: Alternating between partial and full reps.
