@@ -86,11 +86,15 @@ isPublic: true
 * **Preacher Curl Machine**:
     12x40kg, 9x40kg
 * **Face Away Curl**:
+    *skipped*
 
 ## 21 aug, 2024 - Legs & Forearms
 * **Calf Raise Machine**:
+    15x50kg, 14x50kg, 14x50kg
 * **Smith Machine Squats**:
+    *skipped*
 * **RDL**:
+    
 * **Leg Extension**:
 * **Seated Hamstring Curl**:
 * **Forearms**:
