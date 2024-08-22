@@ -103,6 +103,7 @@ isPublic: true
 * **Seated Hamstring Curl**:
     14x60kg+partials, 10x62.5kg+partials, 8x62.5kg+partials 
 * **Forearms**:
+    *skipped*
 
 [^1]: Alternating between partial and full reps.
 [^2]: Short period of rest.
