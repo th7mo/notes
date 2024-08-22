@@ -99,7 +99,7 @@ isPublic: true
 * **RDL**:
     12x50kg, 11x50kg, 7x50kg
 * **Leg Extension**:
-    13x95kg, 12x97.5kg
+    13x95kg, 12x97.5kg, 12x100kg>>6x72.kg>>3x57.5kg
 * **Seated Hamstring Curl**:
 * **Forearms**:
 
