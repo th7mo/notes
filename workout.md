@@ -88,7 +88,10 @@ isPublic: true
 * **Face Away Curl**:
     *skipped*
 
-## 21 aug, 2024 - Legs & Forearms
+## 21 aug, 2024 - Rest
+* *A well deserved break :)*
+
+## 22 aug, 2024 - Legs & Forearms
 * **Calf Raise Machine**:
     15x50kg, 14x50kg, 14x50kg
 * **Smith Machine Squats**:
@@ -98,9 +101,6 @@ isPublic: true
 * **Leg Extension**:
 * **Seated Hamstring Curl**:
 * **Forearms**:
-
-## 22 aug, 2024 - Rest
-* *A well deserved break :)*
 
 [^1]: Alternating between partial and full reps.
 [^2]: Short period of rest.
