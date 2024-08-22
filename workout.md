@@ -97,7 +97,7 @@ isPublic: true
 * **Smith Machine Squats**:
     *skipped*
 * **RDL**:
-    12x50kg
+    12x50kg, 11x50kg, 7x50kg
 * **Leg Extension**:
 * **Seated Hamstring Curl**:
 * **Forearms**:
