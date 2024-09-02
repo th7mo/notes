@@ -8,8 +8,16 @@ isPublic: true
 applications.
 
 ## Common commands
-
+### Look at built images
 ```docker
 docker image ls
 ```
 
+### Look inside current running container
+```docker
+docker exec -it {container-id} sh 
+```
+
+* `container-id` can be found using `docker ps`.
+* The `-i` flag stands for 'interactive' and allows for mouse input
+* The `-t` flag stands for 'terminal' and allows for terminal in-/output
