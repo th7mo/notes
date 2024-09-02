@@ -8,6 +8,11 @@ isPublic: true
 applications.
 
 ## Common commands
+### Look at currently running containers
+```docker
+docker ps
+```
+
 ### Look at built images
 ```docker
 docker image ls
