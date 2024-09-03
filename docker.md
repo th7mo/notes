@@ -18,6 +18,22 @@ docker ps
 docker image ls
 ```
 
+### Build an image
+```docker
+docker build -t {container-name} .
+```
+* If the `Dockerfile` is not named `Dockerfile` a custom name can
+  be specified using the `-f` or `--file` flag.
+
+### Run image
+```docker
+docker run -p 8080:80 {container-name}
+```
+* The `-p` or `--port` flag tells Docker to forward public port `8080` to the
+  internal port `80`.
+* Optionally a `-d` (detached) flag can be added to let Docker run
+  the container detached.
+
 ### Look inside current running container
 ```docker
 docker exec -it {container-id} sh 
