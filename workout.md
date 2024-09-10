@@ -1,7 +1,7 @@
 ---
 title: "Workout"
 description: "Tracking some of my progress"
-isPublic: true
+isPublic: false
 ---
 
 ## 15 aug, 2024 - Chest & Biceps
