@@ -4,9 +4,10 @@ description: "Managing authentication with SSH keys"
 isPublic: true
 ---
 
-A method to access and write data to GitHub, GitLab and Bitbucket is the Secure
-Shell Protocol (SSH). SSH keys can be used to authenticate to those repository
-hosting services.
+The Secure Shell Protocol (SSH) is used for securely accessing and managing
+remote systems over a network. It can be used to access remote repositories on
+GitHub, GitLab and Bitbucket. SSH keys can be used to authenticate to those 
+repository hosting services.
 
 When only one SSH key is needed to configure, the section that covers [Managing
 multiple SSH keys](#managing-multiple-ssh-keys) can be ignored.
