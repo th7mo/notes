@@ -20,8 +20,8 @@ Install Pandoc on Debian by executing the following terminal command:
 sudo apt install pandoc
 ```
 
-Pandoc requires an engine for converting Markdown files to PDF, so also install
-the `texlive-full` package:
+Pandoc depends on an engine for converting Markdown files to PDF format, so also
+install the `texlive-full` package:
 
 ```sh
 sudo apt install texlive-full
