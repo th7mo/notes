@@ -5,7 +5,7 @@ isPublic: true
 ---
 
 The following [gitconfig](gitconfig) configuration can be used to quickly show
-the Git root path of the current repository:
+the Git root path of the current repository using an [alias](alias):
 
 ```ini
 [alias]
