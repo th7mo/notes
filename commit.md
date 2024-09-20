@@ -22,7 +22,8 @@ Use the following prefixes for commit message titles:
 * `refact:` for refactoring code.
 * `docs:` for adding documentation.
 * `test:` for adding or fixing tests.
-* `bump:` for incrementing version numbers of dependencies.
+* `bump:` for incrementing [version numbers](semantic-versioning) of
+  dependencies.
 
 A good convention to use is [conventional commits](https://www.conventionalcommits.org).
 The [commitlint project](https://github.com/conventional-changelog/commitlint)
@@ -33,7 +34,7 @@ purpose if categorizing commits.
 
 ## Undo commits
 It might be desired sometimes to undo changes made by one or multiple commits.
-Prefer [reverting](revert) over [resetting](reset) commits to preserve the git
+Prefer [reverting](revert) over [resetting](reset) commits to preserve the Git
 history.
 
 ## See also
