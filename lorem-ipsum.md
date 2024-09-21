@@ -28,7 +28,6 @@ incomprehensibilities strengths euouae unimaginatively
 honorificabilitudinitatibus.
 
 ## Blockquotes
-
 ### Normal
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -43,7 +42,9 @@ honorificabilitudinitatibus.
 ### Codeblock
 > The following codeblock:
 >
->     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> ```
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> ```
 
 ### Nested
 > > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -68,9 +69,7 @@ honorificabilitudinitatibus.
 >         * level 5
 
 ## Lists
-
 ### Unordened
-
 * level 1
   * level 2
   * level 2.2
@@ -83,7 +82,6 @@ honorificabilitudinitatibus.
     * level 3.3
   
 ### Ordered
-
 1. level 1
    1. level 2
       1. level 3
@@ -93,21 +91,17 @@ honorificabilitudinitatibus.
                1. level 6
 
 ### With blocks
-
 1. with `inline code`
-
 2. and some code blocks:
-
-        and code blocks
+   ```
+   and code blocks
+   ```
 
 3. and some blockquotes:
-
-    > a blockquote
+   > a blockquote
 
 ## Codeblocks
-
 ### Regular
-
 ```javascript
 public foo() {
     bar();
@@ -115,7 +109,6 @@ public foo() {
 ```
 
 ### Long lines
-
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
@@ -125,7 +118,6 @@ sh -c "$(curl -fsSL jfioewjfiewfoewfojewofoiepwqfewnfionqweuifhewqiofewqiofjewjf
 ```
 
 ### Two after each other
-
 ```javascript
 public foo() {
     bar();
@@ -139,13 +131,11 @@ public foo() {
 ```
 
 ### HTML
-
 ```html
 <html class="foo">bar</html>
 ```
 
 ### Shell
-
 ```sh
 sudo apt update
 ```
