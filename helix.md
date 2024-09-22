@@ -5,8 +5,8 @@ isPublic: true
 ---
 
 Helix is a text editor run in the terminal. Helix also works in the [TTY](tty).
-It is inspired by [Vim](https://www.vim.org/) and
-[Kakoune](https:// kakoune.org/) text editors. Helix can be run from the
+It is inspired by [Vim](https://www.vim.org/) and 
+[Kakoune](https://kakoune.org/) text editors. Helix can be run from the
 terminal with the `hx` command. Some Linux distributions provide Helix with
 the `helix` command. Helix's editing philosophy is `selection -> action`,
 prioritizing safety through text verification before specifying an action.
