@@ -15,7 +15,7 @@ configuration files. However, it is not recommended to make a Git repository
 directly in the home directory. A better alternative is to move configuration
 files into a separate directory like `~/dotfiles/`. To make sure installed
 programs still have access to the configuration files,
-[symbolic-links](symbolic-link) to the configuration files can be made using
+[symbolic links](symbolic-link) to the configuration files can be made using
 [Stow](stow).
 
 ## History
