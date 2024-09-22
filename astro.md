@@ -19,14 +19,16 @@ The most popular method to create a new Astro project is with `npm`:
 npm create astro@latest
 ```
 
-The `scripts` object inside the `package.json` file created will show
-how to run, build and preview the Astro project.
+The `scripts` object inside the `package.json` file shows how to run, build and
+preview the Astro project.
 
 ## Project structure
 * `src/pages/`: All the pages of the website.
 * `src/layouts/`: Astro templates.
 * `src/content/`: Content collections (like blogs or articles).
-* `public/`: static assets (favicons, images and fonts).
+* `src/components/`: Reusable frontend components.
+* `src/styles/`: Local CSS files.
+* `public/`: Static assets (favicons, images and fonts).
 * `dist/`: Compiled Astro project.
 
 ## Footnotes

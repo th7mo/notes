@@ -1,6 +1,6 @@
 ---
 title: "Burning ISO"
-description: "Burning an ISO image to a USB device"
+description: "Burning an ISO image to a USB device on Linux"
 isPublic: true
 ---
 
