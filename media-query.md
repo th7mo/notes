@@ -10,7 +10,6 @@ based on the characteristics of the device. One of the most common uses for a
 
 ```css
 @media screen and (max-width: 600px) {
-    /* Style rules that only apply for screens that are 600px or narrower */
     body {
         font-size: 14px;
     }
