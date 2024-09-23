@@ -1,7 +1,7 @@
 ---
 title: "Meditation"
 description: "Clearing the conscious mind & exercising the soul"
-isPublic: false
+isPublic: true
 ---
 
 There are two forms of meditation[^1]:
