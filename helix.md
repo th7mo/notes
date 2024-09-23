@@ -60,6 +60,11 @@ Otherwise, when running Xorg as a desktop environment, make sure to install
 sudo apt install xclip
 ```
 
+## Find and replace
+Press <kbd>s</kbd> to search for specific text in the selected area. After
+pressing <kbd>Enter</kbd> every instance of the target text can be replaced
+by pressing <kbd>r</kbd> and entering a new value.
+
 ## Commands
 * Helix can sort the current selection by running `:pipe sort`
   (see [this helix issue](https://github.com/helix-editor/helix/issues/2865))
