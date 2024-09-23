@@ -4,10 +4,12 @@ description: "A utility for software deployment and package management for Linux
 isPublic: true
 ---
 
-Some proprietary applications or applications are not provided by the Debian
-repository. In those cases it could be better to install the Flatpak packaged
-version of that application. Steam and Parsec are examples of applications that
-are ugly to install on Debian and should be isolated using Flatpak.
+Some proprietary applications or applications are not provided by the
+[Debian repository](https://www.debian.org/distrib/packages). In those cases it
+could be better to install the Flatpak packaged version of that application.
+[Steam](https://store.steampowered.com/) and [Parsec](https://parsec.app/) are
+examples of applications that are challenging to install on Debian and should be
+isolated using [Flatpak](https://flatpak.org/).
 
 ## Installation
 The Debian package for Flatpak is `flatpak`. Install Flatpak with the following
@@ -29,9 +31,7 @@ application launchers find the Flatpak applications, it is possible to create
 a [symbolic link](symbolic-link) to the `/usr/bin/` directory (or any other
 directory included in the `$PATH` variable)[^1].
 
-[^1]: I learned about symbolic linking of Flatpak installed applications
-from this from a very specific
-[GitHub Gist](https://gist.github.com/curioswati/668e9e120ddd4b6f8d07dc28b5780d22).
+[^1]: I learned about symbolic linking of Flatpak installed applications from this from a very specific [GitHub Gist](https://gist.github.com/curioswati/668e9e120ddd4b6f8d07dc28b5780d22).
 
 ```sh
 ln -s /var/lib/flatpak/exports/bin/{installed-flatpak-name} /usr/bin/{custom-name}
