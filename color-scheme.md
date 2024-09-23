@@ -25,10 +25,10 @@ p {
 
 ## Browser preference
 Users express their color scheme preference by choosing light mode, dark mode
-or 'automatic' in their browser settings. The `prefers-color-scheme` CSS media
-feature indicates if a light or dark color scheme is preferred[^1]. This media
-feature can be utilized to overwrite the CSS variables that store the color
-scheme colors[^2]:
+or 'automatic' in their browser settings. The `prefers-color-scheme` CSS
+[`@media` query](media-query) feature indicates if a light or dark color scheme
+is preferred[^1]. This `@media` query feature can be utilized to overwrite the
+CSS variables that store the color scheme colors[^2]:
 
 ```css
 @media (prefers-color-scheme:dark) {
@@ -61,4 +61,6 @@ based on the color scheme preference:
 ```
 
 The black favicon is shown when light mode is selected, while the white favicon
-shown in dark mode.
+shown in dark mode. At the time of writing (September 2024)
+[Firefox](https://www.mozilla.org/en-US/firefox/) does not update the favicon
+when toggling between light and dark mode.
