@@ -26,7 +26,7 @@ directories:
 * `dev/`: for all personal software development related files.
 * `sandbox/`: a sandbox environment for testing purposes.
 * `work/`: for all professional work. I keep all work related projects inside
-  this directory with a work [git identity](/git-identities).
+  this directory with a work [git identity](git-identities).
 
 ## Shell handling
 On Unix based systems the `$HOME` variable will evaluate to the home directory
