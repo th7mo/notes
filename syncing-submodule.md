@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with: 
           repository: <user-name>/<repo-name>
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
