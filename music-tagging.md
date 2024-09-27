@@ -34,5 +34,6 @@ house:
 ```
 
 ## Tags
-Emotion: `#dark` `#`
-Genre: `#trance` `#house` `#underground` `#conscious`
+**Emotion**: `#dark` `#`
+
+**Genre**: `#trance` `#house` `#underground` `#conscious`
