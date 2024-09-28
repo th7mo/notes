@@ -7,24 +7,41 @@ isPublic: true
 An unordered list of track transitions that sound good:
 
 ## House
+<!-- {RETRY} -->
 [It Makes You Forget (Itgehane)](https://open.spotify.com/track/0V8ExKqRc5LbUw43ozxnis) -
 [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) \
-**{RETRY}** [Intelligence](https://open.spotify.com/track/5lbZGOfPygSMffPt1KuxwP) -
+[Intelligence](https://open.spotify.com/track/5lbZGOfPygSMffPt1KuxwP) -
 [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2),
 [Pavel Petrov](https://open.spotify.com/artist/21km6OSJbAfL6Erx6xbsQW)
 
-At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
-A bit housy - Blackchild (ITA)
+[At Spoerri's (ANOTR Remix)](https://open.spotify.com/track/7CtgutLn0AAOrHYNiwzKCO) -
+[Onur Ozman](https://open.spotify.com/artist/3ILz1VL32yEEaaeHY4mqcd),
+[ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) \
+[A bit housy](https://open.spotify.com/track/3jH4r0q0xR2xR02iRb5qTy) -
+[Blackchild (ITA)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb)
 
-World Hold On - Fisher \
-Summer 91 - Noizu
+[World Hold On (FISHER Rework)](https://open.spotify.com/track/0yHtv3qIa4gz9NQH3O9HYS) -
+[Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN)
+[Fisher](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) \
+[Summer 91 (Looking Back)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) -
+[Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7)
 
-U Won't See Me - Rossi., Mystic Bill \
-Jam Is Pumping - Josh Baker
+[U Won't See Me](https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY) -
+[Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf),
+[Mystic Bill](https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV) \
+[Jam Is Pumping](https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW) -
+[Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6)
 
-Time To Smoke - ANOTR, KAMAE \
-At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
-Blue Berries - Sem Jacobs, Tagmann
+
+[Time To Smoke](https://open.spotify.com/track/685lvGCiR57tNoIZSZHyNX) -
+[ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf),
+[KAMAE](https://open.spotify.com/artist/3OZ93p3KH47vZorLi7mVvk) \
+[At Spoerri's (ANOTR Remix)](https://open.spotify.com/track/7CtgutLn0AAOrHYNiwzKCO) -
+[Onur Ozman](https://open.spotify.com/artist/3ILz1VL32yEEaaeHY4mqcd),
+[ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) \
+[Blue Berries](https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4) -
+[Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt),
+[Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7)
 
 Pascilda (Knee Deep Club Mix) - Afro Medusa, Knee Deep \
 Dynasty - Iglesias
