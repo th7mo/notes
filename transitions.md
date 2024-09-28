@@ -7,8 +7,11 @@ isPublic: true
 An unordered list of track transitions that sound good:
 
 ## House
-It Makes You Forget (Itgehane) - Peggy Gou \
-{RETRY} Intelligence - Rafael Cerato
+[It Makes You Forget (Itgehane)](https://open.spotify.com/track/0V8ExKqRc5LbUw43ozxnis) -
+[Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) \
+**{RETRY}** [Intelligence](https://open.spotify.com/track/5lbZGOfPygSMffPt1KuxwP) -
+[Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2),
+[Pavel Petrov](https://open.spotify.com/artist/21km6OSJbAfL6Erx6xbsQW)
 
 At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
 A bit housy - Blackchild (ITA)
