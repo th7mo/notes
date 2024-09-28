@@ -7,12 +7,10 @@ isPublic: true
 An unordered list of track transitions that sound good:
 
 ## House
-> It Makes You Forget (Itgehane) - Peggy Gou
->
+> It Makes You Forget (Itgehane) - Peggy Gou \
 > {RETRY} Intelligence - Rafael Cerato
 
-> At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR
->
+> At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
 > A bit housy - Blackchild (ITA)
 
 * World Hold On - Fisher
