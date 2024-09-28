@@ -15,8 +15,8 @@ when needed. Although it is really fun to optimize a system for hardware
 resources, the optimization is not noticeable on modern hardware. A good
 operating system should have a solid foundation and be mature.
 
-> It is tempting to use the latest software, but it comes at the cost of trust.
-> Trust that your perfect system never fails.
+> "It is tempting to use the latest software, but it comes at the cost of trust.
+> Trust that your perfect system never fails."
 
 ## Operating System
 The perfect operating system to fulfill these requirements is Debian. Debian is
