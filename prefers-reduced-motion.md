@@ -1,6 +1,6 @@
 ---
 title: "Prefers Reduced Motion"
-description: ""
+description: "Media query indicating user preference for motion animations"
 isPublic: true
 ---
 
@@ -18,9 +18,8 @@ reduced motion:
 ```
 
 In the code fragment above the transform animation rule will only work if the
-user has not set the `prefers-reduced-motion` setting.
-
-The possible options for `prefers-reduced-motion` are:
+user has not set the `prefers-reduced-motion` setting. The possible options for
+`prefers-reduced-motion` are:
 
 * `no-preference`: evaluates as `false`.
 * `reduce`: evaluates as `true`.
