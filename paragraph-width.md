@@ -13,8 +13,8 @@ line. Too small paragraphs break the flow of reading text.
 When working with [CSS](css) the `ch` unit can be used to achieve this. The `ch`
 unit [is defined as](https://drafts.csswg.org/css-values-3/#ch):
 
-> Equal to the used advance measure of the "0" (ZERO, U+0030) glyph
-> found in the font used to render it.
+> "Equal to the used advance measure of the "0" (ZERO, U+0030) glyph
+> found in the font used to render it."
 
 In proportional typefaces, `1ch` is *usually* around 20% wider than the average
 character width[^2]. This makes the optimal paragraph width in CSS between
