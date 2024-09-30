@@ -24,3 +24,6 @@ The possible options for `prefers-reduced-motion` are:
 
 * `no-preference`: evaluates as `false`.
 * `reduce`: evaluates as `true`.
+
+## See also
+* The extended documentation at [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
