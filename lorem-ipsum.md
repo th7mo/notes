@@ -161,3 +161,52 @@ sudo apt update
 ```sh
 sudo apt update a long line that wrappes around to the next line if it is even longer than this
 ```
+
+## Tables
+
+A small table:
+
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+ 
+A regular table:
+
+| Column 1                    | Column 2            | Column 3  |
+|-----------------------------|---------------------|-----------|
+| Here is some data for col 1 | Some more for col 2 | and col 3 |
+| Here is some data for col 1 | Some more for col 2 | and col 3 |
+| Here is some data for col 1 | Some more for col 2 | and col 3 |
+| Here is some data for col 1 | Some more for col 2 | and col 3 |
+ 
+A table with inline code-blocks:
+
+| Command                             | Action                                           |
+|-------------------------------------|--------------------------------------------------|
+| `npm install`                       | Installs dependencies                            |
+| `npm run dev`                       | Starts local dev server at `localhost:4321`      |
+| `npm run preview`                   | Preview your build locally, before deploying     |
+| `npm run build`                     | Build your production site to `./dist/`          |
+| `npm run astro ...`                 | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help`           | Get help using the Astro CLI                     |
+
+A big table:
+
+| This is a really long table with possible wraps to new line because the table heading is too big | This is a really long table with possible wraps to new line because the table heading is too big |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Lorem ipsum                                                                                      | idem dito                                                                                        |
+| More values                                                                                      | This is a really long table with possible wraps to new line because the table heading is too big |
+ 
+A table with formatting:
+
+| column   | column |
+|----------|--------|
+| **test** | *test* |
+
+A table with `sub` and `sup` text:
+
+| column             | column             |
+|--------------------|--------------------|
+| some<sub>sub</sub> | some<sup>sup</sup> |
