@@ -6,24 +6,19 @@ isPublic: true
 
 ## Linux
 
-* **Security**:
-  WPA & WPA2 Enterprise
-* **Authentication**:
-  Protected EAP (PEAP)
-* **Anonymous identity**:
-  *blank*
-* **CA certificate**:
-  No CA certificate is required
-* **PEAP version**:
-  Automatic
-* **Inner authentication**:
-  MSCHAPv2
-* **Username**:
-  full email address (example: s123456789@student.hsleiden.nl)
-* **Password**:
-  regular password
+| Field                | Value                                                    |
+|----------------------|----------------------------------------------------------|
+| Security             | WPA & WPA2 Enterprise                                    |
+| Authentication       | Protected EAP (PEAP)                                     |
+| Anonymous identity   | *leave blank*                                            |
+| CA certificate       | No CA certificate is required                            |
+| PEAP version         | Automatic                                                |
+| Inner authentication | MSCHAPv2                                                 |
+| Username             | {email address} (example: s12345678@student.hsleiden.nl) |
+| Password             | email password                                           |
 
 ## Android
+
 Download the ['geteduroam' application](https://play.google.com/store/apps/details?id=app.eduroam.geteduroam&hl=nl)
 in the Play Store and login using email address for Username and regular
 password.
