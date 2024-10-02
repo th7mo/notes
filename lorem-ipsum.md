@@ -8,14 +8,32 @@ It is used for this website to stress-test its features in a sandbox
 environment. Lorem Ipsum is placeholder text for previewing layouts.
 
 ## Inline formatting
-This is text that has *text with italics* and it has **text that is strong**
-and ***italic and strong*** and ***~~italic, strong and strikethrough~~***
-and `inline code` and ~~strikethrough~~ text and some<sup>sup</sup> text and
+*text with italics*
+
+**text that is strong**
+
+***italic and strong***
+
+***~~italic, strong and strikethrough~~***
+
+`inline code`
+
+~~strikethrough~~
+
+some<sup>sup</sup> text
+
 some<sub>sub</sub> text.
 
 #### Links
-[External Link](https://google.com) and [internal link](git) and
-[section link](#lists) and footnote[^1] [^2].
+[External Link](https://google.com)
+
+[internal link](git)
+
+[section link](#lists)
+
+footnote[^1]
+
+double footnote[^1] [^2].
 
 [^1]: This is an example footnote.
 [^2]: This is also an example footnote.

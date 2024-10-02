@@ -1,6 +1,6 @@
 ---
 title: "Worktree"
-description: "A Git feature for checking out branches without stashing or popping changes"
+description: "Checking out branches without stashing or popping changes"
 isPublic: true
 ---
 
