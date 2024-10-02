@@ -9,7 +9,7 @@ An unordered list of track transitions that sound good:
 ## House
 <!-- {RETRY} -->
 It Makes You Forget (Itgehane) - Peggy Gou \
-{RETRY} Intelligence - Rafael Cerato
+Intelligence - Rafael Cerato
 
 At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
 A bit housy - Blackchild (ITA)
@@ -24,8 +24,11 @@ Time To Smoke - ANOTR, KAMAE \
 At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
 Blue Berries - Sem Jacobs, Tagmann
 
+Power To You - ANOTR \
 Pascilda (Knee Deep Club Mix) - Afro Medusa, Knee Deep \
-Dynasty - Iglesias
+Dynasty - Iglesias \
+On Deck - Tre Reynolds \
+Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo
 
 <!-- RETRY -->
 Call Upon Me - Franky Rizardo \
@@ -36,7 +39,7 @@ Tell Me Somethin' - Nas Elmes, Toomas
 
 Don't Mind Ya Weight - ANOTR \
 Summer In The Studio - ANOTR \
-{RETRY} Spacey - ANOTR \
+Spacey - ANOTR \
 Everything You Say - ANOTR
 
 Da Revolution - Luuk van Dijk \
