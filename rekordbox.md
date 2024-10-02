@@ -56,58 +56,54 @@ format /FS:FAT32 {disk-label}
 
 ## Personal preferences
 ### View > Display Type
-* **Coloring of played tracks**:
-  * `[YES]` Reset color when exiting rekordbox
-* **Key display format**:
-  Alphanumeric
-* **Waveform Drawing Rate**:
-  High Speed
-* **Full/Preview Waveform**:
-  Half Waveform
-* **Beat Count Display**:
-  Current Position (Bars)
-* **Switch JOG Display**:
-  Current CUE/SLIP
+
+| Setting                                                        | Value                   |
+|----------------------------------------------------------------|-------------------------|
+| Coloring of played tracks > Reset color when exiting rekordbox | `[YES]`                 |
+| Key display format                                             | Alphanumeric            |
+| Waveform Drawing Rate                                          | High Speed              |
+| Full/Preview Waveform                                          | Half Waveform           |
+| Beat Count Display                                             | Current Position (Bars) |
+| Switch JOG Display                                             | Current CUE/SLIP        |
 
 ### View > Layout
-* **Effect Panel**:
-  BEAT FX + SOUND COLOR FX
-* **Enlarged Waveform**:
-  Auto
+
+| Setting              | Value                    |
+|----------------------|--------------------------|
+| Effect Panel         | BEAT FX + SOUND COLOR FX |
+| Enlarged Waveform    | Auto                     |
 
 ### View > Color
-* **Waveform color**:
-  3Band
+
+| Setting        | Value |
+|----------------|-------|
+| Waveform color | 3Band |
 
 ### Audio > Configuration
-* **Audio**:
-  (DDJ-400)
-* **Sample Rate**:
-  44100Hz
-* **Buffer size**:
-  256 samples (5.8ms)
-* **Volume**:
-  Middle
+
+| Setting     | Value                       |
+|-------------|-----------------------------|
+|Audio        | *{name of your controller}* |
+| Sample Rate | 44100Hz                     |
+| Buffer size | 256 samples (5.8ms)         |
+| Volume      | Middle                      |
 
 ### Controller > Deck
-* **Eject/Load Lock**:
-  Lock
-* **Needle Lock**:
-  Lock
-* **Memory Cue Call Lock**:
-  Lock
-* **Load**:
-  * `[YES]` Playback starts at Memory/Hot Cue nearest to the beginning of the track
-  * `[YES]` Instant Doubles
-* **JOG Rotation Speed**:
-  33rpm
+
+| Setting                                                                        | Value   |
+|--------------------------------------------------------------------------------|---------|
+| Eject/Load Lock                                                                | Lock    |
+| Needle Lock                                                                    | Lock    |
+| Memory Cue Call                                                                | Lock    |
+| Load > Playback starts at Memory/Hot Cue nearest to the beginning of the track | `[YES]` |
+| Load > Instant Doubles                                                         | `[YES]` |
+| JOG Rotation Speed                                                             | 33rpm   |
 
 ### Controller > Mixer
-* **Auto Gain**:
-  * `[YES]` Enable
-* **EQ/ISOLATOR**:
-  ISOLATOR
-* **EQ Type**:
-  DJM-900NXS2
-* **Channel Fader Curve**:
-  Linear Curve
+
+| Setting             | Value        |
+|---------------------|--------------|
+| Auto Gain > Enable  | `[YES]`      |
+| EQ/ISOLATOR         | ISOLATOR     |
+| EQ Type             | DJM-900NXS2  |
+| Channel Fader Curve | Linear Curve |
