@@ -13,13 +13,13 @@ directories:
 | Directory    | Purpose                                                           |
 |--------------|-------------------------------------------------------------------|
 | `Desktop/`   | Files in this directory will be shown on the desktop environment  |
-| `Documents/` | Storing files for word processors                                 |
+| `Documents/` | Storing files created/used by word processors                     |
 | `Downloads/` | Downloaded files (default download location of most web-browsers) |
 | `Music/`     | Audio files (`.mp3`, `.flac`, `.aiff`, `.wav`)                    |
-| `Pictures/`  | Images                                                            |
+| `Pictures/`  | Images (`.png`, `.jpg`, `.webp`, `.svg`)                          |
 | `Public/`    | Files for remote access / hosting                                 |
 | `Templates/` | Templates like templates for word processors                      |
-| `Videos/`    | Video files                                                       |
+| `Videos/`    | Video files (`.mp4`)                                              |
 
 I always create the following additional directories on a fresh installation.
 These directories are in lowercase letters to distinguish them from the default
