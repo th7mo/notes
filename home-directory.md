@@ -27,8 +27,8 @@ directories:
 
 | Directory  | Purpose                                                                                                                  |
 |------------|--------------------------------------------------------------------------------------------------------------------------|
-| `dev/`     | Personal software development related files                                                                              |
-| `sandbox/` | A sandbox environment for testing purpose                                                                                |
+| `dev/`     | Personal software development files                                                                                      |
+| `sandbox/` | A sandbox environment for testing purposes                                                                               |
 | `work/`    | All professional work. I keep all work related projects inside this directory with a work [git identity](git-identities) |
 
 ## Shell handling
