@@ -2,6 +2,7 @@
 title: "Revert"
 description: "Undoing made changes stored in Git commits"
 isPublic: true
+tags: ["git", "command"]
 ---
 
 It is possible to revert changes without modifying the [Git](git) history.
