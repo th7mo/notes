@@ -14,14 +14,15 @@ indicated with the following syntax:
 ```
 
 In the YAML front matter metadata about the document can be stored. Information
-about the author, title, language and date of the document are the most used
+about the author, title, date and language of the document are frequently used
 pieces of metadata:
 
 ```yaml
 ---
 author: "Thimo van Velzen"
 title: "Intership Report Pre-final"
-lang: EN
+date: "07-10-2003"
+lang: en
 ---
 
 # Introduction
