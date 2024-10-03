@@ -17,13 +17,14 @@ commit messages when they use emojis for categorizing commits.
 
 Use the following prefixes for commit message titles:
 
-* `feat:` for new functionality.
-* `fix:` for reworking existing code to solve bugs.
-* `refact:` for refactoring code.
-* `docs:` for adding documentation.
-* `test:` for adding or fixing tests.
-* `bump:` for incrementing [version numbers](semantic-versioning) of
-  dependencies.
+| Prefix    | Category                                                            |
+|-----------|---------------------------------------------------------------------|
+| `feat:`   | New functionality                                                   |
+| `fix:`    | Reworking existing code to solve bugs                               |
+| `refact:` | Refactoring code                                                    |
+| `docs:`   | Adding documentation                                                |
+| `test:`   | Adding or fixing tests                                              |
+| `bump:`   | Incrementing [version numbers](semantic-versioning) of dependencies |
 
 A good convention to use is [conventional commits](https://www.conventionalcommits.org).
 The [commitlint project](https://github.com/conventional-changelog/commitlint)

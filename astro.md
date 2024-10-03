@@ -23,13 +23,15 @@ The `scripts` object inside the `package.json` file shows how to run, build and
 preview the Astro project.
 
 ## Project structure
-* `src/pages/`: All the pages of the website.
-* `src/layouts/`: Astro templates.
-* `src/content/`: Content collections (like blogs or articles).
-* `src/components/`: Reusable frontend components.
-* `src/styles/`: Local CSS files.
-* `public/`: Static assets (favicons, images and fonts).
-* `dist/`: Compiled Astro project.
+| Directory         | Function                                     |
+|-------------------|----------------------------------------------|
+| `src/pages/`      | All the pages of the website                 |
+| `src/layouts/`    | Astro templates                              |
+| `src/content/`    | Content collections (like blogs or articles) |
+| `src/components/` | Reusable frontend components                 |
+| `src/styles/`     | Local CSS files                              |
+| `public/`         | Static assets (favicons, images and fonts)   |
+| `dist/`           | Compiled Astro project                       |
 
 ## Footnotes
 Astro converts [footnotes](footnote) written in Markdown to HTML links displayed
