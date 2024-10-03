@@ -4,6 +4,9 @@ description: "How to connect to eduroam inside Hogeschool Leiden"
 isPublic: true
 ---
 
+[Eduroam](https://eduroam.org/) is an international roaming access service. It
+allows students and researchers to obtain internet connectivity.
+
 ## Linux
 
 | Field                | Value                                                    |
