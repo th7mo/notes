@@ -47,7 +47,7 @@ are typically short. It is recommended to include the `config.toml` and
 
 | Operating System | Configuration directory                    |
 |------------------|--------------------------------------------|
-| Linux            | `~/.config/helix/`                         |
+| Linux, macOS     | `~/.config/helix/`                         |
 | Windows          | `C:\Users\{user}\%AppData%\Roaming\helix\` |
 
 * `{user}` is the username of the user that wants to configure Helix.
