@@ -45,19 +45,10 @@ configuration. Due to built-in functionality, Helix's configurations files
 are typically short. It is recommended to include the `config.toml` and
 `languages.toml` files inside the [dotfiles](dotfiles) repository for backup.
 
-### Linux
-
-| File             | Location path                    |
-|------------------|----------------------------------|
-| `config.toml`    | `~/.config/helix/config.toml`    |
-| `languages.toml` | `~/.config/helix/languages.toml` |
-
-### Windows
-
-| File             | Location path                                            |
-|------------------|----------------------------------------------------------|
-| `config.toml`    | `C:\Users\{user}\%Appdata%\Roaming\helix\config.toml`    |
-| `languages.toml` | `C:\Users\{user}\%AppData%\Roaming\helix\languages.toml` |
+| Operating System | Configuration directory                    |
+|------------------|--------------------------------------------|
+| Linux            | `~/.config/helix/`                         |
+| Windows          | `C:\Users\{user}\%AppData%\Roaming\helix\` |
 
 * `{user}` is the username of the user that wants to configure Helix.
 
