@@ -13,3 +13,5 @@ isPublic: true
 > "The jump feels really scary, but often, the landing is amazing"
 >
 > [Source](https://youtu.be/UWb1dw_kbvo&t=185)
+
+> "I will take care of me for you, if you will take care of you for me"
