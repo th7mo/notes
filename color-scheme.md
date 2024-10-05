@@ -24,6 +24,7 @@ p {
 ```
 
 ## Browser preference
+
 Users express their color scheme preference by choosing light mode, dark mode
 or 'automatic' in their browser settings. The `prefers-color-scheme` CSS
 [`@media` query](media-query) feature indicates if a light or dark color scheme
@@ -41,6 +42,8 @@ CSS variables that store the color scheme colors[^2]:
 
 [^1]: This is explained in detail in the [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
 [^2]: This also works inside `<style>` tags in SVG files.
+
+## Favicons
 
 The same media feature can be used inside HTML to show a light or dark favicon
 based on the color scheme preference:
@@ -64,3 +67,23 @@ The black favicon is shown when light mode is selected, while the white favicon
 shown in dark mode. At the time of writing (September 2024)
 [Firefox](https://www.mozilla.org/en-US/firefox/) does not update the favicon
 when toggling between light and dark mode.
+
+An alternative method is to use an [SVG](svg) as favicon and style it using
+CSS:
+
+```html
+<svg>
+  <style>
+    path {
+      fill: #2a2a2a;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      path {
+        fill: #eee;
+      }
+    }
+  </style>
+  <path d="..." />
+</svg>
+```
