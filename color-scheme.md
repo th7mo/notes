@@ -75,12 +75,12 @@ CSS:
 <svg>
   <style>
     path {
-      fill: #2a2a2a;
+      fill: black;
     }
 
     @media (prefers-color-scheme: dark) {
       path {
-        fill: #eee;
+        fill: white;
       }
     }
   </style>
