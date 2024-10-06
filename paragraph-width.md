@@ -29,4 +29,7 @@ p {
 [^2]: Discovered by Eric A. Meyer explained in [this blog post](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/) about the `ch` unit.
 
 Fonts can however vary in their width. It is best to experiment width the value
-on each font to determine the best paragraph width.
+on each font to determine the best paragraph width. Be careful with using the
+`ch` unit when using system fonts (`system-ui`). Because different operating
+systems have different system fonts the width is not consistent across all
+devices.
