@@ -102,7 +102,6 @@ honorificabilitudinitatibus.
    ```
    and code blocks
    ```
-
 3. and some blockquotes:
    > a blockquote
 
