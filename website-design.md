@@ -44,3 +44,11 @@ the website. I have two views for the content, one in [Obsidian](obsidian) and
 one is the website. In the future I might add even more or change existing ones.
 I can edit my notes without knowing the implementation details for presenting
 the content.
+
+## Fonts
+
+The website does not use custom web fonts, except for monospaced text. Web fonts
+are designed to be readable to the wider audience and works perfectly fine. I
+chose to have a custom monospaced font to make code blocks more readable on
+mobile. [sustainable.dev](https://the-sustainable.dev/do-you-really-need-that-custom-webfont/)
+explains this in more detail.
