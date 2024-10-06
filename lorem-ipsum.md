@@ -8,78 +8,68 @@ It is used for this website to stress-test its features in a sandbox
 environment. Lorem Ipsum is placeholder text for previewing layouts.
 
 ## Inline formatting
-*text with italics*
+*Text with italics*
 
-**text that is strong**
+**Text that is strong**
 
-***italic and strong***
+***Italic and strong***
 
-***~~italic, strong and strikethrough~~***
+***~~Italic, strong and strikethrough~~***
 
-`inline code`
+`Inline code`
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <Kbd>R</kbd> to refresh a page.
 
 ~~strikethrough~~
 
-some<sup>sup</sup> text
+Some<sup>sup</sup> text
 
-some<sub>sub</sub> text.
+Some<sub>sub</sub> text.
 
-#### Links
 [External Link](https://google.com)
 
-[internal link](git)
+[Internal link](git)
 
-[section link](#lists)
+[Section link](#lists)
 
-footnote[^1]
+A footnote[^1]
 
-double footnote[^1] [^2].
+A double footnote[^1] [^2].
 
 [^1]: This is an example footnote.
 [^2]: This is also an example footnote.
 
-### Long lines
-pneumonoultramicroscopicsilicovolcanoconiosis
 pseudopseudohypoparathyroidism floccinaucinihilipilification
 antidisestablishmentarianism supercalifragilisticexpialidocious
 incomprehensibilities strengths euouae unimaginatively
 honorificabilitudinitatibus.
 
 ## Blockquotes
-### Normal
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-> eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-### Multiple after eachother
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Codeblock
 > The following codeblock:
 >
 > ```
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 > ```
 
-### Nested
 > > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > > eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Nested with multiple elements
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > eiusmod tempor incididunt ut labore et dolore magna aliqua.
 >
 > > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > > eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Triple nested
 > > > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > > > eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### With lists
 > * level 1
 >   * level 2
 >     * level 3
@@ -87,7 +77,7 @@ honorificabilitudinitatibus.
 >         * level 5
 
 ## Lists
-### Unordened
+
 * level 1
   * level 2
   * level 2.2
@@ -99,7 +89,6 @@ honorificabilitudinitatibus.
   * level 2.3
     * level 3.3
   
-### Ordered
 1. level 1
    1. level 2
       1. level 3
@@ -108,7 +97,6 @@ honorificabilitudinitatibus.
             1. level 5
                1. level 6
 
-### With blocks
 1. with `inline code`
 2. and some code blocks:
    ```
@@ -119,14 +107,12 @@ honorificabilitudinitatibus.
    > a blockquote
 
 ## Codeblocks
-### Regular
 ```javascript
 public foo() {
     bar();
 }
 ```
 
-### Long lines
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
@@ -135,7 +121,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 sh -c "$(curl -fsSL jfioewjfiewfoewfojewofoiepwqfewnfionqweuifhewqiofewqiofjewjfiewqjofpjewofjewqfjewqofjwqofjewqioj)"
 ```
 
-### Two after each other
 ```javascript
 public foo() {
     bar();
@@ -148,12 +133,10 @@ public foo() {
 }
 ```
 
-### HTML
 ```html
 <html class="foo">bar</html>
 ```
 
-### Shell
 ```sh
 sudo apt update
 ```
