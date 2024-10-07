@@ -8,70 +8,70 @@ An unordered list of track transitions that sound good:
 
 ## House
 <!-- {RETRY} -->
-It Makes You Forget (Itgehane) - Peggy Gou \
+It Makes You Forget (Itgehane) - Peggy Gou<br>
 Intelligence - Rafael Cerato
 
-At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
+At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR<br>
 A bit housy - Blackchild (ITA)
 
-World Hold On - Fisher \
+World Hold On - Fisher<br>
 Summer 91 - Noizu
 
-U Won't See Me - Rossi., Mystic Bill \
+U Won't See Me - Rossi., Mystic Bill<br>
 Jam Is Pumping - Josh Baker
 
-Time To Smoke - ANOTR, KAMAE \
-At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR \
+Time To Smoke - ANOTR, KAMAE<br>
+At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR<br>
 Blue Berries - Sem Jacobs, Tagmann
 
-Power To You - ANOTR \
-Pascilda (Knee Deep Club Mix) - Afro Medusa, Knee Deep \
-Dynasty - Iglesias \
-On Deck - Tre Reynolds \
+Power To You - ANOTR<br>
+Pascilda (Knee Deep Club Mix) - Afro Medusa, Knee Deep<br>
+Dynasty - Iglesias<br>
+On Deck - Tre Reynolds<br>
 Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo
 
 <!-- RETRY -->
-Call Upon Me - Franky Rizardo \
+Call Upon Me - Franky Rizardo<br>
 Fool - Mr Belt & Wezol
 
-FUTUR - RUZE \
+FUTUR - RUZE<br>
 Tell Me Somethin' - Nas Elmes, Toomas
 
-Don't Mind Ya Weight - ANOTR \
-Summer In The Studio - ANOTR \
-Spacey - ANOTR \
+Don't Mind Ya Weight - ANOTR<br>
+Summer In The Studio - ANOTR<br>
+Spacey - ANOTR<br>
 Everything You Say - ANOTR
 
-Da Revolution - Luuk van Dijk \
-BACK TO THE 00's - Tagmann, Sem Jacobs \
+Da Revolution - Luuk van Dijk<br>
+BACK TO THE 00's - Tagmann, Sem Jacobs<br>
 Blue Berries - Sem Jacobs, Tagmann
 
-Midnight Train - Ferra Black, Warren Blake \
+Midnight Train - Ferra Black, Warren Blake<br>
 Reflection - Riordan
 
-Are They Real - Groove P \
-Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo \
+Are They Real - Groove P<br>
+Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo<br>
 Miles (Nick Curly Remix) - Dj Sodeyama, Nick Curly
 
-Pick Up The Phone - PAWSA, Nate Dogg \
+Pick Up The Phone - PAWSA, Nate Dogg<br>
 OFF THE HOOK (NYC EDIT) - GOLFOS
 
 ## Techno
-Rabbit Hole - Layton Giordani, HI-LO \
-Ancient Dream - Zimmz \
+Rabbit Hole - Layton Giordani, HI-LO<br>
+Ancient Dream - Zimmz<br>
 Saw of Olympus - HI-LO, Reinier Zonneveld
 
-Ancient Dream - Zimmz \
+Ancient Dream - Zimmz<br>
 Reverie - Zimmz
 
-String Theory - HI-LO, Reinier Zonneveld \
+String Theory - HI-LO, Reinier Zonneveld<br>
 UFO'S & LFO'S - Layton Giordani
 
-Time - Alignment \
+Time - Alignment<br>
 Apollo - Charlotte de Witte
 
-Doppler - Charlotte de Witte \
+Doppler - Charlotte de Witte<br>
 Hold That Sucker Down - Charlotte de Witte
 
-Close Your Eyes - Alignment \
+Close Your Eyes - Alignment<br>
 Deep Space - Alignment
