@@ -39,6 +39,10 @@ A double footnote[^1] [^2].
 [^1]: This is an example footnote.
 [^2]: This is also an example footnote.
 
+A horizontal rule:
+
+---
+
 pseudopseudohypoparathyroidism floccinaucinihilipilification
 antidisestablishmentarianism supercalifragilisticexpialidocious
 incomprehensibilities strengths euouae unimaginatively
