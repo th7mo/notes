@@ -81,6 +81,8 @@ honorificabilitudinitatibus.
 
 ## Lists
 
+Regular list with other elements:
+
 1. with `inline code`
 2. and some code blocks:
    ```
@@ -88,6 +90,8 @@ honorificabilitudinitatibus.
    ```
 3. and some blockquotes:
    > a blockquote
+
+Heavy indented unordered list:
 
 * level 1
     * level 2
@@ -97,6 +101,8 @@ honorificabilitudinitatibus.
             * level 4
     * level 2.3
         * level 3.3
+
+Heavy indented ordered list:
   
 1. level 1
     1. level 2
@@ -105,6 +111,7 @@ honorificabilitudinitatibus.
             1. level 4
 
 ## Codeblocks
+
 ```javascript
 public foo() {
     bar();
