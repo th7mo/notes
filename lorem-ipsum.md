@@ -8,6 +8,7 @@ It is used for this website to stress-test its features in a sandbox
 environment. Lorem Ipsum is placeholder text for previewing layouts.
 
 ## Inline formatting
+
 *Text with italics*
 
 **Text that is strong**
@@ -49,8 +50,6 @@ incomprehensibilities strengths euouae unimaginatively
 honorificabilitudinitatibus.
 
 ## Blockquotes
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-> eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 > eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -75,31 +74,31 @@ honorificabilitudinitatibus.
 > > > eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 > * level 1
->   * level 2
->     * level 3
->       * level 4
->         * level 5
+>     * level 2
+>         * level 3
+>             * level 4
+>                 * level 5.
 
 ## Lists
 
 * level 1
-  * level 2
-  * level 2.2
-    * level 3
-    * level 3.2
-      * level 4
-        * level 5
-          * level 6
-  * level 2.3
-    * level 3.3
+    * level 2
+    * level 2.2
+        * level 3
+        * level 3.2
+            * level 4
+                * level 5
+                    * level 6
+    * level 2.3
+        * level 3.3
   
 1. level 1
-   1. level 2
-      1. level 3
-      2. Level 3.2
-         1. level 4
-            1. level 5
-               1. level 6
+    1. level 2
+        1. level 3
+        2. Level 3.2
+            1. level 4
+                1. level 5
+                    1. level 6
 
 1. with `inline code`
 2. and some code blocks:
