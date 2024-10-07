@@ -1,6 +1,6 @@
 ---
-title: "Rekordbox"
-description: "Professional DJ Software for Pioneer DJ equipment"
+title: Rekordbox
+description: Professional DJ Software for Pioneer DJ equipment
 isPublic: true
 ---
 
@@ -31,7 +31,7 @@ the USB drive go to 'Devices' in the file overview on the left bottom and click
 the 'Eject' icon.
 
 ### Device Library (Plus)
-Rekordbox introduced Device Library Plus in version `6.8.1`. Pioneer DJ will use
+Rekordbox introduced Device Library Plus in version 6.8.1. Pioneer DJ will use
 the new Device Library Plus format for new devices. It is possible to export
 to both Device Library and Device Library Plus format so the USB drive is
 compatible with all rekordbox powered devices/equipment.
