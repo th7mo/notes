@@ -52,3 +52,9 @@ are designed to be readable to the wider audience and works perfectly fine. I
 chose to have a custom monospaced font to make code blocks more readable on
 mobile. [sustainable.dev](https://the-sustainable.dev/do-you-really-need-that-custom-webfont/)
 explains this in more detail.
+
+## No images
+
+I want to keep my content repository manageable over the long term. Including
+images from the start could lead to a significant increase in the Git
+repository's size, which may cause storage and usability issues down the line.
