@@ -81,14 +81,20 @@ honorificabilitudinitatibus.
 
 ## Lists
 
+1. with `inline code`
+2. and some code blocks:
+   ```
+   and code blocks
+   ```
+3. and some blockquotes:
+   > a blockquote
+
 * level 1
     * level 2
     * level 2.2
         * level 3
         * level 3.2
             * level 4
-                * level 5
-                    * level 6
     * level 2.3
         * level 3.3
   
@@ -97,16 +103,6 @@ honorificabilitudinitatibus.
         1. level 3
         2. Level 3.2
             1. level 4
-                1. level 5
-                    1. level 6
-
-1. with `inline code`
-2. and some code blocks:
-   ```
-   and code blocks
-   ```
-3. and some blockquotes:
-   > a blockquote
 
 ## Codeblocks
 ```javascript
