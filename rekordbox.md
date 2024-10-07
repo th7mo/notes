@@ -1,6 +1,6 @@
 ---
-title: Rekordbox
-description: Professional DJ Software for Pioneer DJ equipment
+title: "Rekordbox"
+description: "Professional DJ Software for Pioneer DJ equipment"
 isPublic: true
 ---
 
