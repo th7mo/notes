@@ -11,10 +11,12 @@ easy history tracking, collaboration and reviewing with [Git](git). The Markdown
 format is very established and is not sensitive to major technological shifts.
 
 ## Syntax
+
 Markdown uses reserved symbols to mark the styling of text or give text a
 special meaning.
 
 ### Headings
+
 Markdown allows a non-hierarchical structure of headings. It is recommended
 however to start with a level one heading and only increment it with a maximum
 of one when introducing a subheading.
@@ -35,11 +37,13 @@ manually:
 It is good practice (but not required) to have an empty line before a heading.
 
 ### Text styling
+
 * Surround text with single asterisks `*` to make text *italic*.
 * Surround text with double asterisks `**` to make text **bold**.
 * Surround text with double tildes `~~` to make text ~~strike-through~~.
 
 ### Lists
+
 Prefix a list item with the asterisk `*` to make it an unordered list item:
 
 ```md
@@ -69,10 +73,24 @@ It is also possible to create a numbered list with only the prefix `1.`:
 1. item
 ```
 
-Most modern renderers will correctly number the list. It is not recommended tho,
-because it makes it harder to read when editing the Markdown.
+Introduce multiple levels by indenting with 4 spaces or a single <kbd>Tab</kbd>:
+
+```md
+1. item
+    1. ordered sub-item
+    1. ordered sub-item
+2. item
+    * unordered sub-item
+    * unordered sub-item
+3. item
+4. item
+```
+
+Most modern renderers will correctly number the list. It is not recommended
+however, because it makes it harder to read when editing the Markdown.
 
 ### Inline code and code blocks
+
 Inline code is surrounded by single backticks:
 
 ```md
@@ -92,6 +110,7 @@ public foo() {
 ~~~
 
 ### Footnotes
+
 Footnote references can be made with the following syntax:
 
 ```md
@@ -106,15 +125,18 @@ symbol with a trailing explanation:
 ```
 
 ## YAML front matter
+
 A lot of tools depend on [YAML front matter](yaml-front-matter) for metadata
 about the Markdown file
 
 ## Exporting Markdown
+
 Sometimes it is required to convert Markdown to other file formats like PDF or
 `.docx`. The tool [Pandoc](pandoc) can be used to convert Markdown to a lot of
 other file formats.
 
 ## See also
+
 * The original [Markdown specification](https://daringfireball.net/projects/markdown/).
 * The new and improved [CommonMark specification](https://commonmark.org/).
 * Good recommendations for how to write Markdown [basic syntax](https://www.markdownguide.org/basic-syntax/).
