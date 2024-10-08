@@ -4,12 +4,12 @@ description: "How to reduce acne"
 isPublic: false
 ---
 
-The most important factors are:
+The most important things you need to focus on when trying to reduce acne are:
 
 * Eating whole foods
 * Sleeping well
 * Keeping your face clean
-* **Not touching your face!**
+* ***Not touching your face!***
 
 Other than that there are chemicals that can help:
 
