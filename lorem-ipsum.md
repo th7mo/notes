@@ -67,7 +67,9 @@ Some<sub>sub</sub> text.
 
 [Internal **bold** link](git)
 
-[Internal<sup> link](git)
+[Internal ~~strikethrough~~ link](git)
+
+[Internal<sup>sup</sup> link](git)
 
 [Internal <kbd>Input</kbd> link](git)
 
@@ -81,6 +83,12 @@ A double footnote[^1] [^2].
 [^2]: This is also an example footnote.
 
 A horizontal rule:
+
+---
+
+Two horizontal rules:
+
+---
 
 ---
 
