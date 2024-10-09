@@ -51,7 +51,7 @@ Suspendisse malesuada vehicula arcu, ut mollis turpis rutrum a.
 
 `Inline code`
 
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <Kbd>R</kbd> to refresh a page.
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> to refresh a page.
 
 ~~strikethrough~~
 
@@ -62,6 +62,14 @@ Some<sub>sub</sub> text.
 [External Link](https://google.com)
 
 [Internal link](git)
+
+[Internal `code` link](git)
+
+[Internal **bold** link](git)
+
+[Internal<sup> link](git)
+
+[Internal <kbd>Input</kbd> link](git)
 
 [Section link](#lists)
 
