@@ -7,6 +7,38 @@ isPublic: true
 It is used for this website to stress-test its features in a sandbox
 environment. Lorem Ipsum is placeholder text for previewing layouts.
 
+## Body text
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit nisl
+ut ante porta, sed egestas eros rhoncus. Nunc semper tortor odio, sed porta
+ipsum tincidunt imperdiet. Praesent turpis ipsum, finibus eu porta sit amet,
+condimentum non elit. Maecenas fringilla scelerisque lacus, vel tempus odio
+aliquam sit amet. Nullam scelerisque facilisis dui, at maximus libero sodales
+vel. Cras cursus libero dolor, ac pharetra lectus blandit fermentum. Quisque
+arcu diam, mollis sed consequat at, lacinia at urna.
+
+Nulla accumsan odio et arcu semper, in faucibus enim varius. Nullam mollis
+sapien dui, id eleifend dolor feugiat at. Integer pellentesque leo sit amet
+pretium dignissim. Nulla facilisis ultricies quam, ut ullamcorper elit laoreet
+vitae. Sed diam sem, lobortis in massa eu, mattis congue orci. Sed viverra
+ipsum ut mauris posuere, non tincidunt justo lobortis.
+
+Donec ut quam sed ipsum
+condimentum efficitur. Nullam sit amet nunc sed ligula mollis pretium. Sed
+porttitor ullamcorper sagittis. Nunc ullamcorper gravida nunc at laoreet. Fusce
+sed nibh tortor. Suspendisse erat libero, finibus ut eros nec, auctor porttitor
+arcu. Etiam arcu sapien, iaculis non dolor at, blandit vestibulum nunc. Morbi
+rhoncus eros et risus fringilla, vel dignissim urna mattis. Vestibulum fringilla
+metus nec turpis tempus, sit amet interdum nulla imperdiet. Curabitur et congue
+tortor.
+
+Ut a pharetra nibh, non aliquam nulla. Aliquam dapibus tempor ipsum, ultrices
+sagittis lorem volutpat non. Nulla facilisi. Donec vel iaculis risus, non
+consectetur arcu. Maecenas enim diam, placerat nec dui sed, convallis congue
+sem. Morbi vel elementum ex. Nullam porttitor libero at nunc sagittis malesuada.
+Donec pharetra augue vestibulum leo viverra ullamcorper non quis nibh.
+Suspendisse malesuada vehicula arcu, ut mollis turpis rutrum a.
+
 ## Inline formatting
 
 *Text with italics*
