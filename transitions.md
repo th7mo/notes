@@ -56,6 +56,9 @@ Miles (Nick Curly Remix) - Dj Sodeyama, Nick Curly
 Pick Up The Phone - PAWSA, Nate Dogg<br>
 OFF THE HOOK (NYC EDIT) - GOLFOS
 
+Save Our Soul (Rework 2021) - Bob Sinclar<br>
+M.A.N.I.A.C. - Sander Kleinenberg
+
 ## Techno
 Rabbit Hole - Layton Giordani, HI-LO<br>
 Ancient Dream - Zimmz<br>
