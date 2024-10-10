@@ -10,12 +10,12 @@ indexing.
 ## Burritos
 These ingredients are sufficient for 4 portions:
 
-* 800g chicken
-* 200g grated cheese
-* 400ml creme fraiche
-* 2 bell peppers
-* 1 onion
-* 2 packs Burritos (Knorr)
+* 800g Chicken
+* 200g Grated cheese
+* 400ml Crème fraîche
+* 2 Bell peppers
+* 1 Onion
+* 2 Packs Burritos ([Knorr](https://www.knorr.com/nl/p/mexicaanse-burritos.html/08710522848425))
 * Wraps
 
 1.  Cut the chicken and dice the bell peppers and onion.
@@ -38,26 +38,26 @@ These ingredients are sufficient for 4 portions:
 ## Protein shake (chocolate)
 These ingredients are sufficient for 1 portion:
 
-* 100ml vla
-* 150ml yoghurt
-* 200ml milk
-* 2 scoops chocolate protein powder (Weight Gainer)
-* 1 scoop vanilla protein powder (regular)
+* 100ml Vla
+* 150ml Yoghurt
+* 200ml Milk
+* 2 Scoops chocolate protein powder (Weight Gainer)
+* 1 Scoop vanilla protein powder (regular)
 
 ## Protein shake (vanilla)
 These ingredients are sufficient for 1 portion:
 
-* 100ml vla
-* 150ml yoghurt
-* 200ml milk
+* 100ml Vla
+* 150ml Yoghurt
+* 200ml Milk
 * 1 scoop vanilla protein powder (Weight Gainer)
 * 1.5 scoop vanilla protein powder (regular)
 
 ## Thai wok with rice
 These ingredients are sufficient for 1 portion:
-* 300g chicken
+* 300g Chicken
 * 200g Thai wok-vegetables
-* 125g White or brown rice
+* 125g White (or brown) rice
 * 30g/50g Cashew nuts
 * Sweet sour wok sauce
 
