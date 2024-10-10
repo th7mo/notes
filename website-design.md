@@ -4,6 +4,10 @@ description: "Design choices that made the th7mo.com website what it is today"
 isPublic: true
 ---
 
+If this website is more readable than
+[Reading Mode](https://support.google.com/chrome/answer/14218344) implemented
+on most modern browsers, then I've achieved my goal.
+
 ## No Table Of Contents (TOC)
 
 I chose to *not* include a Table Of Contents at the start of each note. This is
