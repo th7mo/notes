@@ -59,6 +59,11 @@ OFF THE HOOK (NYC EDIT) - GOLFOS
 Save Our Soul (Rework 2021) - Bob Sinclar<br>
 M.A.N.I.A.C. - Sander Kleinenberg
 
+<!-- complete artists -->
+Pumping - Chris Stussy<br>
+Bounce To The Beat (Chris Stussy Remix)
+
+
 ## Techno
 Rabbit Hole - Layton Giordani, HI-LO<br>
 Ancient Dream - Zimmz<br>
