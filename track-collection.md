@@ -40,6 +40,13 @@ Example:
 
 ## Things to work out
 
+* Which applications are consumers of this track collection?
+    * [Spotify](https://www.spotify.com)?
+    * [th7mo.com](https://th7mo.com)?
+    * A program that will automatically compose a search string?
+      (`{Track.title} - {Track.artists[0]}`)?
+    * A program that will write metadata to my audio files
+      (`.wav`, `.flac`, etc.)?
 * Do I even need a primary key?
     * If I do, would it be a UUID or a combination of `Track.title` and
       `Track.artists` (or even a combination of a UUID and the `Track.title`
@@ -47,6 +54,9 @@ Example:
 * Do I want to store it in JSON or another text-based format?
 * Do I want duplicate fields (`Track.recordLabel` and `Album.recordLabel`)?
 * What would the workflow for adding new tracks look like?
+* If multiple source conflict with naming (Spotify,
+  [Beatport](https://www.beatport.com), [SoundCloud](https://soundcloud.com)),
+  which source do I pick for making a decision?
 * Which properties do I think are important enough to keep track of?
 * How do I deal with extended or radio edits?
     * Do I want to store multiple edits of the same track or choose a default
