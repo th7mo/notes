@@ -10,10 +10,12 @@ hardware[^1].
 [^1]: This note is written for rekordbox [version number](semantic-versioning) `7.0.{z}`.
 
 ## Mixing in key
+
 * [WIP: Explain how to set alphanumeric keys in rekordbox]
 * [WIP: Explain how alphanumeric keys work in different note]
 
 ## Export mode
+
 Rekordbox has performance mode and export mode. Performance mode is for live
 mixing and export mode is for preparing tracks, playlists and sets. Put tracks
 in a playlist and click the sync manager button in the left bottom of the
@@ -31,12 +33,14 @@ the USB drive go to 'Devices' in the file overview on the left bottom and click
 the 'Eject' icon.
 
 ### Device Library (Plus)
+
 Rekordbox introduced Device Library Plus in version 6.8.1. Pioneer DJ will use
 the new Device Library Plus format for new devices. It is possible to export
 to both Device Library and Device Library Plus format so the USB drive is
 compatible with all rekordbox powered devices/equipment.
 
 ## USB drive format
+
 It is recommended to format USB drives to FAT32. This format is preferred
 because the most DJ equipment is compatible with FAT32. The Disk Management
 inside Windows can't format disks larger than 32 GB to FAT32. To work around
@@ -54,56 +58,7 @@ format /FS:FAT32 {disk-label}
 
 * `{disk-label}` is the letter and `:` of the disk (example: `D:`)
 
-## Personal preferences
-### View > Display Type
+## Rekordbox preferences
 
-| Setting                                                        | Value                   |
-|----------------------------------------------------------------|-------------------------|
-| Coloring of played tracks > Reset color when exiting rekordbox | `[YES]`                 |
-| Key display format                                             | Alphanumeric            |
-| Waveform Drawing Rate                                          | High Speed              |
-| Full/Preview Waveform                                          | Half Waveform           |
-| Beat Count Display                                             | Current Position (Bars) |
-| Switch JOG Display                                             | Current CUE/SLIP        |
-
-### View > Layout
-
-| Setting              | Value                    |
-|----------------------|--------------------------|
-| Effect Panel         | BEAT FX + SOUND COLOR FX |
-| Enlarged Waveform    | Auto                     |
-
-### View > Color
-
-| Setting        | Value |
-|----------------|-------|
-| Waveform color | 3Band |
-
-### Audio > Configuration
-
-| Setting     | Value                       |
-|-------------|-----------------------------|
-|Audio        | *{name of your controller}* |
-| Sample Rate | 44100Hz                     |
-| Buffer size | 256 samples (5.8ms)         |
-| Volume      | Middle                      |
-
-### Controller > Deck
-
-| Setting                                                                        | Value   |
-|--------------------------------------------------------------------------------|---------|
-| Eject/Load Lock                                                                | Lock    |
-| Needle Lock                                                                    | Lock    |
-| Memory Cue Call                                                                | Lock    |
-| Load > Playback starts at Memory/Hot Cue nearest to the beginning of the track | `[YES]` |
-| Load > Instant Doubles                                                         | `[YES]` |
-| JOG Rotation Speed                                                             | 33rpm   |
-
-### Controller > Mixer
-
-| Setting             | Value        |
-|---------------------|--------------|
-| Auto Gain > Enable  | `[YES]`      |
-| EQ/ISOLATOR         | ISOLATOR     |
-| EQ Type             | DJM-900NXS2  |
-| Channel Fader Curve | Linear Curve |
+[Rekordbox preferences] can be specified in the settings and synced to a USB
+drive.
