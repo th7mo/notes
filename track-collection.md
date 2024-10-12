@@ -1,0 +1,50 @@
+---
+title: "Track collection"
+description: "How I want to preserve my track collection with platform independence"
+isPublic: true
+---
+
+I am not satisfied with my fragmented music library. I want a text-based
+solution that stores the information about my music library. This 'database'
+would be the Single Version of the Truth (SVOT). This text-based solution would
+also be a [Git](git) repository to keep track of changes.
+
+```yaml
+Album:
+    title: string
+    type: ["SINGLE", "EP", "ALBUM"]
+    record-label: string
+    tracks: Track[]
+Track:
+    title: string
+    artists: string[]
+    tags: string[]
+```
+
+Example:
+
+```json
+{
+    "title": "Synergy",
+    "type": "EP",
+    "record-label": "Up The Stuss",
+    "tracks": [
+        {
+            "title": "Pumpin'",
+            "artists": ["Across Boundaries", "Chris Stussy", "Locklead"],
+            "tags": ["tech-house", "electronic"]
+        }
+    ]
+}
+```
+
+## Things to work out
+
+* Do I even need a primary key?
+    * If I do, would it be a UUID or a combination of `Track.title` and
+      `Track.artists` (or even a combination of a UUID and the `Track.title`
+      and `Track.artists` to make UUID's human friendly)
+* Do I want to store it in JSON format?
+* Do I want duplicate fields (`Track.recordLabel` and `Album.recordLabel`)?
+* What would the workflow for adding new tracks look like?
+* Which properties do I think are important enough to keep track of?
