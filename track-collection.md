@@ -44,7 +44,15 @@ Example:
     * If I do, would it be a UUID or a combination of `Track.title` and
       `Track.artists` (or even a combination of a UUID and the `Track.title`
       and `Track.artists` to make UUID's human friendly)
-* Do I want to store it in JSON format?
+* Do I want to store it in JSON or another text-based format?
 * Do I want duplicate fields (`Track.recordLabel` and `Album.recordLabel`)?
 * What would the workflow for adding new tracks look like?
 * Which properties do I think are important enough to keep track of?
+* How do I deal with extended or radio edits?
+    * Do I want to store multiple edits of the same track or choose a default
+      and stick with it?
+* Do I want to make a distinction between released and unreleased tracks?
+    * Are unreleased tracks part of an unreleased album? Should it be named the
+      same as the track?
+    * What would the workflow look like if a track that was previously
+      unreleased but already stored is released?
