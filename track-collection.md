@@ -4,10 +4,11 @@ description: "How I want to preserve my track collection with platform independe
 isPublic: true
 ---
 
-I am not satisfied with my fragmented music library. I want a text-based
-solution that stores the information about my music library. This 'database'
-would be the Single Version of the Truth (SVOT). This text-based solution would
-also be a [Git](git) repository to keep track of changes.
+I am not satisfied with my fragmented music library. I (think I) want a
+text-based solution that stores the information about my music library. This
+track collection would be the Single Version of the Truth (SVOT). This
+text-based solution would also be a [Git](git) repository to keep track of
+changes.
 
 ```yaml
 Album:
@@ -62,7 +63,7 @@ Example:
     * Do I want to store multiple edits of the same track or choose a default
       and stick with it?
 * Do I want to make a distinction between released and unreleased tracks?
-    * Are unreleased tracks part of an unreleased album? Should it be named the
-      same as the track?
+    * Are unreleased tracks part of an unreleased album? If they are, should
+      `Album.title` be equal to `Track.title`?
     * What would the workflow look like if a track that was previously
-      unreleased but already stored is released?
+      unreleased but already stored becomes released?
