@@ -9,10 +9,10 @@ ideally representing an [atomic](atomic) change.
 
 ## Commit message
 
-A commit message can have a short summary, and an optional longer explanation
+A commit message requires a short summary, and an optional longer explanation
 after an empty line:
 
-```COMMIT_MSG
+```js
 {prefix}: {summary}
 
 {additional explanation}
@@ -35,7 +35,7 @@ message titles:
 It is important to not introduce to many prefix categories. This will defeat the
 purpose if categorizing commits.
 
-## Emoji's
+### Emoji's
 
 Do not use emoji's in commit messages like
 [the gitmojiproject](https://gitmoji.dev/) tries to achieve. Emojis do not
