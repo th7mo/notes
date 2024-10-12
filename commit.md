@@ -12,10 +12,10 @@ ideally representing an [atomic](atomic) change.
 A commit message requires a short summary, and an optional longer explanation
 after an empty line:
 
-```js
+```git-commit
 {prefix}: {summary}
 
-{additional explanation}
+{additional-explanation}
 ```
 
 A good convention to use is [conventional commits](https://www.conventionalcommits.org).
