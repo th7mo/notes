@@ -60,5 +60,5 @@ format /FS:FAT32 {disk-label}
 
 ## Rekordbox preferences
 
-[Rekordbox preferences] can be specified in the settings and synced to a USB
-drive.
+[Rekordbox preferences](rekordbox-preferences) can be specified in the settings
+and synced to a USB drive.
