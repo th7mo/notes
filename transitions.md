@@ -11,17 +11,17 @@ An unordered list of track transitions that sound good:
 1. It Makes You Forget (Itgehane) - Peggy Gou
 2. Intelligence - Rafael Cerato
 
-<br />
+<!-- -->
 
 1. At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR
 2. A bit housy - Blackchild (ITA)
 
-<br />
+<!-- -->
 
 1. World Hold On - Fisher
 2. Summer 91 - Noizu
 
-<br />
+<!-- -->
 
 1. U Won't See Me - Rossi., Mystic Bill
 2. Jam Is Pumping - Josh Baker
