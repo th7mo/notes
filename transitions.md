@@ -11,14 +11,20 @@ An unordered list of track transitions that sound good:
 1. It Makes You Forget (Itgehane) - Peggy Gou
 2. Intelligence - Rafael Cerato
 
+<br />
+
 1. At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR
 2. A bit housy - Blackchild (ITA)
+
+<br />
 
 1. World Hold On - Fisher
 2. Summer 91 - Noizu
 
-U Won't See Me - Rossi., Mystic Bill<br>
-Jam Is Pumping - Josh Baker
+<br />
+
+1. U Won't See Me - Rossi., Mystic Bill
+2. Jam Is Pumping - Josh Baker
 
 Time To Smoke - ANOTR, KAMAE<br>
 At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR<br>
@@ -60,7 +66,7 @@ Save Our Soul (Rework 2021) - Bob Sinclar<br>
 M.A.N.I.A.C. - Sander Kleinenberg
 
 <!-- complete artists -->
-Pumping - Chris Stussy<br>
+Pumpin' - Across Boundaries, Chris Stussy, Locklead<br>
 Bounce To The Beat (Chris Stussy Remix)
 
 
