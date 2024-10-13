@@ -8,14 +8,14 @@ An unordered list of track transitions that sound good:
 
 ## House
 <!-- {RETRY} -->
-It Makes You Forget (Itgehane) - Peggy Gou<br>
-Intelligence - Rafael Cerato
+1. It Makes You Forget (Itgehane) - Peggy Gou
+2. Intelligence - Rafael Cerato
 
-At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR<br>
-A bit housy - Blackchild (ITA)
+1. At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR
+2. A bit housy - Blackchild (ITA)
 
-World Hold On - Fisher<br>
-Summer 91 - Noizu
+1. World Hold On - Fisher
+2. Summer 91 - Noizu
 
 U Won't See Me - Rossi., Mystic Bill<br>
 Jam Is Pumping - Josh Baker
