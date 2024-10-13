@@ -90,6 +90,11 @@ An unordered list of track transitions that sound good:
 1. Pumpin' - Across Boundaries, Chris Stussy, Locklead
 2. Bounce To The Beat (Chris Stussy Remix)
 
+<!-- -->
+
+1. Extract - Across Boundaries, Chris Stussy, Locklead
+2. Show Me - Marsolo
+3. Desire - Chris Stussy
 
 ## Techno
 
