@@ -96,6 +96,11 @@ An unordered list of track transitions that sound good:
 2. Show Me - Marsolo
 3. Desire - Chris Stussy
 
+<!-- -->
+
+1. Go Deeper - Robbie Doherty
+2. Blueprint - Chris Stussy
+
 ## Techno
 
 1. Rabbit Hole - Layton Giordani, HI-LO
