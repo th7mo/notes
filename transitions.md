@@ -26,66 +26,98 @@ An unordered list of track transitions that sound good:
 1. U Won't See Me - Rossi., Mystic Bill
 2. Jam Is Pumping - Josh Baker
 
-Time To Smoke - ANOTR, KAMAE<br>
-At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR<br>
-Blue Berries - Sem Jacobs, Tagmann
+<!-- -->
 
-Power To You - ANOTR<br>
-Pascilda (Knee Deep Club Mix) - Afro Medusa, Knee Deep<br>
-Dynasty - Iglesias<br>
-On Deck - Tre Reynolds<br>
-Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo
+1. Time To Smoke - ANOTR, KAMAE
+2. At Spoerri's (ANOTR Remix) - Onur Ozman, ANOTR
+3. Blue Berries - Sem Jacobs, Tagmann
+
+<!-- -->
+
+1. Power To You - ANOTR
+2. Pascilda (Knee Deep Club Mix) - Afro Medusa, Knee Deep
+3. Dynasty - Iglesias
+4. On Deck - Tre Reynolds
+5. Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo
+
+<!-- -->
 
 <!-- RETRY -->
-Call Upon Me - Franky Rizardo<br>
-Fool - Mr Belt & Wezol
+1. Call Upon Me - Franky Rizardo
+2. Fool - Mr Belt & Wezol
 
-FUTUR - RUZE<br>
-Tell Me Somethin' - Nas Elmes, Toomas
+<!-- -->
 
-Don't Mind Ya Weight - ANOTR<br>
-Summer In The Studio - ANOTR<br>
-Spacey - ANOTR<br>
-Everything You Say - ANOTR
+1. FUTUR - RUZE
+2. Tell Me Somethin' - Nas Elmes, Toomas
 
-Da Revolution - Luuk van Dijk<br>
-BACK TO THE 00's - Tagmann, Sem Jacobs<br>
-Blue Berries - Sem Jacobs, Tagmann
+<!-- -->
 
-Midnight Train - Ferra Black, Warren Blake<br>
-Reflection - Riordan
+1. Don't Mind Ya Weight - ANOTR
+2. Summer In The Studio - ANOTR
+3. Spacey - ANOTR
+4. Everything You Say - ANOTR
 
-Are They Real - Groove P<br>
-Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo<br>
-Miles (Nick Curly Remix) - Dj Sodeyama, Nick Curly
+<!-- -->
 
-Pick Up The Phone - PAWSA, Nate Dogg<br>
-OFF THE HOOK (NYC EDIT) - GOLFOS
+1. Da Revolution - Luuk van Dijk
+2. BACK TO THE 00's - Tagmann, Sem Jacobs
+3. Blue Berries - Sem Jacobs, Tagmann
 
-Save Our Soul (Rework 2021) - Bob Sinclar<br>
-M.A.N.I.A.C. - Sander Kleinenberg
+<!-- -->
 
-<!-- complete artists -->
-Pumpin' - Across Boundaries, Chris Stussy, Locklead<br>
-Bounce To The Beat (Chris Stussy Remix)
+1. Midnight Train - Ferra Black, Warren Blake
+2. Reflection - Riordan
+
+<!-- -->
+
+1. Are They Real - Groove P
+2. Down (Franky Rizardo Remix) - Marian Hill, Franky Rizardo
+3. Miles (Nick Curly Remix) - Dj Sodeyama, Nick Curly
+
+<!-- -->
+
+1. Pick Up The Phone - PAWSA, Nate Dogg
+2. OFF THE HOOK (NYC EDIT) - GOLFOS
+
+<!-- -->
+
+1. Save Our Soul (Rework 2021) - Bob Sinclar
+2. M.A.N.I.A.C. - Sander Kleinenberg
+
+<!-- -->
+
+1. Pumpin' - Across Boundaries, Chris Stussy, Locklead
+2. Bounce To The Beat (Chris Stussy Remix)
 
 
 ## Techno
-Rabbit Hole - Layton Giordani, HI-LO<br>
-Ancient Dream - Zimmz<br>
-Saw of Olympus - HI-LO, Reinier Zonneveld
 
-Ancient Dream - Zimmz<br>
-Reverie - Zimmz
+1. Rabbit Hole - Layton Giordani, HI-LO
+2. Ancient Dream - Zimmz
+3. Saw of Olympus - HI-LO, Reinier Zonneveld
 
-String Theory - HI-LO, Reinier Zonneveld<br>
-UFO'S & LFO'S - Layton Giordani
+<!-- -->
 
-Time - Alignment<br>
-Apollo - Charlotte de Witte
+1. Ancient Dream - Zimmz
+2. Reverie - Zimmz
 
-Doppler - Charlotte de Witte<br>
-Hold That Sucker Down - Charlotte de Witte
+<!-- -->
 
-Close Your Eyes - Alignment<br>
-Deep Space - Alignment
+1. String Theory - HI-LO, Reinier Zonneveld
+2. UFO'S & LFO'S - Layton Giordani
+
+<!-- -->
+
+1. Time - Alignment
+2. Apollo - Charlotte de Witte
+
+<!-- -->
+
+1. Doppler - Charlotte de Witte
+2. Hold That Sucker Down - Charlotte de Witte
+
+<!-- -->
+
+1. Close Your Eyes - Alignment
+2. Deep Space - Alignment
