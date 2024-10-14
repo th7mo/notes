@@ -23,6 +23,7 @@ The `scripts` object inside the `package.json` file shows how to run, build and
 preview the Astro project.
 
 ## Project structure
+
 | Directory         | Function                                     |
 |-------------------|----------------------------------------------|
 | `src/pages/`      | All the pages of the website                 |
@@ -34,6 +35,7 @@ preview the Astro project.
 | `dist/`           | Compiled Astro project                       |
 
 ## Footnotes
+
 Astro converts [footnotes](footnote) written in Markdown to HTML links displayed
 in a superscript. The references for footnotes have classes that are prefixed
 with `user-content-fn`. The actual footnotes are listed at the end of the
