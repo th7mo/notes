@@ -4,9 +4,11 @@ description: "Rules for formatting each Markdown note"
 isPublic: true
 ---
 
+Some rules to make the formatting of notes somewhat consistent.
+
 ## Front matter
 
-Each [Markdown](markdown) note must at least have the following field in the
+Each [Markdown](markdown) note must at least have the `title` attrivute in the
 [YAML front matter](yaml-front-matter):
 
 ```md
@@ -15,17 +17,48 @@ title: "{title-name}"
 ---
 ```
 
+* Always start `{title-name}` with a capital letter.
+
 Whenever a note is not in English must be indicated with the `lang` attribute:
 
 ```md
 ---
 title: "Note Formatting"
-lang: nl  // [!code highlight]
+lang:  nl
 ---
+```
+
+There should be a empty line between the front matter and the main content:
+
+```md
+---
+title: "Note Formatting"
+---
+
+## Front matter
 ```
 
 ## Headings
 
 Each [Markdown heading](markdown#headings) should have an empty line before and
 after. Every heading should start with a capital letter. Always start with a
-level 2 heading (level 1 heading is reserved for the title)
+level 2 heading (level 1 heading is reserved for the title) and never increase
+level indenting by more than one
+
+```md
+Closing of the previous paragraph.
+
+## New heading
+
+Here starts the new paragraph.
+```
+
+## Footnotes
+
+Define a footnote as close to the first reference of that footnote:
+
+```md
+This is an real footnote[^1].
+
+[^1]: Always define the footnote as close as possible.
+```
