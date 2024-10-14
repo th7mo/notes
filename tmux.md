@@ -1,5 +1,5 @@
 ---
-title: "tmux"
+title: "Tmux"
 description: "An open source terminal multiplexer"
 isPublic: true
 ---
