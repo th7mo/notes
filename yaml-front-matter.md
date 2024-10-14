@@ -1,10 +1,10 @@
 ---
-title: "YAML front matter"
+title: "YAML Front Matter"
 description: "Metadata about Markdown files"
 isPublic: true
 ---
 
-A [Markdown](markdown) file can have YAML front matter. YAML front matter is
+[Markdown](markdown) files can have YAML front matter. YAML front matter is
 indicated with the following syntax:
 
 ```yaml

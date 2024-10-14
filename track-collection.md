@@ -1,5 +1,5 @@
 ---
-title: "Track collection"
+title: "Track Collection"
 description: "How I want to preserve my track collection with platform independence"
 isPublic: true
 ---

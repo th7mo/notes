@@ -1,5 +1,5 @@
 ---
-title: "Localhost apps on phone"
+title: "Localhost Apps On Phone"
 description: "View localhost web apps on your phone"
 isPublic: true
 ---

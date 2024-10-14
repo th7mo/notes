@@ -1,5 +1,5 @@
 ---
-title: "Network Manager"
+title: "NetworkManager"
 description: "Managing wireless internet connections on Linux"
 isPublic: true
 ---

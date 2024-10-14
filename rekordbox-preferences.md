@@ -1,5 +1,5 @@
 ---
-title: "Rekordbox preferences"
+title: "Rekordbox Preferences"
 description: "My personal configuration preferences for Rekordbox on PC"
 isPublic: true
 ---

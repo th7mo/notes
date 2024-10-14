@@ -1,5 +1,5 @@
 ---
-title: "GitHub profile README"
+title: "GitHub Profile README"
 description: "The GitHub profile README repository"
 isPublic: true
 ---

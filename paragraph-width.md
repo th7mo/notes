@@ -1,5 +1,5 @@
 ---
-title: "Paragraph width"
+title: "Paragraph Width"
 description: "How long text paragraphs should be"
 isPublic: true
 ---

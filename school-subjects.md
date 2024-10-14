@@ -1,5 +1,5 @@
 ---
-title: "School subjects"
+title: "School Subjects"
 description: "How I want to finish my school :)"
 isPublic: false
 ---

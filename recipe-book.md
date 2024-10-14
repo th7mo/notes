@@ -1,5 +1,5 @@
 ---
-title: "Recipe book"
+title: "Recipe Book"
 description: "A collection of all my recipes"
 isPublic: true
 ---

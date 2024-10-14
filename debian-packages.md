@@ -1,5 +1,5 @@
 ---
-title: ".deb packages"
+title: "Debian Packages"
 description: "How to install .deb packages on a Debian system"
 isPublic: true
 ---

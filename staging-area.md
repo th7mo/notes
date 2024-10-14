@@ -1,5 +1,5 @@
 ---
-title: "Staging area"
+title: "Staging Area"
 description: "The place where changes are stored before they are committed"
 isPublic: true
 ---

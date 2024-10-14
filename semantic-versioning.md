@@ -1,5 +1,5 @@
 ---
-title: "Semantic versioning"
+title: "Semantic Versioning"
 description: "How to version API's and public software"
 isPublic: true
 ---

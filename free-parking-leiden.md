@@ -1,5 +1,5 @@
 ---
-title: "Free parking Leiden"
+title: "Free Parking Leiden"
 description: "Where to park free in Leiden"
 isPublic: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Refresh terminal environment"
+title: "Refresh Terminal Environment"
 description: "Command for refreshing environment variables in terminal"
 isPublic: true
 ---

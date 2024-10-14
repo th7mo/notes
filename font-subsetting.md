@@ -1,5 +1,5 @@
 ---
-title: "Font subsetting"
+title: "Font Subsetting"
 description: "Only keep useful subsets of fonts to reduce shipping size"
 isPublic: true
 ---

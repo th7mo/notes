@@ -1,5 +1,5 @@
 ---
-title: "SSH key"
+title: "SSH Key"
 description: "Managing authentication with SSH keys"
 isPublic: true
 ---
