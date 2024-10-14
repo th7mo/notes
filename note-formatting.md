@@ -8,7 +8,7 @@ Some rules to make the formatting of notes somewhat consistent.
 
 ## Front matter
 
-Each [Markdown](markdown) note must at least have the `title` attrivute in the
+Each [Markdown](markdown) note must at least have the `title` attribute in the
 [YAML front matter](yaml-front-matter):
 
 ```md
@@ -17,7 +17,7 @@ title: "{title-name}"
 ---
 ```
 
-* Always start `{title-name}` with a capital letter.
+* Always start each word of `{title-name}` with a capital letter.
 
 Whenever a note is not in English must be indicated with the `lang` attribute:
 
@@ -37,6 +37,9 @@ title: "Note Formatting"
 
 ## Front matter
 ```
+
+The `description` attribute is optional and should start with a capital letter
+and should not end with a period.
 
 ## Headings
 
@@ -62,3 +65,13 @@ This is an real footnote[^1].
 
 [^1]: Always define the footnote as close as possible.
 ```
+
+## File name
+
+Use the kebab-case naming convention for naming Markdown files:
+
+```
+note-formatting.md
+```
+
+Leave out special symbols (`!@#$%^&*()`) in the file name.
