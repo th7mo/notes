@@ -46,7 +46,7 @@ and should not end with a period.
 Each [Markdown heading](markdown#headings) should have an empty line before and
 after. Every heading should start with a capital letter. Always start with a
 level 2 heading (level 1 heading is reserved for the title) and never increase
-level indenting by more than one
+level indenting by more than one.
 
 ```md
 Closing of the previous paragraph.
@@ -74,4 +74,5 @@ Use the kebab-case naming convention for naming Markdown files:
 note-formatting.md
 ```
 
-Leave out special symbols (`!@#$%^&*()`) in the file name.
+Leave special symbols (like `!@#$%^&*()"'[]{}-_=+\|<>?/`) in title out the file
+name.
