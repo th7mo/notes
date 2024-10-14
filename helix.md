@@ -77,5 +77,7 @@ by pressing <kbd>r</kbd> and entering a new value.
 
 ## Commands
 
+* Use `:reflow` to hard-wrap text at the width (configuration name = '`rulers:
+  []`') specified in the `languages.toml` configuration file.
 * Helix can sort the current selection by running `:pipe sort`[^2]
 [^2]: Learned from [this helix issue](https://github.com/helix-editor/helix/issues/2865)
