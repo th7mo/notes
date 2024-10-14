@@ -1,5 +1,5 @@
 ---
-title: "Git identities"
+title: "Git Identities"
 description: "Managing multiple Git identities on one system"
 isPublic: true
 ---

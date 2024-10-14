@@ -1,5 +1,5 @@
 ---
-title: "Symbolic link"
+title: "Symbolic Link"
 description: "A file that points to another resource"
 isPublic: true
 ---

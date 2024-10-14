@@ -1,5 +1,5 @@
 ---
-title: "CIA triad"
+title: "CIA Triad"
 description: "A security model design to protect information"
 isPublic: true
 ---

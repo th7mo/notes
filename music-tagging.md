@@ -1,5 +1,5 @@
 ---
-title: "Music tagging"
+title: "Music Tagging"
 description: "A flexible method to manage music libraries"
 isPublic: true
 ---

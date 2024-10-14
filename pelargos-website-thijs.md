@@ -1,5 +1,5 @@
 ---
-title: "Pelargos website voor Thijs"
+title: "Pelargos Website Voor Thijs"
 description: "Hofvijver Regatta"
 isPublic: false
 lang: nl

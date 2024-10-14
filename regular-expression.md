@@ -1,6 +1,6 @@
 ---
-title: "Regular expression"
-description: "Searching text with match patterns"
+title: "Regular Expression"
+description: "A flexible method for searching text using match patterns"
 isPublic: true
 ---
 

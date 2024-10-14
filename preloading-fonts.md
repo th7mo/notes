@@ -1,5 +1,5 @@
 ---
-title: "Preloading fonts"
+title: "Preloading Fonts"
 description: "Avoid layout shifts by prioritizing font loading"
 isPublic: true
 ---

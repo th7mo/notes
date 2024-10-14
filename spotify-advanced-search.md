@@ -1,5 +1,5 @@
 ---
-title: "Spotify advanced search"
+title: "Spotify Advanced Search"
 description: "Narrow down Spotify search results with search tags"
 isPublic: true
 ---

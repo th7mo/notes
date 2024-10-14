@@ -1,5 +1,5 @@
 ---
-title: "Syncing submodule"
+title: "Syncing Submodule"
 description: "Using GitHub Actions to automatically sync submodule commits"
 isPublic: true
 ---

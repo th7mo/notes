@@ -1,5 +1,5 @@
 ---
-title: "Linux workflow"
+title: "Linux Workflow"
 description: "A stable Linux workflow stack"
 isPublic: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "@media query"
+title: "@media Query"
 description: "Apply different styles for different media types/devices"
 isPublic: true
 ---

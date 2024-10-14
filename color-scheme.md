@@ -1,8 +1,9 @@
 ---
-title: "Color scheme"
+title: "Color Scheme"
 description: "Managing color schemes on websites using HTML and CSS"
 isPublic: true
 ---
+
 A website's color scheme should be stored in [CSS](css) custom properties. It
 is common practice to define custom properties on the `:root` pseudo-class for
 global reference:

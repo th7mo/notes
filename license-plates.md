@@ -1,5 +1,5 @@
 ---
-title: "License plates"
+title: "License Plates"
 description: ""
 isPublic: false
 ---
