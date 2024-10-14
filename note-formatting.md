@@ -13,11 +13,11 @@ Each [Markdown](markdown) note must at least have the `title` attribute in the
 
 ```md
 ---
-title: "{title-name}"
+title: "{title}"
 ---
 ```
 
-* Always start each word of `{title-name}` with a capital letter.
+* Always start each word of `{title}` with a capital letter.
 
 Whenever a note is not in English must be indicated with the `lang` attribute:
 
@@ -74,5 +74,5 @@ Use the kebab-case naming convention for naming Markdown files:
 note-formatting.md
 ```
 
-Leave special symbols (like `!@#$%^&*()"'[]{}-_=+\|<>?/`) in title out the file
-name.
+Leave special symbols (like `!@#$%^&*()"'[]{}-_=+\|<>?/`) in the frontmatter
+`title` out the file name.
