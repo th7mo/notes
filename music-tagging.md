@@ -38,8 +38,6 @@ house:
 
 Some examples of how tracks can be tagged based on characteristics:
 
-**Emotion**: `#dark` `#happy` `#euphoric`
-
-**Genre**: `#techno` `#house` `#hip-hop` `#trance`
-
-**Moment**: `#opener` `#peak` `#closer`
+* **Emotion**: `#dark` `#happy` `#euphoric`
+* **Genre**: `#techno` `#house` `#hip-hop` `#trance`
+* **Moment**: `#opener` `#peak` `#closer`
