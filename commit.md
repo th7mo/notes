@@ -17,7 +17,7 @@ A common convention for formatting commit messages is as follows:
 {additional-explanation}
 ```
 
-A commit message should start with a concise `{summary}`` and can optionally
+A commit message should start with a concise `{summary}` and can optionally
 include a more detailed `{additional-explanation}` after a blank line. Instead
 of focusing on *what* was done, it’s more useful to explain *why* the changes
 were made in the `{summary}`.
