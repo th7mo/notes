@@ -19,16 +19,16 @@ title: "<title>"
 
 * Always start each word of `<title>` with a capital letter.
 
-Whenever a note is not in English must be indicated with the `lang` attribute:
+The language of the note can be indicated with the `lang` attribute:
 
 ```md
 ---
 title: "Note Formatting"
-lang:  nl
+lang:  en
 ---
 ```
 
-There should be a empty line between the front matter and the main content:
+There should be an empty line between the front matter and the main content:
 
 ```md
 ---
@@ -76,3 +76,8 @@ note-formatting.md
 
 Leave special symbols (like `!@#$%^&*()"'[]{}-_=+\|<>?/`) in the frontmatter
 `title` out the file name.
+
+## Variables
+
+Use the rules described in [CLI documentation](cli-documentation) for specifying
+and referencing optional and required variables.
