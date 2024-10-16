@@ -7,7 +7,7 @@ isPublic: true
 [Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ
 hardware[^1].
 
-[^1]: This note is written for rekordbox [version number](semantic-versioning) `7.0.{z}`.
+[^1]: This note is written for rekordbox [version number](semantic-versioning) `7.0.<z>`.
 
 ## Mixing in key
 
@@ -53,10 +53,10 @@ following command[^2]:
 [^2]: I've had more success with guiformat than with the PowerShell workaround.
 
 ```ps
-format /FS:FAT32 {disk-label}
+format /FS:FAT32 <disk-label>
 ```
 
-* `{disk-label}` is the letter and `:` of the disk (example: `D:`)
+* `<disk-label>` is the letter and `:` of the disk (example: `D:`)
 
 ## Rekordbox preferences
 

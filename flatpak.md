@@ -34,7 +34,7 @@ directory included in the `$PATH` variable)[^1].
 [^1]: I learned about symbolic linking of Flatpak installed applications from this from a very specific [GitHub Gist](https://gist.github.com/curioswati/668e9e120ddd4b6f8d07dc28b5780d22).
 
 ```sh
-ln -s /var/lib/flatpak/exports/bin/{installed-flatpak-name} /usr/bin/{custom-name}
+ln -s /var/lib/flatpak/exports/bin/<installed-flatpak-name> /usr/bin/<custom-name>
 ```
 
 For example for Steam:

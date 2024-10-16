@@ -36,7 +36,7 @@ isPublic: true
 
 | Setting     | Value                       |
 |-------------|-----------------------------|
-|Audio        | *{name of your controller}* |
+|Audio        | `<name-of-your-controller>` |
 | Sample Rate | 44100Hz                     |
 | Buffer size | 256 samples (5.8ms)         |
 | Volume      | Middle                      |

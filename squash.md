@@ -12,7 +12,7 @@ commits, the [rebase](rebase) command is used with the `-i` flag followed by the
 number of commits to be squashed:
 
 ```sh
-git rebase -i HEAD~{number-of-commits}
+git rebase -i HEAD~<number-of-commits>
 ```
 
 Since squashing commits modifies the Git history, the `-i` flag needs to be used

@@ -23,7 +23,7 @@ docker image ls
 Build an image:
 
 ```sh
-docker build -t {container-name} .
+docker build -t <container-name> [--file <file-name>].
 ```
 
 * If the `Dockerfile` is not named `Dockerfile` a custom name can
@@ -32,7 +32,7 @@ docker build -t {container-name} .
 Run image:
 
 ```sh
-docker run -p 8080:80 {container-name}
+docker run -p 8080:80 <container-name>
 ```
 
 * The `-p` or `--port` flag tells Docker to forward public port `8080` to the
@@ -43,9 +43,9 @@ docker run -p 8080:80 {container-name}
 Look inside current running container:
 
 ```sh
-docker exec -it {container-id} sh 
+docker exec -it <container-id> sh 
 ```
 
-* `{container-id}` can be found using `docker ps`.
+* `<container-id>` can be found by executing `docker ps`.
 * The `-i` flag stands for 'interactive' and allows for mouse input
 * The `-t` flag stands for 'terminal' and allows for terminal in-/output

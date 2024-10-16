@@ -12,12 +12,13 @@ To solve this problem, you can preload the fonts using the following HTML
 ```html
 <link
     rel="preload"
-    href="{path-to-font}.woff2"
+    href="<font-path>"
     as="font"
     type="font/woff2"
     crossorigin="anonymous"
 >
 ```
 
-The `crossorigin` is important because browsers will ignore preloaded fonts
-without the `crossorigin` attribute.
+* `<font-path>` should end in `woff` or `.woff2`.
+* The `crossorigin` is important because browsers will ignore preloaded fonts
+  without the `crossorigin` attribute.

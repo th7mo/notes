@@ -35,7 +35,7 @@ directories:
 
 On Unix based systems the `$HOME` variable will evaluate to the home directory
 of the active user. In the shell the tilde `~` character is an alias for `/home/
-{active-user}`. A user can navigate to the home folder no matter the current
+<active-user>`. A user can navigate to the home folder no matter the current
 directory with:
 
 ```sh

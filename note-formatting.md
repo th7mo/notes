@@ -13,11 +13,11 @@ Each [Markdown](markdown) note must at least have the `title` attribute in the
 
 ```md
 ---
-title: "{title}"
+title: "<title>"
 ---
 ```
 
-* Always start each word of `{title}` with a capital letter.
+* Always start each word of `<title>` with a capital letter.
 
 Whenever a note is not in English must be indicated with the `lang` attribute:
 

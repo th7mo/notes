@@ -19,7 +19,7 @@ sites-enabled/`. The idea is that you can make a site configuration file in
 to it in `sites-enabled/` which will activate it.
 
 Make a configuration file for each domain. It is recommended to name the
-configuration file `{domain-name-without-top-level-domain}.conf`. For this
+configuration file `<domain-name-without-top-level-domain>.conf`. For this
 website the configuration file could be `th7mo.conf`. A minimal configuration
 looks like this:
 
@@ -79,7 +79,7 @@ When to configuration is complete, make a symbolic link to the `/etc/nginx/
 sites-enabled/` directory:
 
 ```sh
-ln -s /etc/nginx/sites-available/{config-file} /etc/nginx/sites-enabled/
+ln -s /etc/nginx/sites-available/<config-file> /etc/nginx/sites-enabled/
 ```
 
 Only when a symbolic link is present in the `sites-enabled/` directory NGINX

@@ -45,7 +45,7 @@ Example:
     * [Spotify](https://www.spotify.com)?
     * [th7mo.com](https://th7mo.com)?
     * A program that will automatically compose a search string?
-      (`{Track.title} - {Track.artists[0]}`)?
+      (`<Track.title> - <Track.artists[0]>`)?
     * A program that will write metadata to my audio files
       (`.wav`, `.flac`, etc.)?
 * Do I even need a primary key?

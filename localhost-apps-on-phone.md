@@ -17,7 +17,7 @@ If your mobile phone is connected to the same Wi-Fi network, it should be able
 to access the web apps by searching for:
 
 ```
-http://{ip-address}:{port-number}
+http://<ip-address>:<port-number>
 ```
 
 Note that this probably does not work on an [eduroam](eduroam) network.

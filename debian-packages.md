@@ -7,5 +7,7 @@ isPublic: true
 Local `.deb` packages can be installed by executing the following command:
 
 ```sh
-sudo apt install {local-deb-package}.deb
+sudo apt install <package-name>
 ```
+
+* `<package-name>` always ends with the file extension `.deb`.
