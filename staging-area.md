@@ -10,5 +10,6 @@ Before this can be done the files with changes need to be added to the staging
 area. This can be done with the following command:
 
 ```sh
-git add {file-name or glob-pattern}
+
+git add <file-name | glob-pattern>
 ```

@@ -8,6 +8,7 @@ isPublic: true
 internet. It is only needed for wireless connections.
 
 ## Installation
+
 Debian probably has NetworkManager pre-installed. A manual install can be done
 by executing the following command:
 
@@ -33,12 +34,14 @@ nmcli device wifi list
 To connect to a Wi-Fi network using `nmcli` execute:
 
 ```sh
-nmcli device wifi connect {SSID} password {password}
+nmcli device wifi connect <SSID> [password <password>]
 ```
 
-* `{password}` is the password of the Wi-Fi network.
+* `<SSID>` is the name of the Wi-Fi network.
+* `<password>` is the password of the Wi-Fi network.
 
 ## Eduroam
+
 It is not possible to connect to the [eduroam](eduroam) network using
 NetworkManager without custom configuration. For more information reference
 about how to the following:

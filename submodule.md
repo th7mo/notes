@@ -15,13 +15,13 @@ the submodule directory exist on a file-system and are managed by Git.
 Create a submodule with the `git submodule` command:
 
 ```sh
-git submodule add {repostitory-url} {path-name}
+git submodule add <repostitory-url> <path-name>
 ```
 
 This command will create a `.gitmodules` configuration file in the root
 directory of the project. This file lists all the submodules in the current
-project. The command also creates a path in the `.git/{path_name}` directory. As
-last this command clones the dependency repository at `{path-name}`.
+project. The command also creates a path in the `.git/<path_name>` directory. As
+last this command clones the dependency repository at `<path-name>`.
 
 If a change is made in the submodule repository, the dependent repository can
 include that change by rebasing the new [commit](commit) in the local instance
@@ -30,7 +30,7 @@ of the submodule and making a new commit afterward.
 First navigate to the submodule and check if new changes are made:
 
 ```sh
-cd {path-of-submodule}
+cd <submodule-path>
 git fetch
 ```
 
@@ -48,7 +48,7 @@ root of the current repository.
 ```sh
 cd ..
 cd $(git root)
-git commit -m "{commit-message}"
+git commit -m "<commit-message>"
 git push origin main
 ```
 

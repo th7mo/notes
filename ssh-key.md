@@ -84,13 +84,13 @@ with the following settings for each key:
 ```sh
 Host github.com
     HostName github.com
-    User user_name
+    User <your-user-name>
     IdentityFile ~/.ssh/id_ed25519-personal
     IdentitiesOnly yes
 
 Host bitbucket.com
     HostName bitbucket.org
-    User user_name
+    User <your-user-name>
     IdentityFile ~/.ssh/id_ed25519-work
     IdentitiesOnly yes
 ```
@@ -110,14 +110,14 @@ to specify which host should be used: Instead of the default domain name for the
 host, the `Host` name specified in the `~/.ssh/config` file must be used.
 
 ```sh
-git remote set-url {remote_name} git@{Host}:{workspace}/{repository}.git
+git remote set-url <remote_name> git@<Host>:<workspace>/<repository>.git
 ```
 
 Example for this repository when `Host` is named `github` instead of
 `github.com`:
 
 ```sh
-git remote set-url origin git@github:th7mo/second-brain.git
+git remote set-url origin git@github:th7mo/th7mo.com.git
 ```
 
 Make sure that the local [gitconfig](gitconfig) has the correct `user.name` and

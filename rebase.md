@@ -29,7 +29,7 @@ to the local `main` branch.
 A shorthand for this workflow is the `pull` command with the `--rebase` flag:
 
 ```sh
-git pull --rebase {remote-name} {branch-name}
+git pull [--rebase] <remote-name> <branch-name>
 ```
 
 The `--rebase` flag can be omitted when the `pull.rebase` option is configured

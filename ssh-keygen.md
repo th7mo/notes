@@ -8,7 +8,7 @@ isPublic: true
 new SSH key execute the following command:
 
 ```sh
-ssh-keygen -t ed25519 -C {email}
+ssh-keygen -t ed25519 [-C <email-address>]
 ```
 
 * The `-t` flag specifies the type of key to generate.
@@ -16,8 +16,8 @@ ssh-keygen -t ed25519 -C {email}
   but recommended. It will help indicate which SSH key belongs to which
   email address when using `ssh-add -l` or
   [Keychain](keychain#list-loaded-ssh-keys).
-* `{email}` is the email address used for GitHub or Bitbucket, configured as
-  `user.email` in the [gitconfig](gitconfig) file.
+* `<email-address>` is the email address used for GitHub or Bitbucket,
+  configured as `user.email` in the [gitconfig](gitconfig) file.
 
 When prompted to "Enter a file in which to save the key", press <kbd>Enter</kbd>
 to accept the default file location. Otherwise, if a different name or located

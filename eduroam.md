@@ -17,7 +17,7 @@ allows students and researchers to obtain internet connectivity.
 | CA certificate       | No CA certificate is required                            |
 | PEAP version         | Automatic                                                |
 | Inner authentication | MSCHAPv2                                                 |
-| Username             | {email address} (example: s12345678@student.hsleiden.nl) |
+| Username             | `<email address>` (example: s12345678@student.hsleiden.nl) |
 | Password             | email password                                           |
 
 ## Android

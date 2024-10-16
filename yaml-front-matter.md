@@ -9,7 +9,7 @@ indicated with the following syntax:
 
 ```yaml
 ---
-{YAML-here}
+<attributes>
 ---
 ```
 
@@ -21,7 +21,7 @@ pieces of metadata:
 ---
 author: "Thimo van Velzen"
 title: "Intership Report Pre-final"
-date: "07-10-2003"
+description: "A report describing my entire internship"
 lang: en
 ---
 

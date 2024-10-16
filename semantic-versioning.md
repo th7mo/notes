@@ -10,18 +10,18 @@ a new version. A good convention for versioning software is
 components:
 
 ```
-{MAJOR}.{MINOR}.{PATCH}
+<MAJOR>.<MINOR>.<PATCH>
 ```
 
 Increment the:
 
-* `{MAJOR}` version when an incompatible API change is made.
-* `{MINOR}` version when a backward compatible *new functionality* is added.
-* `{PATCH}` version when a backward compatible *bug fix* is made.
+* `<MAJOR>` version when an incompatible API change is made.
+* `<MINOR>` version when a backward compatible *new functionality* is added.
+* `<PATCH>` version when a backward compatible *bug fix* is made.
 
-When the `{MINOR}` version is incremented, the `{PATCH}` version should be reset
-to zero. Similarly, when the `{MAJOR}` version is incremented, both the
-`{MINOR}` and `{PATCH}` versions should be reset to zero.
+When the `<MINOR>` version is incremented, the `<PATCH>` version should be reset
+to zero. Similarly, when the `<MAJOR>` version is incremented, both the
+`<MINOR>` and `<PATCH>` versions should be reset to zero.
 
-The `{MAJOR}` version zero is usually assigned to software that has not yet
+The `<MAJOR>` version zero is usually assigned to software that has not yet
 been released for production use.

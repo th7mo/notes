@@ -12,17 +12,17 @@ ideally representing an [atomic](atomic) change.
 A common convention for formatting commit messages is as follows:
 
 ```git-commit
-{prefix}: {summary}
+<prefix>: <summary>
 
-{additional-explanation}
+[additional-explanation]
 ```
 
-A commit message should start with a concise `{summary}` and can optionally
-include a more detailed `{additional-explanation}` after a blank line. Instead
+A commit message should start with a concise `<summary>` and can optionally
+include a more detailed `[additional-explanation]` after a blank line. Instead
 of focusing on *what* was done, it’s more useful to explain *why* the changes
-were made in the `{summary}`.
+were made in the `<summary>`.
 
-To categorize commits a `{prefix}` can be used. A good convention to use is
+To categorize commits a `<prefix>` can be used. A good convention to use is
 [conventional commits](https://www.conventionalcommits.org). The
 [commitlint project](https://github.com/conventional-changelog/commitlint)
 expands on this and adds more categories. Use the following prefixes for commit
