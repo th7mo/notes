@@ -5,15 +5,15 @@ isPublic: true
 ---
 
 The standard convention for specifying required placeholder variables is to
-enclose it with `<` angle brackets `>`. In the example below `<commit-hash>`
+enclose it with **<** angle brackets **>**. In the example below `<commit-hash>`
 indicates that a [commit](commit) hash should be specified:
 
 ```sh
 git revert <commit-hash>
 ```
 
-For optional placeholder variables it is convention to enclose it with `[`
-square brackets `]`:
+For optional placeholder variables it is convention to enclose it with **[**
+square brackets **]**:
 
 ```sh
 git revert [--no-commit] <commit-hash>
