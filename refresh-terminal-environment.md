@@ -6,7 +6,7 @@ isPublic: true
 
 ## Windows
 
-To refresh environment variables (like the [`$PATH` variable](path-variable))
+To refresh environment variables (like the [$PATH variable](path-variable))
 in the current Windows shell type the following command:
 
 ```sh

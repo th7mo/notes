@@ -28,7 +28,7 @@ p {
 
 Users express their color scheme preference by choosing light mode, dark mode
 or 'automatic' in their browser settings. The `prefers-color-scheme` CSS
-[`@media` query](media-query) feature indicates if a light or dark color scheme
+[@media query](media-query) feature indicates if a light or dark color scheme
 is preferred[^1]. This `@media` query feature can be utilized to overwrite the
 CSS variables that store the color scheme colors[^2]:
 

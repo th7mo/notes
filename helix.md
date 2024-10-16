@@ -22,7 +22,7 @@ Helix AppImage from the [Helix latest releases page](https://github.com/helix-ed
 [^1]: At the time of writing (January 2024) this is the best way to install Helix on Debian.
 
 First move the Helix image to a directory inside the
-[`$PATH` variable](path-variable):
+[$PATH variable](path-variable):
 
 ```sh
 mv helix-*.AppImage /usr/local/bin/hx

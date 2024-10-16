@@ -6,7 +6,7 @@ isPublic: true
 
 It is good for web accessibility to only introduce motion animations when the
 user has not indicated to prefer reduced motion. In [CSS](css) there is a
-[`@media` query](media-query) to check if the user has indicated to prefer
+[@media query](media-query) to check if the user has indicated to prefer
 reduced motion:
 
 ```css
