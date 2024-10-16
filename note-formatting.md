@@ -68,7 +68,8 @@ This is an real footnote[^1].
 
 ## File name
 
-Use the kebab-case naming convention for naming Markdown files:
+Use the kebab-case naming convention for naming Markdown files. Use the `.md`
+file extension for Markdown instead of `.markdown`:
 
 ```
 note-formatting.md
