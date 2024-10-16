@@ -127,7 +127,7 @@ symbol with a trailing explanation:
 ## YAML front matter
 
 A lot of tools depend on [YAML front matter](yaml-front-matter) for metadata
-about the Markdown file
+about the Markdown file.
 
 ## Exporting Markdown
 
