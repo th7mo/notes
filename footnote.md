@@ -3,7 +3,7 @@ title: "Footnote"
 description: "How to create footnotes in HTML"
 isPublic: true
 dateCreated: "04-02-2024"
-dateLastModified: "21-07-2024"
+dateLastModified: "17-10-2024"
 ---
 
 Footnote references are links in superscript. Footnotes references can be
@@ -12,7 +12,7 @@ footnote float at the top of the line:
 
 ```html
 <p>
-    some words<sup><a href="#footnote-1">1</a></sup>
+    A regular sentence<sup><a href="#footnote-1">1</a></sup>
 </p>
 ```
 
@@ -23,14 +23,14 @@ links in [CSS](css):
 ```css
 a[href^="#footnote-"] {
     text-decoration: none;
-}
 
-a[href^="#footnote-"]::before {
-    content: "[";
-}
+    &::before {
+        content: "[";
+    }
 
-a [href^="#footnote-"]::after {
-    content: "]";
+    &::after {
+        content: "]";
+    }
 }
 ```
 
