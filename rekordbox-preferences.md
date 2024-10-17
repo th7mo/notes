@@ -57,7 +57,7 @@ dateLastModified: "17-10-2024"
 | Track Analysis Mode                           | Normal                             |
 | Track Analysis Setting                        | [BPM / GRID, KEY, Phrase, Vocal]   |
 | Auto Analysis                                 | Enable                             |
-| Key Analysis > Write the value to the ID3 tag | `[YES`]`                           |
+| Key Analysis > Write the value to the ID3 tag | `[YES]`                            |
 | Analysis Process                              | Performance                        |
 
 ### CUE Analysis
