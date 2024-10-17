@@ -6,6 +6,10 @@ dateCreated: "12-10-2024"
 dateLastModified: "17-10-2024"
 ---
 
+I normally DJ on the [OPUS-QUAD](https://www.pioneerdj.com/en/product/all-in-one-system/opus-quad/black/overview/)
+system, which is standalone and has its own settings. When I DJ using a PC with
+a controller connected, these are my configuration settings:
+
 ## View
 
 ### Display Type
