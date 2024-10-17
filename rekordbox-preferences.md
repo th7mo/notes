@@ -3,7 +3,7 @@ title: "Rekordbox Preferences"
 description: "My personal configuration preferences for Rekordbox on PC"
 isPublic: true
 dateCreated: "12-10-2024"
-dateLastModified: "16-10-2024"
+dateLastModified: "17-10-2024"
 ---
 
 ## View
@@ -21,27 +21,51 @@ dateLastModified: "16-10-2024"
 
 ### Layout
 
-| Setting              | Value                    |
-|----------------------|--------------------------|
-| Effect Panel         | BEAT FX + SOUND COLOR FX |
-| Enlarged Waveform    | Auto                     |
+| Setting              | Value                      |
+|----------------------|----------------------------|
+| Phrases              | Phrase (Enlarged Waveform) |
+| Effect Panel         | BEAT FX + SOUND COLOR FX   |
+| Enlarged Waveform    | Auto                       |
 
 ### Color
 
-| Setting        | Value |
-|----------------|-------|
-| Waveform color | 3Band |
+| Setting        | Value    |
+|----------------|----------|
+| Skin           | Dark     |
+| Waveform color | 3Band    |
+| HOT CUE color  | COLORFUL |
+| SAMPLER color  | Fixed    |
 
 ## Audio
 
 ### Configuration
 
-| Setting     | Value                       |
-|-------------|-----------------------------|
-|Audio        | `<name-of-your-controller>` |
-| Sample Rate | 44100Hz                     |
-| Buffer size | 256 samples (5.8ms)         |
-| Volume      | Middle                      |
+| Setting        | Value                       |
+|----------------|-----------------------------|
+|Audio           | `<name-of-your-controller>` |
+| Sample Rate    | 48000 Hz                    |
+| Buffer size    | 256 samples (5.3ms)         |
+| Volume         | Middle                      |
+| Preview Volume | *in the center*             |
+
+## Analysis
+
+### Track Analysis
+
+| Setting                                       | Value                              |
+|-----------------------------------------------|------------------------------------|
+| Track Analysis Mode                           | Normal                             |
+| Track Analysis Setting                        | `[BPM / GRID, KEY, Phrase, Vocal]` |
+| Auto Analysis                                 | Enable                             |
+| Key Analysis > Write the value to the ID3 tag | [x]                                |
+| Analysis Process                              | Performance                        |
+
+### CUE Analysis
+
+| Setting     | Value              |
+|-------------|--------------------|
+| CUE Type    | HOT CUE            |
+| CUE Setting | [x] Set to 1.1Bars |
 
 ## Controller
 
