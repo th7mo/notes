@@ -2,6 +2,8 @@
 title: "Dotfiles"
 description: "The hidden configuration files in Linux"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "22-09-2024"
 ---
 
 Files prefixed with a dot `.` are called dotfiles. They are hidden by default

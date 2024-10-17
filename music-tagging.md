@@ -2,6 +2,8 @@
 title: "Music Tagging"
 description: "A flexible method to manage music libraries"
 isPublic: true
+dateCreated: "14-02-2024"
+dateLastModified: "15-10-2024"
 ---
 
 *Compose* playlists from tags. Tags are requirements for a song to be listed in

@@ -2,6 +2,8 @@
 title: "Recipe Book"
 description: "A collection of all my recipes"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 This is my recipe book. The recipes are in alphabetical order for easy

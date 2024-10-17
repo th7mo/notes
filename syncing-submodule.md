@@ -2,6 +2,8 @@
 title: "Syncing Submodule"
 description: "Using GitHub Actions to automatically sync submodule commits"
 isPublic: true
+dateCreated: "21-07-2024"
+dateLastModified: "14-10-2024"
 ---
 
 It is possible to automatically update [submodules](submodule) using GitHub

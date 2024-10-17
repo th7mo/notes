@@ -2,6 +2,8 @@
 title: "Alias"
 description: "A shortcut for Git commands"
 isPublic: true
+dateCreated: "19-09-2024"
+dateLastModified: "07-10-2024"
 ---
 
 A [Git](git) alias is a shortcut for a Git command. Git aliases are configured

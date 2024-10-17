@@ -2,6 +2,8 @@
 title: "Keychain"
 description: "A practical manager for ssh-agent"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "24-07-2024"
 ---
 
 [Keychain](https://www.funtoo.org/Funtoo:Keychain) can be used to add

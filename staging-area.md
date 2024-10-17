@@ -2,6 +2,8 @@
 title: "Staging Area"
 description: "The place where changes are stored before they are committed"
 isPublic: true
+dateCreated: "04-10-2024"
+dateLastModified: "16-10-2024"
 ---
 
 If files inside a [Git](git) repository have changes in comparison to the

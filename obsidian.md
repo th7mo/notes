@@ -2,6 +2,8 @@
 title: "Obsidian"
 description: "Personal knowledge base and note-taking software application"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "22-06-2024"
 ---
 
 [Obsidian](https://obsidian.md/) is a note-taking program. Notes created in

@@ -2,6 +2,8 @@
 title: "Prefers Reduced Motion"
 description: "Media query indicating user preference for motion animations"
 isPublic: true
+dateCreated: "30-09-2024"
+dateLastModified: "16-10-2024"
 ---
 
 It is good for web accessibility to only introduce motion animations when the

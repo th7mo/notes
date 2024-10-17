@@ -2,6 +2,8 @@
 title: "Wikilink"
 description: "A bidirectional link between two resources"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 A wikilink is a [bidirectional link](https://maggieappleton.com/bidirectionals)

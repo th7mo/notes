@@ -2,6 +2,8 @@
 title: "ssh-keygen"
 description: "A command line tool for creating SSH keys"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 `ssh-keygen` is a command line tool to create [SSH keys](ssh-key). To generate a

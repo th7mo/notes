@@ -2,6 +2,8 @@
 title: "Track Collection"
 description: "How I want to preserve my track collection with platform independence"
 isPublic: true
+dateCreated: "12-10-2024"
+dateLastModified: "16-10-2024"
 ---
 
 I am not satisfied with my fragmented music library. I (think I) want a

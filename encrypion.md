@@ -2,6 +2,8 @@
 title: "Encryption"
 description: "Encoding information to prevent unauthorized access"
 isPublic: true
+dateCreated: "22-06-2024"
+dateLastModified: "12-07-2024"
 ---
 
 Amount of keys:

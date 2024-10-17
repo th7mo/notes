@@ -2,6 +2,8 @@
 title: "Rebase"
 description: "A linear strategy to merge Git branches"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 A [Git](git) rebase adds one or multiple [commits](commit) from a

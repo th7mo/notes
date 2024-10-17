@@ -2,6 +2,8 @@
 title: "Helix"
 description: "A post-modern modal text editor"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 Helix is a text editor run in the terminal. Helix also works in the [TTY](tty).

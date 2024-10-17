@@ -2,6 +2,8 @@
 title: "shadcn"
 description: "Build your component library"
 isPublic: true
+dateCreated: "18-02-2024"
+dateLastModified: "27-09-2024"
 ---
 
 [Shadcn](https://ui.shadcn.com/) is a component library developed and used by

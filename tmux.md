@@ -2,6 +2,8 @@
 title: "Tmux"
 description: "An open source terminal multiplexer"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 [Tmux](https://github.com/tmux/tmux) is a terminal multiplexer. It is used to

@@ -2,6 +2,8 @@
 title: "Pandoc"
 description: "A universal document converter"
 isPublic: true
+dateCreated: "29-07-2024"
+dateLastModified: "17-09-2024"
 ---
 
 [Pandoc](https://pandoc.org/) is a command line tool for converting files from

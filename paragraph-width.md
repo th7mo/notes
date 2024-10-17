@@ -2,6 +2,8 @@
 title: "Paragraph Width"
 description: "How long text paragraphs should be"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 Paragraphs should be in between 50 and 70 characters of width[^1]. Too wide

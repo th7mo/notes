@@ -2,6 +2,8 @@
 title: "Symbolic Link"
 description: "A file that points to another resource"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 A symbolic link, often called a 'symlink', is a file that serves as a reference/

@@ -2,6 +2,8 @@
 title: "Worktree"
 description: "Checking out branches without stashing or popping changes"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 [Git](git) worktrees make [branches](branch) directories at the root of the

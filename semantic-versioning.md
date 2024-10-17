@@ -2,6 +2,8 @@
 title: "Semantic Versioning"
 description: "How to version API's and public software"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 Version software when publishing changes. Any modifications must be released as

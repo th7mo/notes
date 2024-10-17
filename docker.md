@@ -2,6 +2,8 @@
 title: "Docker"
 description: "Containerize appliations for consistent behavior"
 isPublic: true
+dateCreated: "02-09-2024"
+dateLastModified: "16-10-2024"
 ---
 
 [Docker](https://www.docker.com/) is a developer tool to containerize

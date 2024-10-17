@@ -2,6 +2,8 @@
 title: "GitHub Profile README"
 description: "The GitHub profile README repository"
 isPublic: true
+dateCreated: "22-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 [GitHub](https://github.com) allows for a special repository. The name of the

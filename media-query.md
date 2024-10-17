@@ -2,6 +2,8 @@
 title: "@media Query"
 description: "Apply different styles for different media types/devices"
 isPublic: true
+dateCreated: "23-09-2024"
+dateLastModified: "14-10-2024"
 ---
 
 `@media` queries are a [CSS](css) feature that allows for different behavior

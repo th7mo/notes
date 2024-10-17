@@ -2,6 +2,8 @@
 title: "Git Identities"
 description: "Managing multiple Git identities on one system"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 When having a personal and a work identity for [Git](git) there is additional

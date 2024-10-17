@@ -2,6 +2,8 @@
 title: "Rekordbox"
 description: "Professional DJ Software for Pioneer DJ equipment"
 isPublic: true
+dateCreated: "17-07-2024"
+dateLastModified: "16-10-2024"
 ---
 
 [Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ

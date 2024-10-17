@@ -2,6 +2,8 @@
 title: "Note Formatting"
 description: "Rules for formatting each Markdown note"
 isPublic: true
+dateCreated: "14-10-2024"
+dateLastModified: "16-10-2024"
 ---
 
 Some rules to make the formatting of notes somewhat consistent.

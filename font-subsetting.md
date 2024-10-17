@@ -2,6 +2,8 @@
 title: "Font Subsetting"
 description: "Only keep useful subsets of fonts to reduce shipping size"
 isPublic: true
+dateCreated: "06-10-2024"
+dateLastModified: "17-10-2024"
 ---
 
 Fonts usually have a lot of characters that are never used. To reduce the size
@@ -13,4 +15,4 @@ start).
 
 ## See also
 
-* An article about subsetting at [sustainable.dev](https://the-sustainable.dev/a-guide-to-subsetting-fonts/)
+* An article about font subsetting at [sustainable.dev](https://the-sustainable.dev/a-guide-to-subsetting-fonts/)

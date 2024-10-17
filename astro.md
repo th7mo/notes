@@ -2,6 +2,8 @@
 title: "Astro"
 description: "The web framework for content-driven websites"
 isPublic: true
+dateCreated: "11-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 [Astro](https://astro.build/) is a frontend framework for content-driven

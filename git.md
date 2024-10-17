@@ -2,6 +2,8 @@
 title: "Git"
 description: "A popular distributed version control system"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "29-07-2024"
 ---
 
 [Git](https://git-scm.com/) is a version control system. It is used for my notes

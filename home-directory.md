@@ -2,6 +2,8 @@
 title: "Home Directory"
 description: "A special directory for each user on a file-system"
 isPublic: true
+dateCreated: "09-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 The home directory of a regular user is found at `/home/{username}/`, while the

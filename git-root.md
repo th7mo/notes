@@ -2,6 +2,8 @@
 title: "Git Root"
 description: "Alias for Git root path"
 isPublic: true
+dateCreated: "20-02-2024"
+dateLastModified: "19-09-2024"
 ---
 
 The following [gitconfig](gitconfig) configuration can be used to quickly show

@@ -2,6 +2,8 @@
 title: "Atomic"
 description: "The smallest basic block of matter"
 isPublic: true
+dateCreated: "09-02-2024"
+dateLastModified: "24-07-2024"
 ---
 
 When something is atomic, it cannot be broken into smaller pieces. Atomic things

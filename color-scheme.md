@@ -2,6 +2,8 @@
 title: "Color Scheme"
 description: "Managing color schemes on websites using HTML and CSS"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 A website's color scheme should be stored in [CSS](css) custom properties. It

@@ -2,6 +2,8 @@
 title: "School Subjects"
 description: "How I want to finish my school :)"
 isPublic: false
+dateCreated: "10-01-2024"
+dateLastModified: "14-10-2024"
 ---
 
 ## Planning

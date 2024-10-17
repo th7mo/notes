@@ -2,6 +2,8 @@
 title: "Branch"
 description: "A distinct path of development within a Git repository"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "01-08-2024"
 ---
 
 A [Git](git) branch is a path of one or more [commits](commit). Branches allow

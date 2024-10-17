@@ -2,6 +2,8 @@
 title: "Meditation"
 description: "Clearing the conscious mind & exercising the soul"
 isPublic: true
+dateCreated: "20-02-2024"
+dateLastModified: "23-09-2024"
 ---
 
 There are two forms of meditation[^1]:
