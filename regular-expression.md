@@ -2,6 +2,8 @@
 title: "Regular Expression"
 description: "A flexible method for searching text using match patterns"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 A regular expression (or regex) is a match pattern. They allow searching large

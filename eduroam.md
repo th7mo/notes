@@ -2,6 +2,8 @@
 title: "Eduroam"
 description: "How to connect to eduroam inside Hogeschool Leiden"
 isPublic: true
+dateCreated: "24-04-2024"
+dateLastModified: "16-10-2024"
 ---
 
 [Eduroam](https://eduroam.org/) is an international roaming access service. It

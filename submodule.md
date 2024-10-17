@@ -2,6 +2,8 @@
 title: "Submodule"
 description: "Git repostitories as a dependency"
 isPublic: true
+dateCreated: "20-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 A [Git](git) submodule is a repository inside another repository. This can be

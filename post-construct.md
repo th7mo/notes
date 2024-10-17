@@ -2,6 +2,8 @@
 title: "@PostConstruct"
 description: "Spring Boot lifecycle Annotation"
 isPublic: true
+dateCreated: "20-09-2024"
+dateLastModified: "20-09-2024"
 ---
 
 The `@PostConstruct` annotation can be used to call a method of a class after

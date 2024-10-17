@@ -2,6 +2,8 @@
 title: "Acne"
 description: "How to reduce acne"
 isPublic: false
+dateCreated: "08-10-2024"
+dateLastModified: "08-10-2024"
 ---
 
 The most important things you need to focus on when trying to reduce acne are:

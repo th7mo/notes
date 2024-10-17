@@ -2,6 +2,8 @@
 title: "CLI Documentation"
 description: "Conventions for documenting CLI tools"
 isPublic: true
+dateCreated: "16-10-2024"
+dateLastModified: "16-10-2024"
 ---
 
 The standard convention for specifying required placeholder variables is to

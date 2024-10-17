@@ -2,6 +2,8 @@
 title: "Spotify Advanced Search"
 description: "Narrow down Spotify search results with search tags"
 isPublic: true
+dateCreated: "04-10-2024"
+dateLastModified: "14-10-2024"
 ---
 
 [Spotify](https://www.spotify.com) allows for advanced search (like Google)

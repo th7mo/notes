@@ -2,6 +2,8 @@
 title: "Footnote"
 description: "How to create footnotes in HTML"
 isPublic: true
+dateCreated: "04-02-2024"
+dateLastModified: "21-07-2024"
 ---
 
 Footnote references are links in superscript. Footnotes references can be

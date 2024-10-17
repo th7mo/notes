@@ -2,6 +2,8 @@
 title: "Markdown"
 description: "The human-friendly markup language"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language that

@@ -2,6 +2,8 @@
 title: "Refresh Terminal Environment"
 description: "Command for refreshing environment variables in terminal"
 isPublic: true
+dateCreated: "04-10-2024"
+dateLastModified: "16-10-2024"
 ---
 
 ## Windows

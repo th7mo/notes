@@ -2,6 +2,8 @@
 title: "NGINX"
 description: "A webserver solution for hosting websites"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 Websites can be hosted with [NGINX](https://www.nginx.com/).

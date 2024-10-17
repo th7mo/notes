@@ -2,6 +2,8 @@
 title: "Revert"
 description: "Undoing made changes stored in Git commits"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 It is possible to revert changes without modifying the [Git](git) history.

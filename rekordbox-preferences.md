@@ -2,6 +2,8 @@
 title: "Rekordbox Preferences"
 description: "My personal configuration preferences for Rekordbox on PC"
 isPublic: true
+dateCreated: "12-10-2024"
+dateLastModified: "16-10-2024"
 ---
 
 ## View

@@ -2,6 +2,8 @@
 title: "::selection"
 description: "CSS pseudo-element to style highlighted text"
 isPublic: true
+dateCreated: "27-09-2024"
+dateLastModified: "27-09-2024"
 ---
 
 The `::selection` [CSS](css) pseudo-element applies styles to the part of a

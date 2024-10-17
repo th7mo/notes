@@ -2,6 +2,8 @@
 title: "Flatpak"
 description: "A utility for software deployment and package management for Linux"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 Some proprietary applications or applications are not provided by the

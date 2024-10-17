@@ -2,6 +2,8 @@
 title: "Zsh"
 description: "An extended Bourne shell with many improvements"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "24-07-2024"
 ---
 
 The Z shell, also known as Zsh, is a Unix shell that is similar to [Bash](bash)

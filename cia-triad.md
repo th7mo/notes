@@ -2,6 +2,8 @@
 title: "CIA Triad"
 description: "A security model design to protect information"
 isPublic: true
+dateCreated: "17-06-2024"
+dateLastModified: "14-10-2024"
 ---
 
 The CIA triad is a security model designed to protect (digital) information.

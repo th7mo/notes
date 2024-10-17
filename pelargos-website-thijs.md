@@ -3,6 +3,8 @@ title: "Pelargos Website Voor Thijs"
 description: "Hofvijver Regatta"
 isPublic: false
 lang: nl
+dateCreated: "23-09-2024"
+dateLastModified: "14-10-2024"
 ---
 
 ## Huidige situatie

@@ -2,6 +2,8 @@
 title: "Burning ISO"
 description: "Burning an ISO image to a USB drive on Linux"
 isPublic: true
+dateCreated: "17-03-2024"
+dateLastModified: "16-10-2024"
 ---
 
 The command-line utility `dd` for Linux can be used to burn an ISO image to a

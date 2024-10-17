@@ -2,6 +2,8 @@
 title: "Oh My Zsh"
 description: "A framework for managing Zsh configuration"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "19-09-2024"
 ---
 
 A popular framework for managing [Zsh](zsh) configuration is

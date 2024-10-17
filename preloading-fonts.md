@@ -2,6 +2,8 @@
 title: "Preloading Fonts"
 description: "Avoid layout shifts by prioritizing font loading"
 isPublic: true
+dateCreated: "07-10-2024"
+dateLastModified: "16-10-2024"
 ---
 
 When using custom web fonts, layout shifts are a common issue. This occurs

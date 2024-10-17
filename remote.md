@@ -2,6 +2,8 @@
 title: "Remote"
 description: "A cloud solution for storing Git repositories"
 isPublic: true
+dateCreated: "29-07-2024"
+dateLastModified: "22-09-2024"
 ---
 
 A [Git](git) remote is a place where a Git repository can be stored/hosted. The

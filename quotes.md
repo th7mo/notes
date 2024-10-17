@@ -2,6 +2,8 @@
 title: "Quotes"
 description: "A random collection of quotes I like"
 isPublic: true
+dateCreated: "25-09-2024"
+dateLastModified: "05-10-2024"
 ---
 
 > "Discipline reveals the commitment you have to your dreams"

@@ -2,6 +2,8 @@
 title: "Workout"
 description: "Tracking some of my progress"
 isPublic: false
+dateCreated: "15-08-2024"
+dateLastModified: "15-08-2024"
 ---
 
 ## 15 aug, 2024 - Chest & Biceps

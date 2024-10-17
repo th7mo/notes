@@ -2,6 +2,8 @@
 title: "Commit"
 description: "A snapshot of the repository's currently staged changes"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 A commit is a snapshot of a [Git](git) repository. Commits should be short,

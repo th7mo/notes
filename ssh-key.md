@@ -2,6 +2,8 @@
 title: "SSH Key"
 description: "Managing authentication with SSH keys"
 isPublic: true
+dateCreated: "09-02-2024"
+dateLastModified: "16-10-2024"
 ---
 
 The Secure Shell Protocol (SSH) is used for securely accessing and managing

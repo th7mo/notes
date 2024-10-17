@@ -2,6 +2,8 @@
 title: "Linux Workflow"
 description: "A stable Linux workflow stack"
 isPublic: false
+dateCreated: "07-02-2024"
+dateLastModified: "14-10-2024"
 ---
 
 This note describes a solid Linux workflow stack, using reliable, stable and

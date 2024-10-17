@@ -2,6 +2,8 @@
 title: "Localhost Apps On Phone"
 description: "View localhost web apps on your phone"
 isPublic: true
+dateCreated: "18-09-2024"
+dateLastModified: "16-10-2024"
 ---
 
 If both your computer and phone are connected to the same Wi-Fi network, you

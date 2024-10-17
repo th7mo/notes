@@ -2,6 +2,8 @@
 title: "Gitconfig"
 description: "Git's solution for storing user configuration"
 isPublic: true
+dateCreated: "07-02-2024"
+dateLastModified: "22-06-2024"
 ---
 
 [Git](git) is configured with `.gitconfig` files. The main configuration file is
