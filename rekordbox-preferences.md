@@ -42,7 +42,7 @@ dateLastModified: "17-10-2024"
 
 | Setting        | Value                       |
 |----------------|-----------------------------|
-|Audio           | `<name-of-your-controller>` |
+|Audio           | *name of your controller*   |
 | Sample Rate    | 48000 Hz                    |
 | Buffer size    | 256 samples (5.3ms)         |
 | Volume         | Middle                      |
@@ -55,9 +55,9 @@ dateLastModified: "17-10-2024"
 | Setting                                       | Value                              |
 |-----------------------------------------------|------------------------------------|
 | Track Analysis Mode                           | Normal                             |
-| Track Analysis Setting                        | `[BPM / GRID, KEY, Phrase, Vocal]` |
+| Track Analysis Setting                        | [BPM / GRID, KEY, Phrase, Vocal]   |
 | Auto Analysis                                 | Enable                             |
-| Key Analysis > Write the value to the ID3 tag | [x]                                |
+| Key Analysis > Write the value to the ID3 tag | `[YES`]`                           |
 | Analysis Process                              | Performance                        |
 
 ### CUE Analysis
@@ -65,7 +65,7 @@ dateLastModified: "17-10-2024"
 | Setting     | Value              |
 |-------------|--------------------|
 | CUE Type    | HOT CUE            |
-| CUE Setting | [x] Set to 1.1Bars |
+| CUE Setting | Set to 1.1Bars     |
 
 ## Controller
 
