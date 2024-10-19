@@ -42,6 +42,12 @@ dateLastModified: "19-10-2024"
 
 * Michel de Hey
 
+24-08-2024, Neighbours at the Beach, Noordwijk (Koningin Astrid Boulevard, afrit 5)
+
+* Mr. Belt & Wezol
+
+31-08-2024, LIV Amsterdam, IJland
+
 05-10-2024, Cynthia Spiering 24h, Thuishaven
 
 * Cynthia Spiering
