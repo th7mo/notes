@@ -15,6 +15,9 @@ dateLastModified: "19-10-2024"
 24-02-2024, Winter Garden, Hoofddorp
 
 * Eelke Kleijn
+* Chris Avantgarde
+* Cynthia Spiering
+* Luuk van Dijk
 
 19-05-2024, Awakenings Upclose, Spaarnwoude-Park 
 
