@@ -56,3 +56,14 @@ sudo nixos-rebuild switch
 
 After running this command the system is updated and the new configuration
 settings are set (this includes installing new packages).
+
+## Cleaning up older versions
+
+Every time the system gets rebuilt, a new version gets added to the bootloader.
+This storage can accumulate over time. To remove old versions run the command:
+
+```sh
+sudo nix-collect-garbage --delete-older-than <time>
+```
+
+* `<time>` must be replaced with an actual time like `15d`.
