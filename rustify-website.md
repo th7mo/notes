@@ -26,3 +26,18 @@ is going to work and which requirements it has.
 * Allow for interactivity. I might want to implement a sub-program for managing
   my [track collection](track-collection) which needs interactivity to function.
 * Every component needs to do only one thing, and it needs to do it well. 
+
+### Links
+
+* Links that go to an external website need an external link icon or arrow
+  Unicode character behind the link name.
+* Links that go to an external website need to open in a new browser tab
+  (`target="_blank"`).
+* Footnote links need to be enclosed by [ square brackets ].
+* Links to pages that do not exist (yet) need to be removed and replaced by
+  regular text.
+* Links to pages that do not exist (yet) need to be logged at info level.
+* Links need to be bold.
+* Links can't have anything but plain text inside them (no `<code>`, `<kbd>`,
+  `<b>`, `<strong>`, `<i>`, `<em>` elements).
+* Links inside a `<p>` tag need a text-decoration of `underline`.
