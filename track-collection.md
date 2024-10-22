@@ -3,7 +3,7 @@ title: "Track Collection"
 description: "How I want to preserve my track collection with platform independence"
 isPublic: true
 dateCreated: "12-10-2024"
-dateLastModified: "16-10-2024"
+dateLastModified: "22-10-2024"
 ---
 
 I am not satisfied with my fragmented music library. I (think I) want a
@@ -11,6 +11,8 @@ text-based solution that stores the information about my music library. This
 track collection would be the Single Version of the Truth (SVOT). This
 text-based solution would also be a [Git](git) repository to keep track of
 changes.
+
+## Format
 
 ```yaml
 Album:
@@ -22,6 +24,7 @@ Track:
     title: string
     artists: string[]
     tags: string[]
+    additional-note?: string
 ```
 
 Example:
@@ -35,21 +38,40 @@ Example:
         {
             "title": "Pumpin'",
             "artists": ["Across Boundaries", "Chris Stussy", "Locklead"],
-            "tags": ["tech-house", "electronic"]
+            "tags": ["tech-house", "electronic", "closer"],
+            "additional-note": "This track has some very high pitched noises at the end"
         }
     ]
 }
 ```
 
+## Consumers
+
+This track collection needs to work with different applications:
+
+**Nicotine+**: I need to be able to select a track and get a formatted string
+to paste in the Nicotine+ search bar. The format is
+`<Track.artists[0]> <Track.title>`. This will probably not work all the time
+since the first artist on a track is not always the one listed in Nicotine+.
+
+**Spotify**: My main streaming platform is Spotify, and I think it is not going
+to change anytime soon. This is because I switched a lot in the past, and came
+back to Spotify because most people use it. It is a better platform to share
+playlists with others and find new music through other peoples playlists. The
+playlist part needs to sync with Spotify so when I update the track collection
+the Spotify playlist reflects those new changes.
+
+**th7mo.com**: The website is going to implement a view for the track
+collection. I need a fuzzy finding implementation and a flexible way to view all
+tracks.
+
+**Unknown**: For [DJ'ing](gigs) I have local audio files (`.wav`, `.flac`,
+`.aiff`, `.mp3`). These audio files need to have the correct metadata (in 
+[rekordbox](rekordbox)). This program needs to write the correct metadata to
+those local audio files.
+
 ## Things to work out
 
-* Which applications are consumers of this track collection?
-    * [Spotify](https://www.spotify.com)?
-    * [th7mo.com](https://th7mo.com)?
-    * A program that will automatically compose a search string?
-      (`<Track.title> - <Track.artists[0]>`)?
-    * A program that will write metadata to my audio files
-      (`.wav`, `.flac`, etc.)?
 * Do I even need a primary key?
     * If I do, would it be a UUID or a combination of `Track.title` and
       `Track.artists` (or even a combination of a UUID and the `Track.title`
