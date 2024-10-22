@@ -3,7 +3,7 @@ title: "Parking Spots"
 description: "Good places to park"
 isPublic: false
 dateCreated: "04-10-2024"
-dateLastModified: "14-10-2024"
+dateLastModified: "22-10-2024"
 ---
 
 * After 21:00 it is free to park at
