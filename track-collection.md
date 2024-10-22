@@ -91,3 +91,4 @@ those local audio files.
       `Album.title` be equal to `Track.title`?
     * What would the workflow look like if a track that was previously
       unreleased but already stored becomes released?
+* Is this a good place to store [transitions](transitions) between tracks?
