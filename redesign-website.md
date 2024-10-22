@@ -1,13 +1,13 @@
 ---
-title: "Rustify Website"
-description: "Rewriting th7mo.com in Rust"
+title: "Redesign Website"
+description: "Rethink how I want to store my digital life"
 isPublic: true
 dateCreated: "19-10-2024"
 dateLastModified: "22-10-2024"
 ---
 
-The Rust program needs to be a wiki engine. This note explains how the engine
-is going to work and which requirements it has.
+The program needs to be a wiki engine. This note explains how the engine is
+going to work and which requirements it has.
 
 ## Why
 
@@ -15,7 +15,6 @@ is going to work and which requirements it has.
   something creative and unique. 
 * More flexibility and control over the generating and validating process.
 * No dependencies. *"This code sucks but at least it's mine"*.
-* Practice with Rust.
 
 ## Requirements
 
