@@ -3,7 +3,7 @@ title: "Rustify Website"
 description: "Rewriting th7mo.com in Rust"
 isPublic: true
 dateCreated: "19-10-2024"
-dateLastModified: "19-10-2024"
+dateLastModified: "22-10-2024"
 ---
 
 The Rust program needs to be a wiki engine. This note explains how the engine
@@ -26,6 +26,20 @@ is going to work and which requirements it has.
 * Allow for interactivity. I might want to implement a sub-program for managing
   my [track collection](track-collection) which needs interactivity to function.
 * Every component needs to do only one thing, and it needs to do it well. 
+
+### Front matter
+
+I am not sure whether I want to use Markdown files or front matter, but if I do,
+these are the requirements for front matter:
+
+* Every file must have the following attributes:
+  [`title`, `description`, `isPublic`, `dateCreated`, `dateLastModified`].
+* The attribute `title` and `description` must not end with a period.
+* Every word in the `title` attribute should be capitalized.
+* The `dateCreated` and `dateLastModified` should be in the same format.
+* The `dateLastModified` should only be updated when *visible* text is modified
+  (formatting, indenting or stuff in the front matter do not count as visibile
+  text changes).
 
 ### Links
 
