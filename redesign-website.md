@@ -7,7 +7,10 @@ dateLastModified: "22-10-2024"
 ---
 
 The program needs to be a wiki engine. This note explains how the engine is
-going to work and which requirements it has.
+going to work and which requirements it has. It might not even be a wiki engine,
+but an entire ecosystem to manage my digital life. This note will collect all
+the requirements, and might split those requirements into distinct programs/
+utilities that work together like the Unix tool set.
 
 ## Why
 
@@ -37,7 +40,7 @@ these are the requirements for front matter:
 * Every word in the `title` attribute should be capitalized.
 * The `dateCreated` and `dateLastModified` should be in the same format.
 * The `dateLastModified` should only be updated when *visible* text is modified
-  (formatting, indenting or stuff in the front matter do not count as visibile
+  (formatting, indenting or stuff in the front matter do not count as visible
   text changes).
 
 ### Links
