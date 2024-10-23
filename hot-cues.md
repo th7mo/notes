@@ -16,9 +16,9 @@ dateLastModified: "23-10-2024"
 * H: Bass of track should be off     (aligns with Hot Cue G)
 
 This order is chosen because older DJ equipment only has three Hot Cue buttons,
-and here Hot Cue A, B and C are the most important ones.
+and with this convention Hot Cue A, B and C are the most important.
 
-A typical [track transition](transitions) looks like this:
+With this convention a [track transition](transitions) looks like this:
 
 ```cs
 Track 1: <---E-------F---C---H---D--------
