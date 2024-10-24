@@ -105,17 +105,28 @@ An unordered list of track transitions that sound good:
 
 <!-- -->
 
-1. Bad City - Julian Fijma
-2. Twilight On The Terrace - Sam Curran
-3. Space Jam (Jay Pryor Remix) - Quad City DJ's, Jay Pryor
-4. MERTHER - Mau P
+1.  FUTUR - RUZE
+2.  Everybody - Franky Rizardo, Motion Sky
+3.  Whatchagonnado - Franky Rizardo
+4.  Set Me Free - Nic Fanciulli, Robert Courtois
+5.  Blue Berries - Sem Jacobs, Tagmann
+6.  SAME MAN - Stef Davidse
+7.  Bad City - Julian Fijma
+8.  Twilight On The Terrace - Sam Curran
+9.  Space Jam (Jay Pryor Remix) - Quad City DJ's, Jay Pryor
+10. MERTHER - Mau P
+11. LET'S GO - Jaden Bojsen, Sami Brielle
+12. I Just Can't Get Enough 2024 - Herd & Fitz, Hannah Wants, Abigail Bailey
+13. She's Gone, Dance On - Disclosure
 
 ## Euro Trance
 
-1. iluv - Effy, Mall Grab
-2. Ray Of Solar - Swedish House Mafia
-3. You & Me - Goldband
-4. Ik Haat Hem Voor Jou (LAMMER Remix) - Froukje, S10, LAMMER
+1. She's Gone, Dance On - Disclosure
+2. iluv - Effy, Mall Grab
+3. iluv - Effy, Mall Grab
+4. Ray Of Solar - Swedish House Mafia
+5. You & Me - Goldband
+6. Ik Haat Hem Voor Jou (LAMMER Remix) - Froukje, S10, LAMMER
 
 ## Techno
 
