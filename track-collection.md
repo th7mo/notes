@@ -3,7 +3,7 @@ title: "Track Collection"
 description: "How I want to preserve my track collection with platform independence"
 isPublic: true
 dateCreated: "12-10-2024"
-dateLastModified: "22-10-2024"
+dateLastModified: "27-10-2024"
 ---
 
 I am not satisfied with my fragmented music library. I (think I) want a
@@ -23,8 +23,10 @@ Album:
 Track:
     title: string
     artists: string[]
+    bpm: number
+    key: string
     tags: string[]
-    additional-note?: string
+    additional-notes?: string[]
 ```
 
 Example:
@@ -38,8 +40,10 @@ Example:
         {
             "title": "Pumpin'",
             "artists": ["Across Boundaries", "Chris Stussy", "Locklead"],
-            "tags": ["tech-house", "electronic", "closer"],
-            "additional-note": "This track has some very high pitched noises at the end"
+            "bpm": 133,
+            "key": "4A",
+            "tags": ["tech-house", "electronic", "opener"],
+            "additional-notes": ["High pitched noises at the end", "Mix in early"]
         }
     ]
 }
