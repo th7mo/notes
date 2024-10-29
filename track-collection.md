@@ -36,16 +36,14 @@ Example:
     "title": "Synergy",
     "type": "EP",
     "record-label": "Up The Stuss",
-    "tracks": [
-        {
-            "title": "Pumpin'",
-            "artists": ["Across Boundaries", "Chris Stussy", "Locklead"],
-            "bpm": 133,
-            "key": "4A",
-            "tags": ["tech-house", "electronic", "opener"],
-            "additional-notes": ["High pitched noises at the end", "Mix in early"]
-        }
-    ]
+    "tracks": [{
+        "title": "Pumpin'",
+        "artists": ["Across Boundaries", "Chris Stussy", "Locklead"],
+        "bpm": 133,
+        "key": "4A",
+        "tags": ["tech-house", "electronic", "opener"],
+        "additional-notes": ["High pitched noises at the end", "Mix in early"]
+    }]
 }
 ```
 
