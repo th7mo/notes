@@ -133,10 +133,9 @@ An unordered list of track transitions that sound good:
 
 1. She's Gone, Dance On - Disclosure
 2. iluv - Effy, Mall Grab
-3. iluv - Effy, Mall Grab
-4. Ray Of Solar - Swedish House Mafia
-5. You & Me - Goldband
-6. Ik Haat Hem Voor Jou (LAMMER Remix) - Froukje, S10, LAMMER
+3. Ray Of Solar - Swedish House Mafia
+4. You & Me - Goldband
+5. Ik Haat Hem Voor Jou (LAMMER Remix) - Froukje, S10, LAMMER
 
 ## Techno
 
