@@ -50,6 +50,11 @@ An unordered list of track transitions that sound good:
 
 <!-- -->
 
+1. New Past - II Faces
+2. I Want You - Butch, Nic Fanciulli
+
+<!-- -->
+
 1. FUTUR - RUZE
 2. Tell Me Somethin' - Nas Elmes, Toomas
 
