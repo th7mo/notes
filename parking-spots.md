@@ -1,7 +1,7 @@
 ---
 title: "Parking Spots"
 description: "Good places to park"
-isPublic: false
+isPublic: true
 dateCreated: "04-10-2024"
 dateLastModified: "22-10-2024"
 ---
