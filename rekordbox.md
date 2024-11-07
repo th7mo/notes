@@ -3,7 +3,7 @@ title: "Rekordbox"
 description: "Professional DJ Software for Pioneer DJ equipment"
 isPublic: true
 dateCreated: "17-07-2024"
-dateLastModified: "23-10-2024"
+dateLastModified: "07-11-2024"
 ---
 
 [Rekordbox](https://rekordbox.com) is popular DJ software used by Pioneer DJ
@@ -32,7 +32,7 @@ the 'Cue Grid Info' arrow pointing towards the 'Rekordbox' column.
 Always properly eject the USB drive when finished with exporting to the USB
 drive because the data in the drive might corrupt if abruptly detached. To eject
 the USB drive go to 'Devices' in the file overview on the left bottom and click
-the 'Eject' icon.
+the 'Eject' icon. Alternatively close the Rekordbox program.
 
 ### Device Library (Plus)
 
