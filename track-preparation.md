@@ -1,9 +1,9 @@
 ---
-title: "Hot Cues"
-description: "How I use Memory Cues and Hot Cues while DJ'ing"
+title: "Track Preparation"
+description: "How I prepare my tracks for recording a DJ set."
 isPublic: true
 dateCreated: "23-10-2024"
-dateLastModified: "04-11-2024"
+dateLastModified: "09-11-2024"
 ---
 
 | Cue Point    | Function                                     | Aligns with  |
@@ -17,21 +17,9 @@ dateLastModified: "04-11-2024"
 | Hot Cue A    | Bass of track should be on                   | Hot Cue B    |
 | Hot Cue B    | Bass of track should be off                  | Hot Cue A    |
 
-Memory Cues are chosen because older DJ equipment only has three Hot Cue
-buttons, and with this convention Hot Cue A and B can be used for creative
-purposes, and Hot Cue C can be used to skip a part of the track.
-
-## Skip part of the track
-
-Memory Cue 5 are actually two Memory Cues (5A and 5B) right after each other. In
-the example below is visible that two Memory Cues (`V`) are on bar 1.3 and 1.4.
-Between beat 3 and 4 of the first bar Hot Cue C can be pressed to skip to Hot
-Cue C:
-
-```
-            V   V               C 
-[...|...|...|...|...|...|...|...|...|...|...|...]
-```
+Memory Cues are chosen because older DJ equipment only has three
+[Hot Cue](hot-cue) buttons, and with this convention Hot Cue A and B can be used
+for creative purposes, and Hot Cue C can be used to skip a part of the track.
 
 With this convention a [track transition](transitions) looks like this:
 
@@ -49,3 +37,15 @@ Track 3:                                         ----M1---A---M2------->
 It is possible that two Hot Cues are at the exact same place. In this scenario
 it is sufficient to leave the least important one out (Hot Cue A, B and C have
 priority over the other Hot Cues).
+
+## Skip part of the track
+
+Memory Cue 5 are actually two Memory Cues (5A and 5B) right after each other. In
+the example below is visible that two Memory Cues (`V`) are on bar 1.3 and 1.4.
+Between beat 3 and 4 of the first bar Hot Cue C can be pressed to skip to Hot
+Cue C:
+
+```
+            V   V               C 
+[...|...|...|...|...|...|...|...|...|...|...|...]
+```
