@@ -26,7 +26,7 @@ desired USB drive. If it is the first time export mode is being used, check the
 'Synchronize Playlists With a Device' checkbox in the right top of the popup
 dialog.
 
-To sync changes made with the DJ equipment (like new [Hot Cues](hot-cues)) click
+To sync changes made with the DJ equipment (like new [Hot Cues](hot-cue)) click
 the 'Cue Grid Info' arrow pointing towards the 'Rekordbox' column.
 
 Always properly eject the USB drive when finished with exporting to the USB
