@@ -3,7 +3,7 @@ title: "Helix"
 description: "A post-modern modal text editor"
 isPublic: true
 dateCreated: "07-02-2024"
-dateLastModified: "16-10-2024"
+dateLastModified: "18-11-2024"
 ---
 
 Helix is a text editor run in the terminal. Helix also works in the [TTY](tty).
@@ -27,13 +27,13 @@ First move the Helix image to a directory inside the
 [$PATH variable](path-variable):
 
 ```sh
-mv helix-*.AppImage /usr/local/bin/hx
+sudo mv helix-*.AppImage /usr/local/bin/hx
 ```
 
 Then change it to an executable using `chmod`:
 
 ```sh
-chmod +x hx
+sudo chmod +x /usr/local/bin/hx
 ```
 
 Helix can be run now with the `hx` command if the `/usr/local/bin/` directory is
