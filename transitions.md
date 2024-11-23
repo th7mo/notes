@@ -59,6 +59,10 @@ An unordered list of track transitions that sound good:
 2. No Feelings - Max Dean
 
 <!-- -->
+1. Needle On The Record - Riordan
+2. What Have You Done For Me Lately (Blaqq & Why'd Edit) - Janet Jackson, Blaqq & Why'd
+
+<!-- -->
 
 1. FUTUR - RUZE
 2. Tell Me Somethin' - Nas Elmes, Toomas
