@@ -59,8 +59,14 @@ An unordered list of track transitions that sound good:
 2. No Feelings - Max Dean
 
 <!-- -->
+
 1. Needle On The Record - Riordan
 2. What Have You Done For Me Lately (Blaqq & Why'd Edit) - Janet Jackson, Blaqq & Why'd
+
+<!-- -->
+
+1. Uncontrol - Kieran Morgan
+2. Dance Master - Candidate
 
 <!-- -->
 
@@ -69,9 +75,10 @@ An unordered list of track transitions that sound good:
 
 <!-- -->
 
-<!-- -->
 1. God Made Me Phunky - The Md X-Spress
 2. Sex & The City (MK Extended Remix) - HoneyLuv, MK
+
+<!-- -->
 
 1. Don't Mind Ya Weight - ANOTR
 2. Summer In The Studio - ANOTR
